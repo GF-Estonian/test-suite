@@ -1,0 +1,2796 @@
+10 kg of laundry are on the table.
+10 kg of laundry is on the table.
+1234 is a code.
+123man man123 123man123 man123man
+14 is 15.
+1 gives 2 3.
+1 gives 2 a man.
+1 gives a man 3.
+1 gives John a man.
+1 is 2.3 is 4.
+1 is not 0.5. 1 is bigger.
+1 is not 0.5.1 is bigger.
+1 is smaller than 2.
+1 kg of apples exist.
+1 kg of apples exists.
+1 kg of apples wait.
+1 kg of laundry wait.
+1 kg of laundry waits.
+1 man waits.
+1 men wait.
+2 girls lift 2 tables.
+2 girls lift each of 2 tables.
+2 kg of apples exist.
+2 kg of apples exists.
+2 kg of apples of John wait.
+2 kg of laundry wait.
+2 kg of laundry waits.
+2 kg of some apples wait.
+2 kg of sugar are used by John for what?
+2 kg of water runs. The water is cold.
+2l of warm water flows. 2l of cold water flows. The warm water boils.
+2l of water of John runs.
+2l of water of John runs. 2l of water of Mary flows. The water of John is clean.
+2l of water runs. It is clean.
+2l of water that every man drinks runs.
+2 men are seen by 2 dogs.
+2 men John and John eat.
+2 men ManGroup drink. ManGroup talks. It eats.
+2 men ManGroup drink. ManGroup talks. They eat.
+2 men ManGroup drink. ManGroup talk. They eat.
+2 men ManGroup drink. They eat.
+2 men sees their own card.
+2 men see their own card.
+2 men see themselves.
+2 men wait.
+2 men waits.
+2 wait.
+3.141592653611111 approximates Pi.
+3.1415926536 approximates Pi.
+3.14 is a ratio of a circumference of a circle to its diameter.
+3.14 is a real.
+3.14 is real.
+3 kg of apples are heavy.
+3 kg of apples is heavy.
+5 men are seen by everybody.
+5 rich men wait.
+A ball in a park hits John.
+A ball is blue.
+A ball of a girl is blue. John sees the ball of the girl. Mary sees a ball of the girl.
+A ball where hits John?
+A bank in which a man enters a code is open.
+A bank which a man enters is good.
+A best car wins.
+A big hungry dog barks.
+A book is given to Mary by John.
+A book is not quickly written by a man.
+A book is not written by a man.
+A book is quickly written by a man.
+A book is sent to some men by John.
+A book is written by a man.
+A book written by a man.
+A book written by a man quickly.
+A card a code of who a man enters is valid.
+A card is manually taken by John.
+A card is not valid.
+A card is taken by John manually.
+A card is taken manually by John.
+A card is valid.
+A card is valid carefully.
+A card is valid carefully in a slot.
+A card is valid in a slot.
+A card is valid in a slot carefully.
+A card is valid in a slot in a bank.
+A card manually is taken by John.
+A card of a man a card of who is valid is valid.
+A card of a man sees him.
+A card of a man the card of who is valid is valid.
+A card of a man which is valid is green.
+A card of somebody is valid.
+A card of somebody is valid. A card of who is valid?
+A card of which man is valid?
+A card of which man the card of who is valid is valid?
+A card of which man whose card is valid is valid?
+A card of who is valid?
+A card that a man enters is valid.
+A card that is tired sleeps.
+A card the code of which a man enters is valid.
+A card which is tired sleeps.
+A card who is tired sleeps.
+A car runs more speedily.
+A car runs more speedily than a bike.
+A cat is feared by every mouse.
+A cat is not hated by a dog.
+A cat is not hated by John.
+A child Id1 of a child Id2 of a man Adam waits.
+A child of who is a patricide whose child is somebody who is not a patricide?
+A clerk enters a card of every customer.
+A clerk enters a card of every customer. The card of every customer is valid.
+A clerk enters a card of him.
+A clerk enters a card of himself.
+A clerk enters every card of him.
+A clerk enters every card of himself.
+A clerk enters the card of himself.
+A clerk rejects a card or accepts it.
+A code is 1234.
+A code of a card of who is valid?
+A contract of a customer and a clerk are green.
+A contract of a customer and a clerk is green.
+A customer can enter what?
+A customer does not enter a card. The card is correct.
+A customer does not insert a card.
+A customer enters a card and a code. If a code is valid then SimpleMat accepts a card. If a code is not valid then SimpleMat rejects a card.
+A customer enters a card and a code. If it is valid then SimpleMat accepts the card. If it is not valid then SimpleMat rejects the card.
+A customer enters a card of himself.
+A customer enters a card or drops it. He is angry.
+A customer enters a card or he drops it. He is angry.
+A customer enters a card or he drops it. The customer is angry.
+A customer enters a red card and a blue card. The card is correct.
+A customer enters a red card and a blue card. The red card is correct.
+A customer enters every card and enters every code.
+A customer gives a card to a clerk.
+A customer gives a clerk a card.
+A customer inserts 2 cards.
+A customer inserts a card.
+A customer inserts a card and enters a code.
+A customer inserts a card and the machine checks the code.
+A customer inserts a card carefully or manually.
+A customer inserts a card or enters a code.
+A customer inserts a card that is valid and opens an account.
+A customer inserts a card that is valid and that opens an account.
+A customer inserts some cards into a slot.
+A customer inserts some cards manually.
+A customer is.
+A customer is manually.
+A customer is richer than Mary and taller than no dog.
+A customer manually inserts some cards.
+A customer of a man who is rich waits.
+A customer of John who is rich waits.
+A customer waits patiently.
+A customer who is new inserts a card that he owns.
+A customer who manually in a bank enters a card types a code.
+A database lists for every book its title.
+A doctor waits. He is happy.She is tired.
+A doctor waits. She is tired. He is happy.
+A dog barks. It is not the case that everybody waits.
+A dog barks. Not everybody waits.
+A dog barks. Not every man waits.
+A dog does not bark or a cat does not sleep.
+A dog does not eat something that is a mouse.
+A dog eats nothing that is a mouse.
+A dog is better than a cat.
+a dog is good.
+A dog is good and bad.
+A dog is more active than a cat.
+A dog is more good than a cat.
+A dog is not a cat.
+A dog Muri of a man is happy. A dog of a woman is sad. Muri barks.
+A dog Muri of a man is happy. A dog of a woman is sad. The dog Muri barks.
+A dog of a boy barks. The boy waits.
+A dog of a man and a woman barks.
+A dog of a man and of a woman waits.
+A dog of a man barks.
+A dog of a man eats. A dog of a woman drinks. The dog of a man waits.
+A dog of a man eats. A dog of a woman drinks. The dog of the man waits.
+A dog of a man is happy. A dog of a woman is sad. The dog barks.
+A dog of a man is happy. A dog of a woman is sad. The dog of a man barks.
+A dog of a man is happy. A dog of a woman is sad. The dog of the man barks.
+A dog of a man of a house barks.
+A dog of a man whose dog barks barks.
+A dog of a woman walks. A dog of a boy barks. The dog of the boy is happy.
+A dog of every man waits.
+A dog of every man who waits barks.
+A dog of its man barks.
+A dog of its own man barks.
+A dog of somebody barks.
+A dog of somebody barks. He waits.
+A dog of somebody barks. It waits.
+A dog of some men runs.
+A dog of some men who run barks.
+A dog of some men who runs barks.
+A dog of the man barks.
+A dog of which man who waits barks?
+A dog of who eats a bone?
+A dog of who sleeps?
+A dog of who waits?
+A dog sees a man and a cat sees it and him.
+A dog sees each of some men.
+A dog sees nobody.
+A dog sees nobody that waits.
+A dog sees no man that waits.
+A dog that a man sees in a park barks.
+A dog that a man sees quickly barks.
+A dog that every man who waits has barks.
+A dog which runs barks.
+A dog who run barks.
+A dog who runs barks.
+A dummy Dummy dummy a dummy.
+a flat mate runs.
+A girl of a boy waits. The girl eats.
+A girl sees every man whose dog waits.
+A girl whose cat a mouse of which smiles eats waits.
+A girl whose cat a mouse of who smiles eats waits.
+A girl whose cat whose mouse smiles eats sees a dog.
+A girl whose mouse smiles sees a dog.
+A laundry of John collapses.
+A laundry of John is clean.
+A laundry sees its own dog.
+A laundry washes some laundry. It is clean. Some water sees a water. It is cold.
+All dogs bark.
+All laundries are wet.
+All laundries is wet.
+All laundry are wet.
+All laundry is wet.
+All laundry waits.
+All men meet themselves.
+All men see a dog that likes them.
+All men see himself.
+All men sees himself.
+All men see their own dog.
+All men see themselves.
+All men sleep.
+All men sleep and he is tired.
+All men sleep and they are tired.
+All men sleep. They are tired.
+All money is green.
+All sand needs some water.
+All water runs.
+A machine reads a card that carries its own code.
+A man 3 dogs of who bark waits.
+A man a card of who is valid waits.
+A man a dog of who eats a bone waits.
+A man and a dog wait. He talks.
+A man and a dog wait. It talks.
+A man and a dog wait. They talk.
+A man and he see a cat and it.
+A man and no dog wait.
+A man and the man and he see a cat and the cat and it.
+A man A waits.
+A man believes that he sleeps and that he sleeps.
+A man brings a card its pencil and his own computer.
+A man brings a dog it.
+A man, buy a car!
+A man, buy a dog that is owned by Bill and that likes him!
+A man, buy a dog that is owned by Bill and that likes you!
+A man, buy a dog that likes him!
+A man, buy a dog that likes you!
+A man can be rich.
+A man can give a woman an apple.
+A man can not be rich.
+A man can not give a woman an apple.
+A man can not sleep. A man can sleep. John sees the man who can not sleep.
+A man can not sleep. John sees the man who can not sleep.
+A man can not wait.
+A man cannot wait.
+A man can see a dog in a park.
+A man can see a dog that barks.
+A man can see a dog that barks in a park.
+A man can wait.
+A man carefully and manually waits.
+A man carefully manually waits.
+A man carefully waits.
+A man dances.
+A man does not have to be rich.
+A man does not have to wait.
+A man does not is seen by a dog.
+A man does not know that a dog barks and a cat eats a cake.
+A man does not know that a dog barks and that a cat eats a cake.
+A man does not like a man John.
+A man does not like John. He waits.
+A man does not quickly wait.
+A man does not see everything.
+A man does not sleep or does not wait.
+A man does not wait. A girl sees the man who does not wait.
+a man does not wait in a bank.
+A man does not wait patiently. A girl sees the man who does not wait.
+A man does not wait patiently. A man does not sleep. A girl sees the man who does not wait. A boy expects the man who does not sleep.
+A man does not wait patiently. A man does not sleep. John sees the man who does not wait. Mary expects the man who does not sleep.
+A man does seen by a dog.
+A man eats and he drinks.
+A man eats, and he drinks.
+A man eats and he drinks or he sleeps.
+A man eats how and quickly?
+A man eats how in a park?
+A man eats how in a park in a morning?
+A man eats how quickly?
+A man eats in a park and quickly.
+A man eats in a park how in a morning?
+A man eats in a park in a morning how?
+A man eats in a park quickly.
+A man eats or he drinks.
+A man eats, or he drinks.
+A man eats or he drinks or he sleeps.
+A man eats or the man drinks, and the man waits.
+A man eats quickly and how?
+A man eats quickly and in a park.
+A man eats quickly and quickly.
+A man eats quickly how?
+A man eats quickly in a park.
+A man enters a card manually and waits.
+A man enters a card that carries a code and opens an account.
+A man enters a card which is green or which is red.
+A man enters all laundry.
+A man enters every card in the morning.
+A man enters no card.
+A man enters no card manually.
+a man gives 2 3.
+a man gives 2 John.
+A man gives a bone to a dog and gives a cake to a cat.
+A man gives a bone to a dog manually and carefully.
+A man gives a bone to a dog manually carefully.
+A man gives a boy his own card.
+a man gives a card to him.
+a man gives a card to his dog.
+A man gives a cat. The cat gives a bone to a dog.
+A man gives a cat to a dog. The cat gives a bone.
+A man gives a cat which gives a bone to a dog.
+A man gives a dog a bone and gives a cat a cake.
+a man gives a dog a card in him.
+a man gives a dog a card in his house.
+a man gives a dog him.
+a man gives a dog his card.
+A man gives at least 3 apples to John.
+a man gives him a card .
+a man gives him a card.
+a man gives him to a dog.
+a man gives his card to a dog.
+a man gives his dog a card.
+A man gives his dog his card in his house.
+a man gives John 3.
+A man gives John at most 3 apples.
+A man has 2 kg of apples.
+A man has 2 kg of dirty water.
+A man has 2 kg of green apples.
+A man has 2 kg of laundries.
+A man has 2 kg of laundry.
+A man has 2 mol of apples.
+A man has 2 t of apples.
+A man has 2 ton of apples.
+A man has 2 tons of apples.
+A man has to wait.
+A man have to wait.
+A man, hit himself!
+a man hits a dog that is smaller than a cat.
+A man hits a dog that runs in a park.
+A man hits a dog the bone of which is green.
+A man hits a dog the bone of who is green.
+A man hits a dog which runs fast.
+A man hits a dog which runs fast in a park.
+A man hits a dog which runs fast in a park quickly.
+A man hits a dog which runs fast quickly.
+A man hits a dog whose bone is green.
+A man hits a green dog that barks.
+A man hits his own dog. He is happy.
+A man hits his own dog. The man is happy.
+A man, hit yourself!
+A man, hit yourselves!
+A man in a morning manually and usually in a bank enters a card.
+A man in a morning manually usually in a bank enters a card.
+A man invites some friends a car of a boss of each of who is fast.
+A man invites some friends the car of the boss of each of who is fast.
+A man invites some friends the car of the boss of each of who is faster than each of the cars of the friends.
+A man is a clerk. His dog barks.
+A man is a clerk. His own dog barks.
+A man is a dog and a cat.
+A man is good and is bad.
+A man is good, and is bad.
+A man is good and is nice or is bad.
+A man is good, and is nice or is bad.
+A man is good or is bad.
+A man is good, or is bad.
+A man is good or is nice or is bad.
+A man is good or is nice, or is bad.
+a man is happy a dog.
+A man is happy. A dog is happy.
+A man is himself.
+A man is in his own garden.
+A man is not a customer. He is happy.
+A man is not no dog.
+A man is red and owns a dog. A man is red and owns a cat. John sees the man who is red and who owns a dog.
+A man is red and owns a dog. A man is red and owns a cat. John sees the red man who owns a dog.
+A man is red. The red man sleeps.
+A man is rich and famous.
+A man is seen by him.
+A man is seen by himself.
+a man is taller than a woman.
+A man is taller than no dog.
+A man John gives an apple to a woman Mary. Mary accepts the apple and eats it. She is happy and he has no apples.
+A man John gives his own wife Mary a big and red apple.
+A man John gives his own wife Mary a unknownword.
+A man John waits.
+A man John waits. John is happy.
+A man John walks.
+A man Kaarel tests an ape.
+A man Kaarel works extremely and fast.
+a man Kaarel works extremely fast.
+a man Kaarel works hard.
+A man knows that a dog barks and a cat eats a cake.
+A man knows that a dog barks and that a cat eats a cake.
+A man likes a boy John.
+A man likes a dog. It barks.
+A man likes Mary. Sue likes the man that likes Mary.
+A man lives in a town.
+A man lives in a town. Where does the man live?
+A man lives in a town. Where does the man live? Who lives in the town?
+A man looks at a card.
+A man Man1 waits.
+A man Man1 waits. Man1 is happy.
+A man Man1 waits. The man Man1 is happy.
+A man manually enters a card.
+A man manually enters a card usually.
+A man manually in a bank enters a card usually in a morning.
+A man manually is happy.
+A man must be rich.
+A man must quickly wait.
+A man must wait.
+A man of his group sleeps.
+A man of his group waits.
+A man of some water waits.
+A man of the man waits.
+A man owns a dog. A girl sees the man who owns a dog. The dog barks.
+A man owns a dog. A man owns a cat. A girl sees the man who owns a dog.
+A man owns a dog. A man owns a cat. John sees the man who owns a dog.
+A man owns a dog. John sees the man who owns a dog.
+A man owns a dog. John sees the man who owns a dog. The dog barks.
+A man owns a dog. John sees the man who owns the dog. The dog barks.
+A man owns not at least 2 cars.
+A man owns not at most 2 cars.
+A man owns not more than 2 cars.
+A man owns not two cars.
+A man quickly hits a dog which runs fast.
+A man runs almost.
+A man runs and walks or sleeps.
+A man runs easily.
+A man runs fast.
+A man runs fast and quickly.
+A man runs fast and quickly and manually.
+A man runs fast and quickly in a park.
+A man runs fast in a morning in a hurry.
+A man runs fast in a park.
+A man runs fast in a park manually.
+A man runs in a park.
+A man runs in a park fast and manually.
+A man runs in a park fast in a hurry.
+A man runs in a park in a morning.
+A man runs in a park in a morning fast.
+A man runs in a park in a morning in a hurry.
+A man runs in the park manually and quickly.
+A man runs manually and quickly manually and quickly.
+A man runs there.
+A man runs. There is the man.
+A man seen by a dog.
+A man sees a boy and every girl.
+A man sees a boy and the girl.
+a man sees a brother of him.
+a man sees a card in him.
+A man sees a card in his hand.
+a man sees a card in his house.
+A man sees a card of him.
+A man sees a cat and a dog and a mouse.
+A man sees a dog and a cat.
+A man sees a dog and a man.
+A man sees a dog and everybody.
+A man sees a dog and himself.
+A man sees a dog and somebody.
+A man sees a dog and the cat.
+A man sees a dog and the dog.
+A man sees a dog that barks.
+A man sees a mat on which a cat sits.
+A man sees a mat on which every cat sits.
+A man sees a woman. Mary knows the man that sees a woman.
+A man sees a woman. Mary knows the man that sees the woman.
+A man sees a woman. Mary knows the woman that a man sees.
+A man sees a woman. Mary knows the woman that the man sees.
+A man sees everybody.
+A man sees everybody and a dog.
+A man sees everybody and him.
+A man sees everybody. He eats.
+A man sees everybody who eat.
+A man sees everybody who eats.
+A man sees every boy and a girl.
+A man sees every dog.
+a man sees Every dog and If There is A dog then The dog Is An animal.
+A man sees every mat on which a cat sits.
+a man sees him.
+A man sees himself.
+A man sees himself and a dog.
+A man sees himself. A woman enters her own card. A man is in his own garden.
+A man sees himself who eats.
+a man sees his card .
+a man sees his card.
+A man sees his own dog and his own cat.
+A man sees no dog.
+A man sees not every dog.
+A man sees not everything.
+A man sees somebody and a dog.
+A man, sell his own car!
+A man, sell your own car!
+A man should wait and can swim and must drink.
+A man silently and patiently walks quickly and fast in a street manually and happily in a morning always.
+A man sleeps in a bed in a bed.
+A man sleeps in a bed in the bed.
+A man sleeps in the morning and in the morning.
+A man sleeps in the morning in the morning.
+A man slooowly walks.
+A man spends his own vacation in a warm country. Where does he spend the vacation?
+A man talks about a day.
+A man talks during a day.
+A man that eats and that drinks is happy.
+A man that eats and that drinks or that talks is happy.
+A man that eats or that drinks and that talks is happy.
+A man that eats or that drinks is happy.
+A man that eats or that drinks or that talks is happy.
+A man that enters a card waits.
+A man that is tired sleeps.
+A man that sees a boy that waits hears himself.
+A man that waits, buy a car!
+A man the card of who is valid or the card of who is green waits.
+A man the card of who is valid or who is green and that is happy waits.
+A man the card of who is valid or who is green and who is happy waits.
+A man the card of who is valid or who is green waits.
+A man the card of who is valid waits.
+A man usually in a morning is rich fast.
+A man usually is fast in a park.
+A man usually is in a park.
+A man usually is in a park fast.
+A man usually is rich.
+A man usually is rich fast.
+A man very is happy.
+A man wait.
+a man waits.
+A man waits. A man wait.
+A man waits at a desk in a bank.
+A man waits carefully and manually.
+A man waits carefully manually.
+A man waits. He is happy.
+A man waits. His dog barks.
+A man waits. His own dog barks.
+A man waits in a bank.
+A man waits in a bank quickly.
+A man waits in a bank which likes him.
+A man waits in a bank which likes himself.
+A man waits in a bank which likes itself.
+A man waits in a bank with John.
+A man waits in a room in a bank.
+A man waits in every bank.
+A man waits in every bank in every morning.
+a man waits in him.
+a man waits in his house.
+A man waits. It is happy.
+A man waits. John sees the man who sleeps or who waits.
+A man waits not.
+A man waits only.
+A man waits or sleeps. John sees the man who sleeps.
+A man waits or sleeps. John sees the man who sleeps or who waits.
+A man waits quickly in a bank.
+A man waits. The man talks.
+A man waits. The man talks and walks.
+A man waits. The man walks.
+A man walks or a woman sees the man.
+A man walks or a woman sees the man. There is John.
+A man which is tired sleeps.
+A man who a man who a man sees sees sees a man.
+a man who a woman asks for him waits.
+A man who a woman is seen by waits.
+A man who enters a card manually types a code.
+A man who in a park that in a city exists walks waits.
+A man who is a clerk waits. The man who is a customer sleeps.
+A man who is happy and sad waits.
+A man who is happy or who is sad, and the dog of who barks waits.
+A man who is happy or who is sad and who is rich waits.
+A man who is happy or who is sad, and who is rich waits.
+A man who is happy or who is sad waits.
+A man who is John sleeps.
+A man who is John waits. The man who is Bill sleeps.
+A man who is richer than John waits.
+A man who is tired sleeps
+A man who is tired sleeps.
+A man whose 3 dogs bark waits.
+A man whose age is 31 likes a cat.
+A man whose age is 31 likes Mary.
+A man whose age is 31 waits.
+A man whose dog barks waits. The dog of a man eats.
+A man whose dog barks waits. The dog of the man eats.
+A man whose dog barks waits. The man eats.
+A man who sees a dog and who does not see the dog waits.
+A man who sees a dog and who waits.
+A man who sees a dog and who walks.
+A man who sees who waits?
+A man who sees who waits.
+A man who waits walks and eats.
+A man who waits walks and eats and sleeps.
+A man who walks is happy.
+A man who walks is happy. A man who talks is sad. The man waits.
+A man who walks is happy. A man who talks is sad. The man who walks waits.
+A man works in a bank and in a morning.
+A man works in a bank in a morning.
+A man works in a bank manually.
+A man works in a bank manually in a morning.
+A man works in a bank manually quickly.
+A man works manually and quickly in a bank.
+A man works manually in a bank.
+A man works manually in a bank quickly.
+A man works manually quickly in a bank.
+A man writes a book the hero of which waits.
+A man writes a book the text of which is good.
+A mat on which a cat waits is red.
+A message is from someone from who John awaits a delivery usually.
+A message is from someone from who John awaits a delivery usually and manually.
+A message is from someone from who John awaits a delivery usually manually.
+An as important as Mary customer.
+A new customer inserts 2 valid cards.
+A new customer inserts a valid card manually.
+An item is given to who?
+An old and happy customer enters a card and a code.
+A number Pi is a ratio of a circumference of a circle to its diameter.
+A persona non grata enters a zip code.
+A person sees herself.
+A person sees himself.
+A quick and quick man eats.
+A red and red man runs quickly and quickly.
+A red man owns a dog. A red man owns a cat. John sees the red man who owns a dog.
+A red man who can sleep must wait. A red man who can sleep must work. The man who must wait is tired.
+Are there 3 things and 4 things?
+Are there Augusts?
+Are there no men?
+are there some men?
+A screen of what blinks?
+A service is quick usually.
+A set exists in itself.
+A set is a member in itself.
+A set is in a set.
+A set is in itself.
+A small card is green. A big card is red. The small card is valid.
+A syntactic error is in the sentence.
+A table John waits.
+A temperature is 0.
+A text is read John.
+At least 0 man waits.
+At least 0 men wait.
+At least 1 man wait.
+At least 1 man waits.
+At least 1 men wait.
+At least 1 men waits.
+At least 2 men give at least 3 women at least 4 apples.
+At least 2 scores of John are 30.
+At least 3 men and at most 3 men wait. They are tired.
+At least 3 men wait.
+At least 3 men wait. They drink.
+At least 5 men, buy a dog that is owned by Bill and that likes you!
+At least one man waits. At least 2 women sleep.
+At most 0 men wait.
+at most 1 kg of water flows.
+At most 1 man waits.
+At most 1 men wait.
+At most 2 cars are owned by John.
+At most 2 men give at most 3 women at most 4 apples.
+At most 2 men give at most 4 apples to at most 3 women.
+At most 2 men give themselves at most 4 apples.
+At most 2 men give themselves themselves.
+At most 3 men eat or at most 2 men eat.
+At most 3 men eat or drink.
+At most 3 men eat or the men drink.
+At most 3 men own more than 5 cars. At most 5 cars are owned by more than 3 men.
+At most one man waits. At most 2 women sleep.
+Augusts wait.
+A user is seen a clerk.
+a woman carries the woman from who to her?
+A woman checks her card.
+A woman enters her own card.
+A woman sees himself.
+A x1 x2 x3 x4.
+Bill drinks or Mary knows that John eats.
+Bill gives what to who?
+Bill gives what to who where?
+Bill gives which flowers to which women?
+Bill knows that John is his owner.
+Bill knows that John is his own owner.
+Bill lives in which city in which country for which reason?
+Brend is a man.
+Buy a car!
+Can a book be written by a man?
+can a code be entered by a customer?
+Can a man wait?
+can John like Mary?
+Can John run?
+Christmases are white.
+Christmases are white. Some children like them.
+Christmases, help yourselves!
+Christmases like Mary.
+Christmases wait.
+Does a book written by a man?
+does a code have to be entered by someone?
+does a code is entered by a customer?
+Does a customer insert a card?
+Does a man enter every card manually?
+Does a man enter no card manually?
+does a man wait?
+Does John believe that Mary sleeps?
+Does John have to wait?
+does John not have to wait?
+Does John see a man that waits?
+Does John see that a dog barks?
+does not John like Mary?
+do some men wait?
+Each man is happy.
+Each of 2 cards are green.
+Each of 2 girls lifts 2 tables.
+Each of 2 girls lifts each of 2 tables.
+Each of 2 girls lifts herself.
+Each of 2 girls lifts herself and sees a dog.
+Each of 2 girls lifts itself.
+Each of 2 girls lifts them.
+Each of 2 girls lifts themselves.
+Each of 3 men sees each of 2 dogs.
+each of at most 5 men owns each of less than 8 cars.
+Each of Christmases is white.
+Each of every man waits.
+Each of no men talks.
+Each of not at most 5 boys buys a boat.
+each of not at most 5 men owns each of not at most 8 cars.
+Each of some girls lifts her own table.
+Each of some men a dog of who barks waits.
+Each of some men does not talk.
+Each of some men sees every dog.
+Each of some men sees himself.
+Each of some men talks. The men walk.
+Each of some men talks. They walk.
+Each of some men waits.
+Each of some men who eat waits.
+Each of some men who own a dog owns a dog.
+Each of some men who own the dog Muri owns Muri.
+Each of some men who own the dog owns the dog.
+Each of some men whose dog barks waits.
+Each of some men who see themselves sees himself.
+Each of some men who see themselves waits.
+Every age of a man is an integer.
+Every airline buys 2 aircraft.
+Everybody a dog of who barks waits.
+Everybody A sees A who waits.
+Everybody blames somebody and nobody works.
+Everybody can see something.
+Everybody does not know a dog that is liked by a cat.
+Everybody does not know a dog that likes a cat.
+Everybody does not like a dog that does not bark.
+Everybody gives somebody something.
+Everybody gives something to somebody.
+Everybody is not seen by who?
+Everybody of his dog waits.
+Everybody of his own dog waits.
+Everybody of its dog waits.
+Everybody of John waits.
+Everybody sees 1 things.
+Everybody sees 3 men who wait.
+Everybody sees 3 things that are some dogs.
+Everybody sees 3 things that are some dogs or that are some cats.
+Everybody sees 3 things that wait.
+Everybody sees at least 1 man.
+Everybody sees at most 1 thing.
+Everybody sees at most 1 things.
+Everybody sees Christmases.
+Everybody sees Christmases that wait.
+Everybody sees John and Mary.
+Everybody sees John who waits.
+Everybody sees nobody.
+Everybody who is a father of a man that owns a car is a parent.
+Everybody who is a person and who is a female is a woman.
+Everybody who is John is a man.
+Everybody who is not an animal is not a dog.
+Everybody who likes Mary she loves.
+Everybody whose age is 20 can drink some wine in Paris.
+Everybody whose dog barks or whose cat eats waits.
+Everybody whose dog barks waits.
+Everybody who somebody is taller than waits.
+Everybody who somebody likes owns a dog.
+Everybody who waits does not know a dog that likes a cat.
+Everybody who waits eats.
+everybody who which women ask for her waits?
+Every boy and a girl see a man.
+Every card the code of which is correct is valid.
+Every customer believes that John does not wait.
+Every customer believes that John waits.
+Every customer can access every public resource.
+Every customer can wait.
+Every customer enters every card.
+Every customer enters every card or enters every code.
+Every customer inserts a card.
+Every dog barks and it is false that a cat sleeps or there is a man.
+Every dog barks or a cat does not sleep.
+Every dog barks or a cat sleeps.
+Every dog is evil.
+Every dog of a man barks.
+Every dog of every man barks.
+Every dog that sees a cat that sees a rat sees it.
+Every dog that sees a cat that sees a rat sees itself.
+Every dog that sees a cat that sees a rat sees the rat.
+Every dog that sees a cat that sees something sees it.
+Every dog uses to run.
+Every dog which barks or which eats does not see a man.
+Every farmer who owns a donkey beats it.
+Every goal is something that at most 1 person scores.
+Every goal is something that at most 1 persons score.
+Every goal that a referee counts is a point.
+Every goat eats at most 0 things that are not some grass.
+Every goat likes some grass and likes some water and does not like something that is not some grass and that is not some water.
+Every group of some men waits.
+Every lady is a person whose pet is a cat.
+Every lady is somebody whose pet is an animal and who likes nothing but cats .
+Every man a car of who a cat sees smiles.
+Every manager manages to manage.
+Every manager manages to manage something.
+Every man an age of who is 31 likes a cat.
+Every man, buy a car!
+Every man can be bitten by a dog that hates a cat that likes the man.
+Every man can eat and drink.
+Every man can want to attempt to try to love a woman.
+Every man can want to love a woman.
+Every man does not eat or drinks.
+Every man does not feed a dog and wait.
+Every man does not like a dog or does not hate a cat.
+Every man does not like a dog or hate a cat.
+Every man does not like a dog or hates a cat.
+Every man eats or does not drink.
+Every man eats or drinks.
+Every man feeds a cat that sees the man and likes a dog.
+Every man feeds a cat that sees the man and likes himself.
+Every man feeds a cat that sees the man and likes the man.
+Every man for no reason at every time intentionally knows that no woman swims in every lake.
+Every man for no reason at every time intentionally wants to swim in every lake.
+Every man for no reason at every time wants to swim.
+Every man for no reason in every location meets a woman between two houses after no search.
+Every man for no reason knows that every woman for no reason wants to for no reason swim in every lake.
+Every man gives every woman every apple.
+Every man hates a dog that knows something or hates a cat that knows something.
+Every man hears a dog that barks and sees a cat that sleeps.
+Every man hears a dog that does not bark and sees a cat that does not sleep.
+Every man hears a dog that does not bark and sees a cat that sleeps.
+Every man in the morning wants to in the evening say that he likes the day completely.
+Every man is a dog that hates a bike or that likes itself.
+Every man is a dog that is hated by a bike or that likes itself.
+Every man is an adult that is a male and that is a person.
+Every man is fast in every park.
+Every man is happy.
+Every man is in every park in every morning for no reason.
+Every man is in the morning where?
+Every man is not no dog.
+Every man is rich in the morning where?
+Every man is seen by his dog.
+Every man is seen by his own dog.
+Every man is taller than no dog.
+Every man is where in the morning?
+Every man is who in every park?
+Every man knows a cat that eats or that sleeps.
+Every man knows that every man drinks and that every woman eats.
+Every man knows that every man knows a man.
+Every man knows that every man waits.
+Every man likes a dog and hates a cat.
+Every man likes a dog or does not hate a cat.
+Every man likes a dog or hates a cat.
+Every man likes himself.
+Every man likes himself and feeds a cat that sees the man.
+Every man likes more than 2 dogs and likes less than 4 dogs.
+Every man likes who?
+Every man owns a dog blahblah.
+every man owns each of at most 5 cars.
+every man owns each of at most 5 cars that are expensive.
+Every man sees 2 dogs that see 3 cats.
+Every man sees 2 dogs that see a cat.
+Every man sees a cat that sees the man and sees a rat that sees a mouse.
+Every man sees a dog.
+Every man sees a dog that barks or sees himself.
+Every man sees a dog that barks or sees itself.
+Every man sees a dog that barks or works.
+Every man sees every dog.
+Every man sees John. He waits.
+Every man sees John who hears the man.
+Every man should drink.
+Every man should love every woman.
+Every man sleeps where and when and how?
+Every man that is not liked by a woman that owns a dog sees a cat.
+Every man that sleeps can be bitten by a dog that is known by a cat that drinks a milk and that is hated by the dog .
+Every man waits in every bank in every morning.
+Every man wants to be loved by a woman who wants to be protected by the man.
+Every man who does not eat or who drinks waits.
+Every man who does not like a dog or who hates a cat waits.
+Every man who eats or who does not drink waits.
+Every man who eats or who drinks waits.
+Every man who feeds a dog waits. Every man feeds a dog and waits.
+Every man who in every park that in no city exists walks waits.
+Every man who is not liked by a woman who owns a dog sees a cat.
+Every man who loves a woman who loves him is happy.
+Every man who loves a woman who loves the man owns a car.
+Every man who loves a woman who loves the man smiles.
+Every man who must hate a dog can own a cat.
+Every man who owns a car is a dog that is hated by a bike or that likes itself.
+Every man who owns a car that likes a cat is a dog that is hated by a bike or that likes itself.
+Every man whose age is an integer is a manager.
+Every man whose car a cat sees smiles.
+Every man who sees himself waits.
+Every man who waits eats.
+Every man who waits is not bitten by a dog that hates a cat that likes the man.
+Every man who waits is seen by himself.
+Every man works and eats or sleeps.
+Every man works, and eats or sleeps.
+Every man works or eats and sleeps.
+Every man works or eats ,and sleeps or drinks.
+Every man works or eats or sleeps.
+Every man works or eats, or sleeps.
+Every man works or sees a dog that barks.
+Every mother of someone is a parent of it.
+Every person should be important.
+Every person should not be rich.
+Every person should not kill someone.
+Every pet is a dog or is a cat ,and is a cow.
+Every pet is a dog or is a cat ,and is not a cow.
+Every pet is a dog or is a cat ,and is not something that is a dog and that is a cat.
+Every pet is not a cow ,and is a dog or is a cat.
+Every pet is something that is a cat or that is a dog, and that is not something that is a cat and that is a dog.
+Every program that calls a program that calls a program calls itself.
+Everything a dog of which barks waits.
+Everything barks at itself.
+Everything is a cat and everything is a dog.
+Everything of John waits.
+Everything runs.
+Everything that affiliatedWith something that affiliatedWith something affiliatedWith it.
+Everything that is not a cat can be a dog.
+Everything that is written by somebody is a book or is a paper.
+Everything that knows something that hears something sees itself.
+Everything that somebody likes is owned by somebody else.
+Every who is a human?
+exactly 1 woman asks a woman of her.
+Exactly 1 woman waits.
+exactly 1 woman who sees a man who loves her waits.
+For a card does a customer own it?
+For all cats a man sleeps.
+For all clean laundry a dog barks.
+For all dog a man waits.
+For all dogs a man sees the dogs.
+For all dogs a man waits.
+For all laundry a dog barks.
+For all men a dog barks.
+For all men he likes himself.
+For all men the man likes himself.
+For all money a man waits.
+For all sand a man sees the sand.
+For a man a dog barks.
+For each card which is green or which is red a man enters it.
+For each man a dog barks.
+For each man a dog sees it.
+For each man a dog sees the man.
+For each money a man waits.
+For each of 2 tables 2 girls lift it.
+For each of 2 tables each of 2 girls lifts it.
+For each of a big man and a small man a dog sees the big man.
+For each of a customer and a clerk a dog barks.
+For each of a man and a woman a dog sees the man.
+For each of some men a dog barks.
+For each of some men a dog sees him.
+For each of some men for each of some women a dog barks.
+For each of some men for every woman a dog barks.
+For each of some men he likes every dog.
+For each of some men he waits.
+For each of some men the man likes every dog.
+For each of the men a dog barks.
+For each of the men a dog sees him.
+For each of the men he waits.
+For each rich man a woman likes the rich man.
+For everybody there is a dog.
+For every body which waits there is a clerk.
+For every body who waits there is a clerk.
+For everybody who waits there is a clerk.
+For every book a database lists its title.
+For every book a database lists its title and lists its code.
+For every book a database lists the title of the book and lists the code of the book.
+For every book the book has a title and the book has a code.
+For every card does a customer own it?
+For every card there is a customer who inserts it.
+For every code a clerk enters it.
+For every code there is a clerk such that he enters it.
+For every customer John assigns a personal code to the customer.
+For every customer the customer has a card and the customer has a code.
+For every dog a cat is not the dog.
+For every dog every man sees it.
+For every dog every man sees the dog.
+For every dog if it barks then it does not sleep.
+For every dog of every man the dog barks.
+For every dog the dog is not a cat.
+For every farmer and for every donkey the farmer beats the donkey.
+For every farmer for every donkey the farmer beats the donkey.
+for every friend of who Mary asks a woman.
+For every man a dog barks.
+For every man a dog barks for every cat.
+For every man every dog barks for every cat.
+For every man every dog of him barks.
+For every man for each of some women a dog barks.
+For every man he likes himself.
+For every man it is false that a dog barks.
+For every man the man likes himself.
+For every rich man a woman likes the rich man.
+For every thing which knows something it knows it.
+For everything which knows something it knows it.
+For every wolf for every fox the wolf does not eat the fox.
+for every woman of who everybody waits.
+For every woman the woman asks her.
+For every woman the woman does not ask her.
+For no card does a customer own the card?
+For no man a dog barks.
+For no man a dog sees the man.
+For no man it is false that a dog barks.
+For no men a dog barks.
+For the man a dog barks.
+France is something that is not America and that is not England and that is not Germany.
+From what does John come?
+From where does John come?
+f there is a man then it is necessary that a human is the man.
+Has John to wait?
+Has to John run?
+He sees himself.
+He sleeps.
+He who eats drinks.
+Him sees a man.
+His own card waits.
+How and when and where does John see a man?
+How can a car be fastest and more reliable?
+how can a customer enter a card?
+How can a man can be rich?
+How does a man enter a card?
+How does a man sell a visa card?
+How does a man works?
+How does every man wait?
+How does John enter a card?
+How does John that waits see a man?
+How does the customer insert a card?
+How does who see what?
+How is John?
+How is John seen by a man?
+How is John that waits seen by a man?
+How is there?
+How many beaches have how much sand?
+How many good men eat how much bad food?
+How many man waits?
+How many men does which woman who eats how much food like?
+How many men wait?
+How much food waits?
+How much man waits?
+How must John be polite?
+If 2l of water boils and the water contains an egg then the water contains a boiled egg.
+If a card is valid then a customer inserts it.
+If a clerk enters a card then he does not own it.
+If a customer does not transmit some money and it is not provable that he does not transmit the money then the bank assumes that he transmits the money.
+If a man does not walk then a dog barks.
+If a man eats then necessarily he does not sleep.
+If a man John waits then he sleeps.
+If a man likes a dog that likes a cat and the man likes a cow that likes a sheep then the man owns a car.
+If a man likes Mary and Mary hates a dog then the man owns a car.
+If a man likes somebody that is a person then the person owns a car.
+If a man must own a dog then the man can own an animal.
+If a man owns a book then he can read it.
+If a man owns a book then he does not provably read it.
+If a man owns a book then he does not read it.
+If a man owns a book then he must read it.
+If a man owns a donkey then he beats it.
+If a man runs, and walks or eats then a dog barks.
+If a man waits then his dog barks.
+If a man waits then his own dog barks.
+If a man walks quickly then he talks.
+If a man walks quickly then he talks quickly.
+If a man walks then he talks quickly.
+If a message is from someone from which John awaits a delivery then the message is important.
+If a message is from someone from who John awaits a delivery then the message is important.
+If an element is a member of a tail of a list then the element is a member of the list.
+If a user charges the price of a resource then the user pays for the resource.
+If a user is authenticated and his subscription covers a resource then the user can download the resource.
+If a user is authenticated and pays for a resource then a man can download it.
+If a user is authenticated and pays for a resource then he can download it.
+If a user is authenticated and pays for a resource then he does not believe that he can download it.
+If a user is authenticated and pays for a resource then the man can download it.
+If a user is charged the price of a resource then the user pays for the resource.
+If a user is happy and pays for something then he can wait.
+If a user is happy and pays for something then he does not wait.
+If a user is happy and pays for something then he sees everything.
+If a user pays for something then he can wait.
+If a user pays for something then he does not wait.
+If a young child has a fever then the doctor may treat the child.
+If every man runs then a dog barks.
+If if there is a man then he runs then a dog barks.
+If Iokaste makes Oedipus, and Iokaste makes Polyneikes, and Oedipus makes Polyneikes, and Polyneikes makes Thersandros and Oedipus is a patricide, and Thersandros is not a patricide, and everybody that makes a patricide that makes somebody who is not a patricide is an answer then Iokaste is an answer.
+If Iokaste makes Oedipus, and Iokaste makes Polyneikes, and Oedipus makes Polyneikes, and Polyneikes makes Thersandros and Oedipus is a patricide, and Thersandros is not a patricide then Iokaste makes a patricide that makes somebody who is not a patricide.
+If John and Mary wait then a dog barks and they sleep.
+If John and Mary wait then a dog barks or they sleep.
+If John and Mary wait then there is a dog and they sleep.
+If John and Mary wait then they sleep.
+If John does not eat and it is false that somebody feeds him then John is hungry.
+If John does not eat and it is not the case that somebody feeds him then John is hungry.
+If John owns a donkey then he beats it.
+If John waits then a dog barks.
+If John waits then a man John sleeps.
+If John waits then he sleeps.
+If John waits then John sleeps.
+If John waits then the man John sleeps.
+If John works in a bank then he does not commute.
+If John works then he does not feed his dog.
+If John works then he does not see himself.
+If John works then he does not work.
+If John works then he does not work in a house.
+If John works then he does not work in his own house.
+If John works then John does not work in his own house.
+If nobody waits then a dog barks.
+If Socrates is a man and every man is mortal then Socrates is mortal.
+If the id of a user is valid then the user is authenticated.
+If there are 2 men then they wait.
+If there are a dog and a cat then a man waits.
+If there are a man and a manager then the man is often the manager.
+If there is a carnivore then everybody that it eats is an animal.
+If there is a carnivore then everything that it eats is a meat.
+if there is a declaration whose name is a user and whose password is a string and the string is the password of the user then the user is authenticated.
+If there is a dog then it is false that a cat is the dog.
+If there is a dog then the dog barks and it is false that there is a cat.
+If there is a man, and the man likes a dog that likes a cat or the man likes a cow that likes a sheep then the man owns a car.
+If there is a man and there is a woman and the man loves the woman and the woman loves the man then the man is happy.
+If there is a man such that he waits then he is happy.
+If there is a man then a dog barks and bites the man.
+If there is a man then a dog of the man waits.
+If there is a man then a dog that hates a cat barks and bites the man.
+If there is a man then a human can be the man.
+If there is a man then a human can not be the man.
+If there is a man then a human does not have to be the man.
+If there is a man then a human is the man.
+If there is a man then a human must be the man.
+If there is a man then he is not a woman or is not a dog.
+If there is a man then he waits and a woman owns a cat.
+If there is a man then he waits and there is a woman.
+If there is a man then it is false that he owns a dog that does not bark.
+If there is a man then it is false that it is possible that he sees a cat.
+If there is a man then it is false that the man likes a cat and that the man hates a dog.
+If there is a man then it is necessary that a human is the man.
+If there is a man then it is not necessary that a human is the man.
+If there is a man then it is not possible that there is a human that is the man.
+If there is a man then it is possible that a human is the man.
+If there is a man then that John waits.
+If there is a man then the man sees a cow and it is false that the man likes a cat and that the man hates a dog.
+If there is a man then the man sees a dog and the dog sees a cat and the cat sees the dog and the dog sees a rat and the rat sees a mouse.
+If there is a man then the man sees a dog that sees a cat that sees a rat and the dog sees a horse.
+If there is a man then the man sees a dog that sees a cat that sees a rat and the dog sees a horse that sees a cow.
+If there is a man then the man sees a rat that sees a mouse and a cat sees the man.
+if there is a man then there are 2 women.
+If there is a man then there are more than 1 women.
+If there is a man then there are more than 2 women.
+If there is a man then there is 1 woman.
+If there is a man then there is a dog and there is a cat.
+If there is a man then there is more than 1 woman.
+If there is a man then there is more than 1 women.
+If there is a man who does not sleep and John sees the man then a dog barks.
+If there is a man who is happy or who is sad, and the dog of who barks then he waits.
+If there is an animal such that everything that the animal eats is a meat then the animal is a carnivore.
+If there is an animal that believes that John is its owner then John sees the animal.
+If there is an animal that believes that John is its owner then John sees the animal that believes that John is its owner.
+If there is an animal that believes that John is its own owner then John sees the animal.
+If there is an animal that believes that John is its own owner then John sees the animal that believes that John is its own owner.
+If there is an animal that eats every food then John sees the animal that eats every food.
+If there is an animal that is a cat or that is a dog then John sees the animal that is a dog or that is a cat.
+If there is an animal that is a dog or that is a cat then John sees the animal that is a dog or that is a cat.
+If there is an animal that is not a dog or that is a cat then John sees the animal that is not a dog or that is a cat.
+If there is a thing and everything that it eats is a meat then it is a carnivore.
+If there is a thing that does not eat something that is not a meat then the thing is a carnivore.
+If there is John then there is Mary.
+If there is John then there is somebody.
+If there is John then there is something.
+If there is nobody that waits then a dog barks.
+If there is nobody then a dog barks.
+If there is no man that waits then a dog barks.
+If there is no man then he waits.
+If there is somebody A then A sees A.
+If there is some money then a man waits.
+If there is something that barks then it is a dog.
+Into what can a customer enter a card?
+Into what does not a customer enter a card?
+in what can a dog live?
+in what does a dog have to live?
+in what does a dog live?
+in what does a dog not have to live?
+in what does who not have to live for which reason?
+in what is a dog living?
+in what is a dog living in?
+in what is a dog living in the morning?
+in what is a dog living when?
+in what is who living?
+in which house does John live?
+In which town does John live?
+Is a book written by a man?
+Is a car blue?
+Is a code entered by a customer?
+is a code entered by who?
+Is a code is entered by a customer?
+is a customer not provably a clerk?
+Is every man a human?
+Is it false that every man is a human?
+Is it false that every man is a human.
+Is it false that John likes Mary?
+Is it false that John likes Mary and that no dog likes every cat?
+Is it true that a man does not eat or that the man does not drink?
+Is it true that every man is a human?
+Is it true that every man is a human.
+Is it true that John likes Mary?
+Is it true that John likes Mary and Mary likes Bill?
+Is it true that John likes Mary and that Mary likes Bill?
+Is John seen by a man that waits?
+Is there a dog?
+is there a man?
+Is there a man John?
+Is there a man or is there a woman?
+Is there a man that runs or that waits?
+Is there a man that runs or waits?
+Is there a man that waits?
+Is there John?
+Is there no laundry?
+is there some absinth?
+Is there the card?
+It is false.
+It is false that a cat sleeps and every dog barks or there is a man.
+It is false that a customer inserts a card.
+It is false that a man eats and that the man drinks, and that the man waits.
+It is false that a man eats and that the man drinks or that the man waits.
+It is false that a man eats and that the man drinks, or that the man waits.
+It is false that a man eats or that the man drinks and that the man waits.
+It is false that a man eats or that the man drinks, and that the man waits.
+It is false that a man eats or that the man drinks or that the man waits.
+It is false that a man eats or that the man drinks, or that the man waits.
+It is false that a man sleeps or waits.
+It is false that a man waits.
+It is false that a man waits and a dog barks.
+It is false that a man waits and that a dog barks.
+It is false that a man who waits or who eats runs and sleeps.
+It is false that a man who waits or who eats runs or sleeps.
+It is false that a man who waits or who eats runs or sleeps ,and barks.
+It is false that a man who waits or who eats runs or sleeps and barks.
+It is false that everybody sees somebody.
+It is false that everybody waits.
+It is false that every man waits.
+It is false that for every book the book has a title and the book has a code.
+It is false that if there is a book then the book has a title and the book has a code.
+It is false that if there is someone then he waits.
+It is false that it is false that a man waits.
+It is false that it is necessary that John waits and that Mary sleeps.
+It is false that it is not provable that John flies.
+It is false that John likes a dog ,and that a cat and a rat and a mouse see a cheese ,or that a man waits.
+It is false that John runs. He walks.
+It is false that John runs. John walks.
+It is false that John sleeps.
+It is false that John sleeps and that John does not sleep.
+It is false that John walks. He runs.
+It is false that no man does not wait.
+It is false that some men wait.
+It is false that there are 2 kg of dirty laundry.
+It is false that there are a man and a woman and that the man waits.
+It is false that there are John and Mary.
+It is false that there is 1 man.
+It is false that there is a dog and it is false that there is a cat.
+It is false that there is a dog and that it is false that there is a cat.
+It is false that there is a dog ,and that there is a man or that there is a woman ,and that there is a cat.
+It is false that there is a dog ,and that there is a man or that there is a woman ,and there is a cat.
+It is false that there is a dog ,and that there is a man or there is a woman ,and there is a cat.
+It is false that there is a dog ,and there is a man or there is a woman ,and it is false that there is a cat.
+It is false that there is a dog ,and there is a man or there is a woman ,and there is a cat.
+It is false that there is a dog. It is false that there is a cat.
+It is false that there is a dog. There is a man or there is a woman ,and it is false that there is a cat.
+It is false that there is a man and a dog barks.
+It is false that there is a man and a man sleeps or that the man waits.
+It is false that there is a man and a man sleeps or the man waits.
+It is false that there is a man and that a dog barks.
+It is false that there is a man ,and that the man sleeps or that the man waits.
+It is false that there is a man and that there is a dog or that there is a cat.
+It is false that there is a man ,and that there is a dog or there is a cat.
+It is false that there is a man and that there is a dog or there is a cat.
+It is false that there is a man ,and the man sleeps or the man waits.
+It is false that there is a man and the man sleeps or the man waits.
+It is false that there is a man ,and there is a dog or there is a cat.
+It is false that there is a man or that there is a dog.
+It is false that there is a man or there is a dog.
+It is false that there is John.
+It is false that there is some water.
+It is impossible that a man waits.
+It is impossible that John flies.
+It is impossible that John waits.
+It is necessary that a man waits.
+It is necessary that a man waits and a dog barks.
+It is necessary that a man waits and that a dog barks.
+It is necessary that John flies.
+It is necessary that John waits.
+It is necessary that John waits and that Mary sleeps.
+It is necessary that John waits or that Mary sleeps.
+It is necessary that there is John.
+It is not false that a dog barks.
+It is not necessary that John flies.
+It is not necessary that John waits.
+It is not necessary that John waits and that Mary sleeps.
+It is not possible that a man waits.
+It is not possible that John flies.
+It is not possible that John waits.
+It is not possible that John waits and Mary sleeps.
+It is not provable that John flies.
+It is not provable that John waits.
+It is not provable that John waits and Mary sleeps.
+It is not provable that John waits and that Mary sleeps.
+It is not provable that John waits or that Mary sleeps.
+It is not recommended that every man drinks.
+It is not the case that a customer inserts a card.
+It is not the case that a man runs. He walks.
+It is not the case that a man sleeps or waits.
+It is not the case that a man waits and a dog barks.
+It is not the case that a man waits and that a dog barks.
+It is not the case that a man who waits or who eats runs and sleeps.
+It is not the case that a man who waits or who eats runs or sleeps.
+It is not the case that a man who waits or who eats runs or sleeps ,and barks.
+It is not the case that a man who waits or who eats runs or sleeps and barks.
+It is not the case that everybody sees somebody.
+It is not the case that everybody waits.
+It is not the case that for every book the book has a title and the book has a code.
+It is not the case that if there is a book then the book has a title and the book has a code.
+It is not the case that if there is someone then he waits.
+It is not the case that it is necessary that John waits and that Mary sleeps.
+It is not the case that it is not provable that John flies.
+It is not the case that it is not the case that a man waits.
+It is not the case that John likes a dog ,and that a cat and a rat and a mouse see a cheese ,or that a man waits.
+It is not the case that John runs. He walks.
+It is not the case that John runs. John walks.
+It is not the case that John walks. He runs.
+It is not the case that no man does not wait.
+It is not the case that no one does not wait.
+It is not the case that no one waits.
+It is not the case that some men wait.
+It is not the case that there are 1 men.
+It is not the case that there are 2 kg of dirty laundry.
+It is not the case that there is a dog and it is not the case that there is a cat.
+It is not the case that there is a dog and that it is not the case that there is a cat.
+It is not the case that there is a dog ,and that there is a man or that there is a woman ,and that there is a cat.
+It is not the case that there is a dog ,and that there is a man or that there is a woman ,and there is a cat.
+It is not the case that there is a dog ,and that there is a man or there is a woman ,and there is a cat.
+It is not the case that there is a dog ,and there is a man or there is a woman ,and it is not the case that there is a cat.
+It is not the case that there is a dog ,and there is a man or there is a woman ,and there is a cat.
+It is not the case that there is a dog. It is not the case that there is a cat.
+It is not the case that there is a dog. There is a man or there is a woman ,and it is not the case that there is a cat.
+It is not the case that there is a man and a dog barks.
+It is not the case that there is a man and that a dog barks.
+It is not the case that there is a man ,and that the man sleeps or that the man waits.
+It is not the case that there is a man and that there is a dog or that there is a cat.
+It is not the case that there is a man ,and that there is a dog or there is a cat.
+It is not the case that there is a man and that there is a dog or there is a cat.
+It is not the case that there is a man ,and the man sleeps or the man waits.
+It is not the case that there is a man and the man sleeps or the man waits.
+It is not the case that there is a man ,and there is a dog or there is a cat.
+It is not the case that there is a man or that there is a dog.
+It is not the case that there is a man or there is a dog.
+It is not the case that there is some water.
+It is not true that a man waits.
+It is not true that John sleeps.
+It is permitted that John waits.
+It is possible that a card is valid.
+It is possible that a man can wait.
+It is possible that a man waits.
+It is possible that a man waits and a dog barks.
+It is possible that a man waits and that a dog barks.
+It is possible that every customer waits.
+It is possible that it is false that a dog sees a cat.
+It is possible that John flies.
+It is possible that John should swim.
+It is possible that John waits.
+It is possible that John waits and Mary sleeps.
+It is possible that John waits and that Mary sleeps.
+It is recommended that a man drinks.
+It is recommended that it is possible that it is necessary that every person does not provably not wait.
+It is recommended that John can swim.
+It is true that a dog barks.
+It is true that every man is a human.
+It is true that John sleeps.
+It is true that there is John.
+It is unnecessary that John flies.
+It is unnecessary that John waits.
+John a dog of a friend of who hates a cat likes Mary.
+John and Mary a dog of who barks wait.
+John and Mary, buy a car!
+John and Mary, buy a dog!
+John and Mary, buy a dog that is owned by Bill and that likes you!
+John and Mary, buy a dog that likes you!
+John and Mary hit themselves.
+John and Mary, hit yourself!
+John and Mary hit yourselves.
+John and Mary, hit yourselves!
+John and Mary like what?
+John and Mary, sell your own car!
+John and Mary wait.
+John and Mary wait. Bill gives them them.
+John and some dogs of Mary bark.
+John and you, wait!
+John beats a donkey of a wife of him.
+John beats a donkey of a wife of himself.
+John beats a donkey of him.
+John beats a donkey of himself.
+John beats a donkey of the brother of his own wife.
+John beats a mother of a brother of a wife of John.
+John beats a mother of his own wife.
+John beats his donkey.
+John beats his own big dog and beats his own small dog. The big dog is sad.
+John beats his own donkey.
+John beats his own wife.
+John beats the donkey of a brother of his own wife.
+John beats the donkey of him.
+John beats the donkey of himself.
+John beats the donkey of his own wife.
+John beats the donkey of his wife.
+John beats the donkey of the brother of his own wife.
+John believes that a dog barks and it is false that a cat sleeps.
+John believes that he can fly.
+John believes that he must fly.
+John believes that Mary sleeps.
+John believes that Mary sleeps and he waits.
+John believes that Mary sleeps and waits.
+John believes that there is a card.
+John belives that Mary has a book.
+John, be loved by Mary!
+John blahblah.
+John buy a car!
+John, buy a car!
+John, buy a car! Bill, buy a car!
+John, buy a dog that is owned by Bill and that likes him!
+John, buy a dog that is owned by Bill and that likes you!
+John, buy a dog that likes him!
+John, buy a dog that likes you!
+John buys a car!
+John, buys a car!
+John can be seen by Mary.
+John can fly.
+John can not be seen by Mary.
+John cannot be seen by Mary.
+John can not fly.
+John cannot fly.
+John can not wait.
+John cannot wait.
+John, can swim!
+John can wait.
+John comes from Berlin.
+John comes from Berlin and goes to Paris.
+John does.
+John does have to wait.
+John does like Mary.
+John does not believe that Mary sleeps.
+John does not have to be seen by Mary.
+John does not have to fly.
+John does not have to wait.
+John does not have to walk.
+John does not in a park sleep.
+John does not intentionally in a park sleep in the night.
+John does not know that Mary sleeps.
+John does not own which car?
+John does not own which dog?
+John does not provably mostly swim.
+John does not quickly run.
+John does not see anybody.
+John does not see a water.
+John does not see less than 3 cars that Bill owns.
+John does not see some water.
+John does wait.
+John does wait. John waits.
+John, do not provably sleep!
+John, do not touch the machine!
+John eats. He which waits has a dog.
+John eats. He who waits has a dog.
+John eats. It is false that John waits.
+John eats. It is necessary that John waits.
+John eats. It is not possible that John waits.
+John eats nothing but raw and expensive meat.
+John eats or John drinks.
+John eats or John drinks. Mary eats or Mary drinks or Bill sleeps.
+John eats when and where drinks?
+John enters every card which carries his code.
+John enters every card which carries his own code.
+John enters every card which carries its code.
+John enters every card which carries its own code.
+John enters every card which is his card.
+John enters every card which is his own card.
+John enters every card which is its card.
+John enters every card which is its own card.
+John enter the house!
+John, enter your own card!
+John, enter your own card and see yourself!
+John feeds his own dogs.
+John gives an apple to Mary. Mary accepts the apple and eats it. She is happy and he has no apple.
+John gives an apple to Mary. Mary accepts the apple and eats it. She is happy and he has no apples.
+John gives Bill Mary.
+John gives Mary to Bill.
+John gives something to somebody.
+John goes to Berlin.
+John has 0 apples.
+John has 0 kg of apples.
+John has 1.83 apples.
+John has 1.83 kg of apples.
+John has a brother who he likes.
+John has a card every code of every copy of which is valid.
+John has a card every code of which is valid.
+John has a card. He that waits uses it that is valid.
+John has a card. He uses it who is valid.
+John has a card. He who waits uses it which is valid.
+John has a card no code of which is valid.
+John has a dog and has a cat. Who has a dog? Who has a cat?
+John has at least 2 cards.
+John has at most 3 cars. Mary loves them.
+John has each of 2.
+John has each of exactly 3 cards.
+John has each of less than 3 cards.
+John has not at least 2 cards.
+John has not exactly 3 cards.
+John has nothing but apples.
+John has not more than 3 cards.
+John has to be seen by Mary.
+John has to fly.
+John has to wait.
+John hates a man who can see him.
+John hates a man who John can see.
+John, hit himself!
+John hits himself.
+John hits yourself.
+John, hit yourself!
+John how and when and where believes that Mary sleeps?
+John how believes that Mary sleeps?
+John in a bar wants to drink a beer.
+John in a kitchen patiently waits .
+John in a kitchen patiently wants that he waits.
+John in a kitchen patiently wants to wait.
+John in a kitchen waits.
+John in a morning early and often and usually is a manager.
+John in a park sees that Mary sleeps.
+John in every morning wants to swim.
+John in every morning wants to swim intentionally for no reason.
+John in every park for no reason sees that Mary sleeps.
+John in every park in every morning is in every bank.
+John in every park in every morning is in every bank at every time.
+John in every park intentionally sees a girl manually with no telescope.
+John in every park is in every morning.
+John in every park sees a girl.
+John in every park sees a girl with every telescope.
+John in every park sees a girl with no telescope.
+John in every park sees that Mary sleeps.
+John in every park usually for no reason waits.
+John in every park usually for no reason waits in every morning.
+John in every park usually for no reason waits in every morning at every condition.
+John in no park sees that Mary sleeps.
+John in no park usually for every reason waits.
+John inserts his own card. Bill inserts his own card.
+John in the beginning in a morning early and often and usually is a manager.
+John in the morning is rich.
+John in the morning wants to swim in the evening.
+John is 3.
+John is a customer of someone who is important.
+John is a father of who?
+John is a friend of Mary.
+John is allowed to walk.
+John Is a man.
+John is a manager usually in a morning .
+John is a man. John is a man.
+John is a man. Mary is a woman. Bill knows the woman. The woman waits.
+John is a name of a man and a name of a man.
+John is a rich customer. His wealth is enormous. He is in his office.
+John is a rich customer. His wealth is enormous. He is in his own office.
+John is a rich man.
+John is as important as Mary.
+John is cleverer than Bill.
+John is considered a criminal.
+John is every man.
+John is everything of who?
+John is happy in each of 3 parks.
+John is happy in each of 3 parks in every morning.
+John is happy in every morning in each of 3 parks.
+John is his owner.
+John is his own owner.
+John is in a park hit by a ball.
+John is in a park in a morning.
+John is in a park in a morning usually.
+John is in a park in the park.
+John is in a park manually.
+John is in each of 3 parks.
+John is in every park.
+John is in every park in every morning.
+John is in no park.
+John is in Paris when?
+John is in Paris when and where?
+John is in Paris when where?
+John is in Paris when with Mary?
+John is liked by him.
+John is liked by himself.
+John is manually in a park.
+John is more clever than Bill.
+John is more important.
+John is most important.
+John is no hero at every time.
+John is not a customer. He is happy.
+John is not been by Mary.
+John is not happy.
+John is permitted that a dog barks.
+John is rich and richer and richest.
+John is rich and richer than Mary.
+John is richer than Mary and smarter than Bill.
+John is rich in a morning usually.
+John is rich in the morning.
+John is rich usually in a morning .
+John is rich where?
+John is small.
+John is taller than Mary.
+John is the name of the man and the name of the man.
+John is when in Paris?
+John is where and when?
+John is where where?
+John is with no telescope fast and quickly in every park seen by a girl.
+John is with no telescope in every park seen by a girl.
+John knows Abcdef.
+John knows in the park that Mary sleeps.
+John knows Mary.
+John knows quickly that Mary sleeps.
+John knows quickly that Mary sleeps quickly.
+John knows something.
+John knows Sun.
+John knows that Bill is Mary.
+John knows that Mary does not wait.
+John knows that Mary sees him.
+John knows that Mary sleeps and he knows that Bill waits.
+John knows that Mary sleeps quickly.
+John knows that Mary sleeps quickly quickly.
+John knows that Mary waits.
+John knows that there is a cat or that there is a dog.
+John knows the Abcdef.
+John knows the Mary.
+John knows the Sun.
+John knows wisely that Mary waits.
+John lifts 50.5 kg.
+John likes 3 dogs. Not each of them barks.
+John likes 3 dogs. Not for each of them a cat smiles.
+John likes a dog ,and a cat.
+John likes a dog and a cat.
+John likes a dog ,and a cat and a rat and a mouse see a cheese.
+John likes a dog and a cat ,and a rat and a mouse see a cheese.
+John likes a town which he goes to.
+John likes Foo a dog of which friend hates a cat.
+John likes Foo a dog of which hates a cat.
+John likes Mary a dog of a friend of who hates a cat.
+John likes Mary a dog of her friend hates a cat.
+John likes Mary a dog of her own friend hates a cat.
+John likes Mary a dog of his friend hates a cat.
+John likes Mary a dog of his own friend hates a cat.
+John likes Mary a dog of its friend hates a cat.
+John likes Mary a dog of its own friend hates a cat.
+John likes Mary a dog of who hates a cat.
+John likes Mary a dog of whose friend hates a cat.
+John likes Mary a dog of whose friends hates a cat.
+John likes Mary. Mary likes John.
+John likes nobody but Mary.
+John likes nothing but apple.
+John likes nothing but cars of Mary.
+John likes nothing but fast cars.
+John likes nothing but Mary.
+John likes nothing but meat.
+John likes nothing but raw meat.
+John lives in a city that exists always always.
+John looks at at least 4 men at least 3 dogs of who bark.
+John, Mary!
+John may be rich.
+John may not be important.
+John may not sleep.
+John may not work.
+John may wait.
+John mostly sleeps.
+John must be seen by Mary.
+John must fly.
+John must manually hit a button.
+John must manually hit every button in every case.
+John must manually in every case for no reason hit every button.
+John must not wait.
+John must wait.
+John, must wait!
+John never sleeps.
+John often and usually is a manager in a morning .
+John often and usually is a manager in a morning early.
+John owns 2 or 3 cars.
+John owns 2 or more cars.
+John owns a car that Mary likes and that Bill likes.
+John owns a donkey. He beats it.
+John owns a park. A dog barks in it.
+John owns at most 2 cars.
+John owns at most 2 cars that Mary likes.
+John owns at most 3 cars that do not start.
+John owns at most 3 cars that have at most 3 wheels.
+John owns Mary. He beats her.
+John owns not 2 or more cars.
+John owns not 3 cards.
+John owns some services each of which delivers some pizzas.
+John owns some services that deliver some pizzas.
+John patiently in a kitchen waits .
+John patiently in a kitchen wants that he waits.
+John patiently in a kitchen wants to wait.
+John patiently waits.
+John patiently waits in a kitchen.
+John quickly knows that Mary quickly sleeps.
+John quickly knows that Mary sleeps.
+John quickly knows that Mary sleeps quickly.
+John rarely sleeps.
+John runs or he eats. He waits.
+John says that there is a card.
+John sees 3 men whose dog barks.
+John sees 3 men whose dogs bark.
+John sees a cat that likes the cat that smiles.
+John sees A dog.
+John sees a girl in every park.
+John sees a girl in every park with no telescope.
+John sees a man. A customer is him.
+John sees a man. Mary knows the man that John sees.
+John sees a man. The man waits.
+John sees a man where and when and how?
+John sees a man who does not sleep in a bed soundly.
+John sees a man who does not sleep in a bed soundly and quickly.
+John sees a man who does not sleep soundly and quickly in a bed.
+John sees a man who does not sleep soundly in a bed.
+John sees a man who does not sleep soundly in a bed in a morning.
+John sees a man whose dogs bark.
+John sees a man who sleeps in a bed in a morning.
+John sees a man who sleeps in a bed soundly.
+John sees a man who sleeps soundly in a bed.
+John sees a man who sleeps soundly in a bed in a morning.
+John sees a man who sleeps with his own eyes.
+John sees a water.
+John sees a water of himself.
+John sees Every woman.
+John sees every woman in every park.
+John sees exactly 2 men.
+John sees his own water.
+John sees in the morning that Mary sleeps.
+John sees Mary and less than 2 men.
+John sees Mary. Mary is seen by John.
+John sees not exactly 2 men.
+John sees no water.
+John sees some water.
+John sees some water of himself.
+John sees soundly in a bed in a morning that a man sleeps.
+John sees that a dog barks. It is happy.
+John sees the cat that likes the cat that smiles.
+John sees the water.
+John sees what?
+John sees which man?
+John, see yourself!
+John, sell his own car!
+John sells his own car.
+John sells your own car.
+John, sell your own car!
+John serves a customer a meal.
+John serves a meal to a customer.
+John should give a present to Mary.
+John should not swim.
+John should not work.
+John should swim.
+John should wait.
+John should wait and can swim and must drink.
+John sleeps in the park from the morning until the evening.
+John sleeps where and where?
+John snores loudly and loudly loudly and most loudly.
+John soundly and quickly sees a man who does not sleep in a bed.
+John soundly sees a man in a bed in a morning. The man sleeps.
+John soundly sees a man who does not sleep in a bed.
+John soundly sees a man who sleeps in a bed in a morning.
+John stops to smoke and starts to drink.
+John strongly desires a beer.
+John strongly desires to drink a beer.
+John takes a queen Mary.
+John takes his own card and gets some money for himself.
+John tells Mary that he waits.
+John tells Mary that he wants to fly.
+John tells that a man waits to Mary.
+John tries to hurry and runs.
+John tries to walk.
+John, trust a woman and yourself!
+John usually is a manager in a morning .
+John usually is a manager in every morning .
+John usually is in a park in a morning .
+John vaguely sees a big dog that barks in the garden of his own brother.
+John vaguely sees a big dog that barks in the garden of its own brother.
+John vaguely sees a big dog. The dog barks in the garden of the brother of John.
+John wait.
+John, wait!
+John, wait Mary! Does John wait Mary?
+John waits.
+John waits. All men see him.
+John waits. All men see himself.
+John waits. A man brings him his pencil and brings him his own computer.
+John waits. A man brings him his pencil and his own computer.
+John waits. He that sleeps waits.
+John waits in a bank. He is happy.
+John waits in a kitchen.
+John waits in a kitchen patiently .
+John waits. John does not sleep.
+John waits. John runs.
+John waits. John waits. John waits. John waits. John waits. John waits. John waits. John waits. John waits. John waits.
+John waits patiently.
+John waits patiently in a kitchen .
+John waits. Some men see himself.
+John waits usually.
+John, wait yourself!
+John walks. It is false that John runs.
+John walks. It is not the case that John runs.
+John wants a man to wait.
+John wants in a kitchen patiently to wait.
+John wants patiently in a kitchen that he waits.
+John wants patiently in a kitchen to wait.
+John wants patiently that he waits.
+John wants that he flies.
+John wants to be loved by Mary.
+John wants to can swim.
+John wants to do not swim.
+John wants to drink a beer in a bar.
+John wants to have to swim.
+John wants to must swim.
+John wants to not swim.
+John wants to run.
+John wants to should swim.
+John wants to swims.
+John watches a man who sees himself.
+John watches the man who sees himself.
+John when eats and where drinks?
+John where sees a man that waits?
+John which runs eats.
+John who has a card enters it.
+John who is a clerk waits.
+John who is a man sleeps.
+John who is the clerk waits.
+John who run eats.
+John whose age is 31 waits.
+John wisely knows that Mary waits.
+John works at at least 3 banks.
+John works in a bank and a morning.
+John, you wait!
+Less than 0 men wait.
+Less than 1 man waits.
+Less than 2 women wait.
+Less than 3 men and less than 4 women wait.
+Less than 3 men and more than 4 women wait.
+Less than 5 men drink less.
+Less than one man waits. Less than 2 women sleep.
+Mary asks John who asks who?
+Mary asks John who asks who.
+Mary does not know that John eats or Bill drinks.
+Mary does not like some men who are not rich.
+Mary inserts her own card that is valid carefully into a slot.
+Mary invites Sue for a visit and she tells her that she must go and must work.
+Mary is as young as who?
+Mary is not a woman who likes an apple.
+Mary is sent a book by John.
+Mary is sent some books by John.
+Mary knows that every man eats or that Bill drinks.
+Mary knows that John eats or Bill drinks.
+Mary knows that John eats or that Bill drinks.
+Mary of John waits.
+Mary sees herself. Who sees herself?
+Mary sleeps and John sees herself.
+Mary sleeps and John sees herself and himself.
+Mary sleeps and John sees himself and herself.
+Mary sleeps. John sees herself.
+Mary sleeps. John sees himself and her.
+Mary sleeps. John sees himself and herself.
+Mary waits. A book is given to her by John.
+Mary waits. John gives a book to her.
+Mary waits. John gives a book to she.
+Mary waits. John waits. A book is given to her by him.
+Mary waits. John waits. What is given to her by him?
+Mary who which women ask for her waits ?
+May John not wait?
+men wait.
+More than 1 man waits.
+More than 3 clerks wait. John knows the clerks. Less than 2 clerks meet. John knows the clerks.
+More than 3 clerks wait. John knows the clerks. Less than 2 clerks sit. John knows the clerks.
+More than 3 kg of white rice of John rot.
+More than 3 men and less than 4 women wait.
+More than 3 men wait.
+More than one man waits. More than 2 women sleep.
+Must a man wait?
+must every code have a customer?
+must John like Mary?
+Must John run?
+Necessarily John waits.
+Nobody barks.
+Nobody believes that he can be seen by everybody.
+Nobody believes that he does not have to be seen by everybody.
+Nobody believes that he has to be seen by everybody.
+Nobody believes that he must be seen by everybody.
+Nobody knows nothing.
+Nobody of John waits.
+Nobody sees everybody.
+Nobody sees herself.
+Nobody sees himself.
+Nobody that waits waits.
+Nobody waits.
+No card is correct.
+No card is valid.
+No cards are valid.
+No customer inserts more than 2 cards.
+No dogs bark.
+No group that contains less than 3 bad members and contains less than 3 good members forms a committee.
+No laundries are clean.
+No laundry is clean.
+No man and a dog wait.
+No man a woman is.
+No man a woman sees.
+No man but John waits.
+No man, buy a car!
+No man eats or drinks.
+No man gives no woman no apple.
+No man is liked by a dog.
+No man is sad.
+No man is something that likes Mary and hates John.
+No man is something that likes Mary and that hates John.
+No man is taller than a dog.
+No man is taller than every dog.
+No man is taller than no dog.
+No man owns at least 0 cars.
+No man sees himself.
+No man who a woman sees waits.
+No men are sad.
+No men are some humans.
+No men wait.
+No one sleeps.
+No one waits.
+Not 5 men wait.
+Not all dogs bark.
+Not all laundry waits.
+Not a man waits.
+Not a man waits and that a dog barks.
+Not at most 3 dogs bark.
+Not each dog barks.
+not each of 2 girls lifts a table.
+Not each of 4 men waits.
+Not everybody waits. A dog barks.
+Not every card is correct.
+Not every man sees John. He waits.
+Not every man sees John. John waits.
+Not every man waits.
+Not everyone waits.
+Not everything sees itself.
+Not exactly 2 men wait.
+Not for all laundry a dog barks.
+Not for each man a dog barks.
+Not for each of some men a dog barks.
+Not for each of some men every dog of him barks.
+Not for each of some men every dog of the man barks.
+Not for every book the book has a title and the book has a code.
+Not for every man a dog barks.
+Not for every man that a dog barks.
+Not for no man a dog barks.
+Not for no man a dog likes John.
+Nothing of John waits.
+Not less than 3 dogs bark.
+Not less than 5 men wait.
+Not more than 5 men wait.
+Not not everybody waits.
+Not nothing waits.
+Not somebody waits.
+Not there is a man.
+One man sleeps.
+Paris is a village or is a city.
+Pi is 3.1415926536.
+Possibly a man waits.
+Possibly John waits.
+Should John wait?
+SimpleMat goes further and sees some abaci.
+Some abaci are green.
+Somebody A gives A A.
+Somebody and something wait.
+Somebody gives him him.
+Somebody gives him himself.
+Somebody gives himself him.
+Somebody gives himself himself.
+Somebody is big and eats and waits.
+Somebody is big and small.
+Somebody is big and small and waits.
+Somebody is given something by somebody.
+Somebody is himself.
+Somebody of John waits.
+Somebody runs. Somebody waits in him.
+Somebody sees a dog of himself.
+Somebody sees everybody.
+Somebody sees himself.
+Somebody sees his own dog.
+Somebody waits. He sees a dog of himself.
+Somebody waits. He sees himself.
+Somebody waits. He sleeps.
+Somebody waits in him.
+Somebody waits in himself.
+Somebody waits. It sleeps.
+Somebody waits. Somebody sees a dog of him.
+Somebody waits. Somebody sees a dog of himself.
+Somebody waits. Somebody sees him.
+Somebody waits. Somebody sees himself.
+Somebody who eats drinks.
+Some books are not quickly written by a man.
+Some books are not written by a man.
+Some books are quickly written by a man.
+Some books are sent to Mary by John.
+Some books are written by a man.
+Some cards a green.
+Some cards are green.
+Some contracts of a customer and a clerk are green.
+Some customers, buy a car!
+Some dogs of Mary and John bark.
+Some groups of some men see themselves.
+Some groups of some men talk.
+Some laundry are clean.
+Some laundry can wait.
+Some laundry of John is clean.
+Some laundry sees its own dog.
+Some laundry which sees itself is clean.
+Some men are at least 2 men.
+Some men are happy.
+Some men are sent a book by John.
+Some men, buy a dog that is owned by Bill and that likes you!
+Some men can not wait.
+Some men can see themselves.
+Some men can wait.
+Some men Christmases wait.
+Some men does not have to be rich.
+Some men does not have to wait.
+Some men do not have to be rich.
+Some men do not have to wait.
+Some men do wait.
+Some men has to wait.
+Some men have to wait.
+Some men is happy.
+Some men wait. The men talk.
+Some men wait. They are happy.
+Some men wait. They talk.
+some money is green.
+Someone waits.
+Something happens. It is good.
+Something is green.
+Something moves.
+Something moves. It waits.
+Something sees itself.
+Something waits. He sleeps.
+Something waits. It sleeps.
+Some water is not drinkable.
+Some water of John runs. Some water of Mary flows. The water of John is clean.
+Some water of John runs. The water of John is clean.
+Sue sees Mary that she that sees her that she sees sees.
+Sun is the Sun.
+Switzerland borders 4 countries that border Germany.
+Switzerland borders each of 4 countries that border Germany.
+that John waits.
+The book is given by Mary.
+The book is given by Mary to John.
+The book is given John by Mary.
+The card of John is the card of Bill.
+The card of which man is valid?
+The card of which man the card of who is valid is valid?
+The card of which man whose card is valid is valid?
+The card of who is valid?
+The cat of a man whose dog barks sleeps.
+The customer enters a card and a numeric personal code.
+The customer inserts a card and a code.
+The customer inserts a card that carries a code.
+The customer inserts a card with a code.
+the customer John enters a card.
+The customer Mr Miller inserts a card A.
+The customer who inserts a card manually enters a code.
+The dog of a man barks.
+The dog of a man whose dog barks barks.
+The dog of the man barks.
+The dog of who eats a bone?
+The dog that sees the man barks.
+The dog that sees the man barks. The dog eats. The man drinks.
+The dog which sees the man barks.
+The dog who sees the man barks.
+The flat mate of John is a clerk.
+The furniture is good.
+The man John walks. The woman John talks.
+The man owns the dog. The dog barks. The dog is red. The man who owns the dog that barks and that is red is happy.
+The man sleeps. There is a man.
+The man whose dog eats waits.
+The password of an account is known by the owner of the account.
+There are 0 cars.
+There are 0 kg of apples.
+There are 1000000000000000000000000000000 men.
+There are 10 h of work.
+There are 10 hour of work.
+There are 10 hours of work.
+There are 1234.
+There are 1 hour of work.
+There are 1 hours of work.
+There are 1 kg of water and 2 kg of apples.
+There are 2 girls and there are 2 tables. Each of the girls lifts each of the tables.
+There are 2 girls and there are 2 tables such that each of the girls lifts each of the tables.
+There are 2 kg of apples of John.
+There are 2 kg of apples. The apples are red.
+There are 2 kg of dirty laundry.
+There are 2 tables such that 2 girls lift them.
+There are 2 tables such that each of 2 girls lifts them.
+There are 384 tests.
+There are 3 dogs. There is a man who owns each of the dogs. The man who owns each of the dogs waits.
+There are 3 kg of apples. Each of the apples is red.
+There are 3 men.
+There are 3 men 3 cards of who are valid.
+There are 3 men. 3 men talk.
+There are 3 men. Each of the men wait.
+There are 3 men. Each of the men waits.
+There are 3 men. Each of them wait.
+There are 3 men. Each of them waits.
+There are 3 men. The men talk.
+There are 3 men. There are who?
+There are 3 men. They talk.
+There are 3 things and 4 things. Are they 7 things?
+There are 4 men. Not each of them waits.
+There are 4 men. Not for each of them a dog barks.
+There are 5 big men.
+There are 5 big men such that they are happy.
+There are 5 big men who are happy.
+There are a dog and a cat.
+There are a dog and a cat. They sleep. John sees them. John likes them.
+There are a man and a dog.
+There are a man and a dog of something. It is possible that they wait.
+There are a man and a woman.
+There are a man and he.
+There are a man and the dog.
+There are a red card and a blue card. The card is valid.
+There are a red card and a blue card. The red card is valid.
+There are at least 0 cars.
+There are at least 2 kg of dirty laundry.
+There are at most 0 cars.
+There are at most 2 kg of dirty laundry.
+There are at most 3 men. The men wait.
+There are a woman and every man.
+There are how many liters of some fluid?
+There are how many men of John?
+There are John and 2 men.
+There are John and 2 men ManGroup.
+There are John and 2 men ManGroup. ManGroup are happy.
+There are John and 2 men ManGroup. ManGroup is happy.
+There are John and Mary.
+There are John and Mary. He and her dogs bark.
+There are John and Mary. His and her dog barks.
+There are John and Mary. His and her dogs bark.
+There are John and Mary. There are Bill and Mary.
+There are less than 0 cars.
+There are less than 2 kg of dirty laundry.
+There are less than 2 kg of milk. There are less than 2 men.
+There are less than 4 men and less than 3 women and a man and John.
+There are more than 0 cars.
+There are more than 1 dog.
+There are more than 2 kg of dirty laundry.
+There are more than 2 kg of laundry.
+There are no laundries.
+There are no men.
+There are no men such that the men wait.
+There are not at least 5 men.
+There are not at most 5 men.
+There are some big men. There are some small men. The big men are happy.
+There are some big men. There are some small men. They wait.
+There are some cards a code of each of which has a date.
+There are some cards a code of each of which is valid.
+There are some cards a code of each of which John knows.
+there are some cards a code of not each of which John knows.
+there are some cards a code of which that have which is valid.
+There are some cards each of which has a code.
+There are some cards each of which is valid.
+There are some cards each of which John knows.
+There are some cards each of who has a code.
+There are some cards each of who is valid.
+There are some cards each of who John knows.
+there are some cards not each of which has a code.
+There are some cards the code of each of which is valid.
+There are some cards the code of each of who is valid.
+There are some cities in each of which John lives.
+There are some cities in which John lives.
+There are some men.
+There are some men a car of each of who is fast.
+There are some men a car of each of who John drives.
+There are some men a dog of each of who barks.
+There are some men a dog of the men barks.
+There are some men a dog of who barks.
+There are some men a dog of whose barks.
+There are some men each of a dog of who barks.
+There are some men. Each of the men waits.
+There are some men. Each of the men who is tired sleeps.
+There are some men each of which has a car.
+There are some men each of which is rich.
+There are some men each of which John knows.
+There are some men each of who has a car.
+There are some men each of who is rich.
+There are some men each of who John knows.
+There are some men each of whose dog barks.
+There are some men each of whose dogs barks.
+There are some men each of who waits.
+There are some men each of who who is tired sleeps.
+There are some men. For each of the men a dog barks.
+There are some men. For each of them the card is valid.
+There are some men. For each of they the card is valid.
+There are some men. If they are happy then they wait.
+There are some men such that the men wait.
+There are some men the car of each of which is fast.
+There are some men the car of each of who is fast.
+There are some men. Their dog barks.
+There are some men. The men talk.
+There are some men whose dog barks.
+There are some men who see a woman a cat of who smiles.
+There are some men who wait.
+There are the man and a dog.
+There are the man and the dog.
+There are which customers who see who?
+There are which dogs of a man?
+There are which men of John?
+There are who?
+There is 10 hour of work.
+There is 10 hours of work.
+There is 1 h of work.
+There is 1 hour of work.
+There is 1 hours of work.
+There is 1 kg of dirty laundry.
+There is 1 kg of laundry.
+There is 5.
+There is 5. It waits.
+There is a bank. A code is not in the bank.
+There is a black man. There is a man who sees himself. John knows the man. John encounters the black man. John watches the man who sees himself.
+There is a black woman. There is a woman who sees herself. John knows the woman. John encounters the black woman.
+There is a black woman. There is a woman who sees herself. John knows the woman. John encounters the black woman. John watches the woman who sees herself.
+There is a bone. A man enters it and a card.
+There is a bone. A man enters the bone and a card.
+There is a book. A database lists the title of the book and lists the code of the book.
+There is a book. Mary is sent it by John.
+There is a book. Mary is sent to it by John.
+There is a box.
+There is a boy. A man of his group waits.
+There is a boy. A man of his own group waits.
+There is a boy. A man sees him and a dog.
+There is a boy. A man sees himself and a dog.
+There is a boy. A man sees his cat and a dog.
+There is a boy. He sees the boy.
+There is a boy. There are a man and he.
+There is a boy. There is a man who he sees.
+There is a boy. There is a man who sees him.
+There is a card. A clerk gives it to a cashier.
+There is a card. A man brings it its friend and offers it his own computer.
+There is a card. A man brings it its man and offers it his own computer.
+There is a card. A man brings it its pencil and brings it his own computer.
+There is a card. A man brings it its pencil and his own computer.
+There is a card. A man brings it its pencil and its computer.
+There is a card. A man brings it its pencil and offers it his own computer.
+There is a card. A man brings it its pencil. The man brings it his own computer.
+There is a card. If there is a man then there is the card of the man.
+There is a card of a man which is valid.
+There is a card of every man.
+There is a card of John that is correct.
+There is a card such that a clerk enters a card of every customer.
+There is a card such that a clerk enters the card of every customer.
+There is a card that every customer inserts.
+There is a car that John buys for herself.
+There is a car that John buys for him.
+There is a car that John buys for himself.
+There is a case. It is not the case.
+There is a case. It is not the case that John sees.
+There is a case of some beer. It is not the case.
+There is a cat. A dog sees it.
+There is a cat and everything is a dog.
+There is a cat. It sees itself.
+There is a cat such that everything is a dog.
+There is a cat that likes the cat that smiles.
+There is a cat that likes the cat that smiles and that smiles.
+There is a cat that smiles and that likes the cat that smiles.
+There is a cat that smiles. John sees a cat that likes the cat that smiles.
+There is a cat that smiles or that is not the cat that smiles.
+There is a cat that smiles or that likes the cat that smiles.
+There is a child of a man. The child waits.
+There is a city in which John lives.
+There is a code of a card. Every card a code of which is correct is valid.
+There is a code of a card. Every card the code of which is correct is valid.
+There is a code of a card. Every card whose code is correct is valid.
+There is a code of a card. If the code of a card is correct then the card is valid.
+There is a code of a card. The code of a card is correct. The card is valid.
+There is a company from which John awaits a delivery.
+There is a company from who John awaits a delivery.
+There is a company that John awaits a delivery from.
+There is a customer such that the customer has a card and the customer has a code.
+There is a customer. The customer enters a card or drops it. He is angry.
+There is a customer. The customer enters a card or he drops it. He is angry.
+There is a day. A day follows the day.
+There is a dog. A cat sees what?
+There is a dog. A man brings the dog the dog.
+There is a dog. A man does not hit the dog. The dog barks.
+There is a dog. A man does not see the dog. It is under the bed.
+There is a dog. A man sees the dog and likes it.
+There is a dog. A man sees the dog of it.
+There is a dog and a cat.
+There is a dog and a cat of a rat.
+There is a dog and a cat sees what?
+There is a dog ,and there is a man or there is a woman ,and there is a cat.
+There is a dog. Each of some men who own the dog owns the dog.
+There is a dog. Every man likes the dog. Every woman hates the dog.
+There is a dog. Every man likes the dog. There is a dog. Every woman hates the dog.
+There is a dog. For all dogs a man sees the dog.
+There is a dog. For every dog a man sees the dog.
+There is a dog. It of a man waits.
+There is a dog Muri. Each of some men who own Muri owns Muri.
+There is a dog. Not each of a customer and a clerk waits.
+There is a dog. Not for each of a customer and a clerk a code is valid.
+There is a dog of 5 men.
+There is a dog of a cat and a rat.
+There is a dog of a cat of a rat.
+There is a dog of every man.
+There is a dog of every man. There is a cat of every woman.
+There is a dog of John. There is a dog of Mary. The dog of John barks.
+There is a dog that barks.
+There is a dog that nobody likes.
+There is a dog that sees the man or there is a cat that sees it.
+There is a dog. The dog barks. A man brings the dog the dog.
+There is a dog. There is a man who sees the dog.
+There is a dog which a man hits.
+there is a dog which barks and that eats.
+There is a green card or there is a red card such that a man enters it.
+There is a group of each of 3 men.
+There is a husband. She sleeps.
+There is a laundry.
+There is a laundry. The laundry is clean.
+There is a machine. It controls it.
+There is a machine. It controls itself.
+there is a man.
+There is a man 3 dogs of which bark.
+There is a man 3 dogs of who bark.
+There is a man A. A are happy.
+There is a man A. A is happy.
+There is a man A. A sees himself.
+There is a man. A clerk checks his card.
+There is a man. A clerk enters every card of him.
+There is a man. A clerk gives a card to him.
+There is a man. A clerk gives his card to him.
+There is a man. A clerk gives his own card to him.
+There is a man. A clerk sees a card in his hand.
+There is a man. A clerk sees him.
+There is a man. A dog of him eats. The dog of him barks.
+There is a man. A dog of him eats. The dog of the man barks.
+There is a man a dog of who barks.
+There is a man a dog of who barks and eats.
+There is a man a dog of who barks and who eats.
+There is a man a dog of who barks. The dog eats.
+There is a man a dog of who barks. The man eats.
+There is a man a dog of who barks. There is a man a dog of who eats. The man a dog of who barks waits.
+There is a man a dog of whose cat sleeps.
+There is a man a dog that eats of who barks.
+There is a man a dog who eats of who barks.
+There is a man. A group is a dog of the man and the man.
+There is a man. A group is the man and a dog of the man.
+There is a man a laundry of who collapses.
+There is a man at least 3 cars of who are liked by Mary.
+There is a man A who sees A. There is a man who sees John. John watches the man who sees him. John watches the man who sees A.
+There is a man. Everybody of his dog waits.
+There is a man. Every dog sees him and hears him.
+There is a man. Every man sees the man.
+There is a man. He gives a card to a dog.
+There is a man. He sees a card.
+There is a man. He sees himself.
+There is a man. He waits.
+There is a man. He waits. His card is correct.
+There is a man. He whose dog barks waits.
+There is a man. He who waits eats.
+There is a man. His brother sees himself.
+There is a man. His card is correct.
+There is a man. His dog barks.
+There is a man. His dog barks. The dog is happy.
+There is a man. His dog eats. There is a woman. Her dog drinks.
+There is a man. His dog eats. There is a woman. Her dog drinks. The dog of the man barks.
+There is a man. His dog waits.
+There is a man. His laundry smells.
+There is a man. His wife gives a card to a dog.
+There is a man. His wife sees a card.
+There is a man. His wife waits.
+There is a man. If the man enters a card then the card is correct.
+There is a man. If the man enters a card then the card is correct. He sleeps.
+There is a man. If there is the man then a dog barks.
+There is a man John.
+There is a man John. A man Bob brings him his pencil and his own computer.
+There is a man. John checks his card.
+There is a man. John does not like the man.
+There is a man. John enters every card which is his card.
+There is a man. John is the man and a dog of the man.
+There is a man. John is the man and a man.
+There is a man. John is the man and the man.
+There is a man John. John sleeps.
+There is a man.John sees a card in his hand.
+There is a man. John sees him.
+There is a man. John sees him. John checks his card. John sees a card in his hand.
+There is a man. John sees Mary and a dog and the man.
+There is a man. John sees Mary and a dog and the man. The man waits.
+There is a man. John sees the man. The man does not sleep.
+There is a man or the man does not sleep and John sees the man.
+There is a man or the man does not sleep, and John sees the man.
+There is a man or the man does not sleep or John sees the man.
+There is a man or the man sleeps.
+There is a man or there is a dog or there is a cat that sees it and him.
+There is a man or there is a dog that sees him or there is a cat that sees him.
+There is a man or there is a dog that sees him or there is a cat that sees it and him.
+There is a man or there is a dog that sees him or there is a cat that sees itself and him.
+There is a man or there is a dog that sees the man or there is a cat that sees it and the man.
+There is a man or there is a dog which sees him or there is a cat which sees him.
+There is a man or there is a dog which sees him or there is a cat which sees it.
+There is a man or there is a dog who sees him or there is a cat who sees him.
+There is a man or there is a dog who sees him or there is a cat who sees it.
+There is a man or there is a dog who sees him or there is a cat who sees it and him.
+There is a man or there is a woman.
+There is a man such that every dog of the man barks.
+There is a man such that he eats.
+There is a man such that he waits.
+There is a man such that he waits and the dog of who sleeps.
+There is a man such that he walks.
+There is a man such that the man sees himself.
+There is a man such that there is a woman such that the man knows the woman.
+There is a man that eats and drinks.
+There is a man that eats and that drinks.
+There is a man that eats and that drinks or that sleeps.
+There is a man that eats, and that drinks or that sleeps.
+There is a man that eats, and that drinks or that sleeps and that waits.
+There is a man that eats, and that drinks or that sleeps, and that waits.
+There is a man that eats or drinks.
+There is a man that John is not.
+There is a man that likes a cat and that sees the cat.
+There is a man that likes a cat and that sees the cat that smiles.
+There is a man that must feed every dog. There is a man that must feed every cat. The man that must feed every dog feeds himself.
+There is a man that owns at least 3 cars. The man that owns at least 3 cars waits.
+There is a man that sees a cat and that a cat sees.
+There is a man that sees a cat and that the cat sees.
+There is a man that sees a dog and that a cat sees.
+There is a man that sees a dog and that sees a cat.
+There is a man that sees a dog that a cat sees.
+There is a man that sees a dog that sees a cat.
+There is a man that sees a woman that owns a cat. Who is the man? Who is the woman?
+There is a man that waits and that likes a dog.
+There is a man the card of who is green and the code of who is valid.
+There is a man the card of who is green or the code of who is valid.
+There is a man the card of who is valid. The man sleeps.
+There is a man the dog of who barks and the cat of who plays or the mouse of who eats.
+There is a man the dog of who barks, and the cat of who plays or the mouse of who eats.
+There is a man. The man sees himself.
+There is a man. The man the card of who is valid sleeps.
+There is a man. There are a woman and the man.
+There is a man. There are he and he.
+There is a man. There are the man and a woman.
+There is a man. The red man sleeps.
+There is a man. There is a boy. He sees him.
+There is a man. There is a boy. He sees himself.
+There is a man. There is a boy. The man sees a boy.
+There is a man. There is a boy. The man sees himself.
+There is a man. There is a boy. The man sees the boy.
+There is a man. There is a card of him.
+There is a man. There is a card or the man inserts it.
+There is a man. There is a dog. If there is he then there is it.
+There is a man. There is a dog. John beats his dog.
+There is a man. There is a man such that the man sees him.
+There is a man. There is a woman. His and her dog barks.
+There is a man. There is a woman. There are the man and the woman.
+There is a man. There is he.
+There is a man. There is he. There is he.
+There is a man. There is his card.
+There is a man. There is his dog that barks.
+There is a man. There is the man.
+There is a man. There is the woman.
+There is a man who can eat. The man who can eat drinks.
+There is a man who cannot wait patiently. A girl sees the man who cannot wait.
+There is a man who cannot wait patiently. John sees the man who cannot wait.
+There is a man who can wait. The man who can wait sleeps.
+There is a man who does not have to eat. The man who does not have to eat drinks.
+There is a man who does not provably eat. The man who does not provably eat drinks.
+There is a man who does not see every dog that he sees. A man who sees a dog and who does not see the dog waits.
+There is a man who does not see every dog that he sees. The man who sees a dog and who does not see the dog waits.
+There is a man who does not sleep and John sees the man.
+There is a man who does not sleep. John sees the man.
+There is a man who does not sleep. John sees the man who does not sleep.
+There is a man who does not sleep or John sees the man.
+There is a man who does not sleep soundly in a bed in a morning.
+There is a man who does not sleep soundly in a bed in a morning. John sees the man who does not sleep soundly in a bed in a morning.
+There is a man who does not sleep. There is a man who sleeps. John sees the man who does not sleep.
+There is a man who does not sleep. There is a woman who does not wait. John sees the man who does not sleep.
+There is a man who does not wait. A girl sees the man who does not wait.
+There is a man who does not wait patiently. A girl sees the man who does not wait.
+There is a man who does not wait patiently. There is a man who does not sleep. A girl sees the man who does not wait. A boy expects the man who does not sleep.
+There is a man who does not wait patiently. There is a man who does not sleep. John sees the man who does not wait. Mary expects the man who does not sleep.
+There is a man who every dog sees. The man who every dog sees eats.
+There is a man who feeds every dog. There is a man who feeds every cat. The man who feeds every dog waits.
+There is a man who he sees.
+There is a man. Who hits him?
+There is a man. Who hits himself?
+There is a man who is rich and famous. The man who is famous and rich eats.
+There is a man who is rich and famous. The man who is rich eats.
+There is a man who knows that a dog barks. The man who knows that a dog barks waits.
+there is a man who knows who?
+There is a man who Mary is seen by.
+There is a man who must wait patiently. John sees the man who must wait.
+There is a man who must wait patiently. There is a man who can sleep. John sees the man who must wait. Mary expects the man who can sleep.
+There is a man who owns a dog. There is a man who owns a cat. John sees the man. John sees the man who owns the dog.
+There is a man who owns a dog. There is a man who owns a cat. John sees the man who owns a dog.
+There is a man who owns a dog. There is a man who owns a cat. John sees the man who owns the dog.
+There is a man who owns each of 3 dogs. The man who owns each of 3 dogs waits.
+There is a man whose dog barks. A dog of a man sleeps.
+There is a man whose dog barks and whose cat eats.
+There is a man whose dog barks. The dog of a man sleeps.
+There is a man whose dog barks. The dog of the man sleeps.
+There is a man whose dog barks. There is a woman whose dog barks.
+There is a man whose dog is happy.
+There is a man whose dog waits.
+There is a man who sees a big dog. There is a man who sees a small dog. The man who sees a big dog waits.
+There is a man who sees a dog and who the dog does not see.
+There is a man who sees a dog or who sees a cat. The man who sees a dog or who sees a cat waits.
+There is a man who sees a dog that sees a cat.
+There is a man who sees a dog that sees a cat. The man who sees a dog that sees a cat waits.
+There is a man who sees every dog that sees a cat.
+There is a man who sees every dog that sees a cat. The man who sees every dog that sees a cat waits.
+There is a man who sees every dog. The man who sees every dog waits.
+There is a man who sees himself.
+There is a man who sees himself. John watches the man who sees himself.
+There is a man who sees himself. There is a man who sees John. John watches the man who sees him. John watches the man who sees himself.
+There is a man who sees John and Mary. The man who sees John and Mary waits.
+There is a man who sees John and Mary. The man who sees Mary and Bill waits.
+There is a man who sees John and Mary. The man who sees Mary and John waits.
+There is a man who sees no dog. The man who sees no dog waits.
+There is a man who sees some women.
+There is a man who sees the man.
+There is a man whose good friend is Bill.
+There is a man who sleeps in a bed in the morning. There is a man who sleeps in a bank. The man who sleeps in the morning is tired.
+There is a man who sleeps in the morning in a bed. John sees the man who sleeps in a bed in the morning.
+There is a man who sleeps on a bank. There is a man who sleeps on a bed. John sees the man who sleeps on a bank.
+There is a man who sleeps safely and soundly. There is a man who sleeps fitfully. The man who sleeps safely is happy.
+There is a man who some women see.
+There is a man who the man sees.
+There is a man who waits silently and patiently. The man who waits silently eats.
+There is a man who waits. The man who also sleeps.
+There is a man who walks and who talks. The man who talks and who walks eats.
+There is a man who walks and who talks. The man who talks eats.
+There is a man who walks and who talks. The man who walks and who talks eats.
+There is a man who walks or who talks ,and who sleeps. The man who talks or who walks ,and who sleeps eats.
+There is a man who walks or who talks or who sleeps. The man who talks or who walks or who sleeps eats.
+There is a man who walks or who talks. The man who talks eats.
+There is a man who walks or who talks. The man who talks or who walks eats.
+There is a man who walks or who talks. The man who walks or who talks eats.
+There is a more important person.
+There is a most important person.
+There is an as important as Mary customer.
+There is a park. A dog barks in it.
+There is a park in which a dog barks.
+There is a price of a resource. The price of a resource is high. The resource is valid.
+There is a price of a resource. The price of the resource is high. The resource is valid.
+There is are 2 kg of apples.
+There is a red and blue dog. The red dog barks.
+There is a red card. There is a blue card. The red card is valid.
+There is a red man and there is a blue man.
+There is a red man and there is a blue man and the man feeds a dog.
+There is a red man and there is a blue man and the man feeds a dog and the dog that the blue man feeds barks.
+There is a red man and there is a blue man and the man feeds a dog and the dog that the red man feeds barks.
+There is a red man. The man sleeps.
+There is at least 1 man. The man is happy.
+There is at least 1 man. The men are happy.
+There is a vehicle which is a red Ford.
+There is a water. There is some water. The water is wet.
+There is a water. The water is wet.
+There is Bill.
+There is each of 3 men.
+There is everybody such that he eats.
+There is every man.
+There is how much food of John?
+There is John.
+There is John. A man brings him his pencil and brings him his own computer.
+There is John and there is a card that John enters. Does John enter the card?
+There is John and there is Mary. He and she wait.
+There is John. Bill sees him. He walks.
+There is John. John walks.
+There is John. Mary sees him. He walks.
+There is John or there is Mary.
+There is John. Peter sees him. He walks.
+There is John who Mary is seen by.
+There is more than 1 dog.
+There is more than 1 kg of laundry.
+There is nobody.
+There is nobody who sees nothing.
+There is nobody who sees something.
+There is no customer who inserts a card.
+There is no dog that bites every man.
+There is no laundry.
+There is no man.
+There is no man and he walks.
+There is no man such that he walks.
+There is no man such that the man waits.
+There is no man that sees something.
+There is no man who has a dog and who likes it.
+There is no man who walks.
+There is not a man.
+There is not each of 3 men.
+There is nothing.
+There is not some laundry.
+There is not some water.
+There is no water.
+there is some absinth.
+There is somebody. A dog of him barks.
+There is somebody. Somebody gives him himself.
+There is somebody. Somebody gives himself him.
+There is somebody. Somebody waits in him.
+There is somebody such that he eats.
+There is somebody. There is something. He waits.
+There is somebody. They wait.
+There is somebody who sees nothing.
+There is some fluid. How many liters of the fluid are there?
+There is some laundry.
+There is some laundry. It is clean.
+There is some laundry. It sees itself.
+There is some laundry. It sees its own dog.
+There is some laundry. The laundry is clean.
+There is some laundry. There is a dog. It is clean.
+There is some men.
+There is someone and he does not wait.
+There is someone. He waits.
+There is something. It waits.
+There is some toxicity. The toxicity is high.
+There is some water a man of which waits.
+There is some water. There is a water. The water is wet.
+There is some water. The water is wet.
+There is some water whose man waits.
+There is the dog of John.
+There is the man.
+There is the man A.
+There is the name of the dog of a man and a woman.
+There is which man?
+There is who?
+the screen blinks and John waits.
+The small card is green. A big card is red. The small card is valid.
+The small card is green. The big card is red. The small card is valid.
+the surface of the card has a green color.
+The train arrives in the station in the morning.
+The water flows.
+The waters are deep.
+This is not an ACE text!!!
+VisaCards wait.
+What are some men?
+What are the cars of John?
+What can a customer enter?
+what can a man not have?
+What does a man enter?
+What does a man look at?
+What does John live in?
+What does John not like?
+What does John not see?
+What does not a customer enter?
+What does the customer insert?
+What does who see?
+what is a dog living in?
+What is given to Mary by John?
+What is nothing?
+What is something that is not something?
+What is when?
+What is written by a man?
+What is written by who?
+What John does not like?
+What must a customer enter?
+what must a man own?
+What sees itself?
+What which is good does a man enter?
+What which succeeds exists?
+When are some cards valid?
+When can a card be valid?
+when can some cards be valid?
+when can some cards is valid?
+when can some cards must be valid?
+When does a man enter a card?
+When is a string a password?
+When is a string a password of who?
+When is Christmas?
+When is what?
+Where can a card be bought by a customer?
+Where can an escaped prisoner be?
+Where can an escaped prisoner be rich?
+Where can which cards be bought by a customer?
+Where can which cards be bought by which customers of John?
+Where does a ball in a park hit John?
+Where does a customer enter a card?
+Where does a man A wait?
+Where does a man enter a card?
+Where does a man enter every card?
+Where does a man enter no card?
+Where does a man live?
+Where does a man quickly run?
+where does a man run?
+Where does a man run quickly?
+where does a man wait?
+Where does Bill give what to who?
+Where does John come from?
+Where does John live?
+Where does John live in?
+Where does not a customer enter a card?
+Where does the man live?
+Where does the man live? Who lives in the town?
+Where is a card entered by a customer?
+Where is Bill?
+Where must a customer enter a card?
+Which bank which a man enters is good?
+Which card is seen by John?
+Which card of a man is valid?
+Which card of which man is valid?
+Which card of who is valid?
+Which card of who is what?
+Which cards must every customer enter into which slots?
+which code does a customer enter?
+which code does a customer have to enter?
+Which code does a customer not have to enter?
+which code does who enter?
+which code has a customer to enter?
+Which code is there?
+Which codes must a customer enter?
+Which customer does John not provably know?
+Which customer does John not provably not know?
+Which customer does not provably wait?
+Which customer inserts a card?
+Which dog of John barks?
+Which dog of John waits?
+Which dog of which cat barks?
+Which dog of which man sleeps?
+Which dog of who likes who?
+Which dogs of a man are there?
+Which dogs of John bark?
+Which film contains a role that a person A performs, and contains a role that depicts A and that a person that is not A performs?
+Which film contains a role that which person A performs, and contains a role that depicts A and that a person that is not A performs?
+Which man does not wait?
+Which man eats and drinks?
+Which man gives which cat which which dog chases which apple which what eats?
+Which man gives which dog which chases which cat which apple which is what?
+Which man is there?
+Which man likes who?
+Which man sees every dog?
+Which man the dog of who sees a bone is there?
+Which man the dog of who sees a bone waits?
+Which man waits?
+Which man who eats waits?
+Which man whose dog barks waits?
+Which man whose dog sees a bone waits?
+Which men are there?
+Which men give which flowers to which women?
+Which men wait?
+Which thing which is good does a man enter?
+Which thing which succeeds exists?
+Who are the children of John?
+Who does a dog see who is a man?
+Who does a man hit?
+Who does John not see?
+Who does not see himself?
+Who does not see who who does not see himself?
+Who does not wait?
+Who eats and drinks?
+Who eats or sleeps?
+Who enters a card?
+Who gives what to who?
+Who gives who what?
+Who gives who who?
+Who hits himself?
+Who hits who?
+Who inserts a card?
+Who is in the park in the town?
+Who is known by somebody that knows who?
+Who is somebody that somebody that knows who knows?
+Who is there?
+Who likes nothing but Mary?
+Who likes nothing but raw meat?
+Who of a man waits?
+Who runs and hits himself?
+Whose card is valid?
+Whose child is Mary and is nothing but Mary?
+whose dog barks?
+Whose dog barks.
+Whose dogs wait?
+Whose dog waits?
+Who sees herself?
+Who sees himself?
+Who sees itself?
+Who sees themselves?
+Who sees who?
+Who sees who who does not see himself?
+Who see themselves?
+Who sleeps? John waits.
+Who that waits sleeps?
+Who wait?
+Who waits?
+who waits? what waits?
+Who which waits sleeps?
+Who who a dog sees waits?
+Who who eats drinks?
+Who who waits sleeps?
