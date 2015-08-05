@@ -13,4 +13,4 @@ echo "Untranslated functions"
 cat tests.gold.tsv | cut -f2 | tr ' ' '\012' | grep "]" | sort | uniq -c | sort -nr
 
 #diff tests.gold.tsv tests.out.tsv
-cat tests.gold.tsv | cut -f1,2 | sed "s/* //g" > tests.gold.col12.tsv
+cat tests.gold.tsv | grep -v "\-1" | cut -f1,2 | sed "s/* //g" > tests.gold.col12.tsv

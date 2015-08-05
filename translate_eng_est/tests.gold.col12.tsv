@@ -1,15 +1,9 @@
 10 kg of laundry are on the table .	10 pesu kgit on laud [on_Prep] .
 10 kg of laundry is on the table .	10 pesu kgit on laud [on_Prep] .
-1234 is a code.	
-123man man123 123man123 man123man	
 14 is 15 .	ühed 14 on ühed 15 .
 1 gives 2 3 .	üks 1 annab ühtedele 3 ühtede 2 .
 1 gives 2 a man .	üks 1 annab mehele ühtede 2 .
 1 gives a man 3 .	üks 1 annab mehele ühtede 3 .
-1 gives John a man.	
-1 is 2.3 is 4.	
-1 is not 0.5. 1 is bigger.	
-1 is not 0.5.1 is bigger.	
 1 is smaller than 2 .	üks 1 on väiksem kui ühed 2 .
 1 kg of apples exist .	üks 1 õunte kgid eksisteerivad .
 1 kg of apples exists .	1 õunte kg eksisteerib .
@@ -22,66 +16,40 @@
 2 girls lift each of 2 tables .	2 tüdrukut tõstavad [CountNP] .
 2 kg of apples exist .	2 õunte kgit eksisteerivad .
 2 kg of apples exists .	2 õunte kgit eksisteerib .
-2 kg of apples of John wait.	
 2 kg of laundry wait .	2 pesu kgit ootavad .
 2 kg of laundry waits .	2 pesu kgit ootab .
 2 kg of some apples wait .	2 [some_Quant] õunte kgit ootavad .
-2 kg of sugar are used by John for what?	
 2 kg of water runs . the water is cold .	[FocusObjS] . vesi on külm .
-2l of warm water flows. 2l of cold water flows. The warm water boils.	
-2l of water of John runs.	
-2l of water of John runs. 2l of water of Mary flows. The water of John is clean.	
-2l of water runs. It is clean.	
-2l of water that every man drinks runs.	
 2 men are seen by 2 dogs .	2 meest näevad .
-2 men John and John eat.	
-2 men ManGroup drink. ManGroup talks. It eats.	
-2 men ManGroup drink. ManGroup talks. They eat.	
-2 men ManGroup drink. ManGroup talk. They eat.	
-2 men ManGroup drink. They eat.	
 2 men sees their own card .	2 meest näeb [they_Pron] oma kaarti .
 2 men see their own card .	2 meest näevad [they_Pron] oma kaarti .
 2 men see themselves .	2 meest [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] .
 2 men wait .	2 meest ootavad .
 2 men waits .	2 meest ootab .
 2 wait .	ühed 2 ootab .
-3.141592653611111 approximates Pi.	
-3.1415926536 approximates Pi.	
-3.14 is a ratio of a circumference of a circle to its diameter.	
-3.14 is a real.	
-3.14 is real.	
 3 kg of apples are heavy .	3 õunte kgit on kõvad .
 3 kg of apples is heavy .	3 õunte kgit on kõva .
 5 men are seen by everybody .	5 meest näevad .
 5 rich men wait .	5 rikast meest ootavad .
-A ball in a park hits John.	
 a ball is blue .	ball on aadellik .
-A ball of a girl is blue. John sees the ball of the girl. Mary sees a ball of the girl.	
-A ball where hits John?	
 a bank in which a man enters a code is open .	pank kes [in_Prep] mees sisestab koodi on avalik .
 a bank which a man enters is good .	pank kelle mees sisestab on hea .
 a best car wins .	kõige heam auto võidab .
 a big hungry dog barks .	oluliselt näljane koer haukub .
-A book is given to Mary by John.	
 a book is not quickly written by a man .	arveraamat ei kirjuta äkiliselt .
 a book is not written by a man .	arveraamat ei kirjuta .
 a book is quickly written by a man .	arveraamat kirjutab äkiliselt .
-A book is sent to some men by John.	
 a book is written by a man .	arveraamat kirjutab .
 a book written by a man .	[PastPartAgentAP] arveraamatu .
 a book written by a man quickly .	[PastPartAgentAP] arveraamatu .
 a card a code of who a man enters is valid .	kaart kes [of_Prep] koodi mees sisestab on kehtiv .
-A card is manually taken by John.	
 a card is not valid .	kaart ei ole kehtiv .
-A card is taken by John manually.	
-A card is taken manually by John.	
 a card is valid .	kaart on kehtiv .
 a card is valid carefully .	kaart on ettevaatlikult kehtiv .
 a card is valid carefully in a slot .	kaart on ettevaatlikult lõhe [in_Prep] kehtiv .
 a card is valid in a slot .	kaart on lõhe [in_Prep] kehtiv .
 a card is valid in a slot carefully .	kaart on lõhe [in_Prep] ettevaatlikult kehtiv .
 a card is valid in a slot in a bank .	kaart on lõhe [in_Prep] pank [in_Prep] kehtiv .
-A card manually is taken by John.	
 a card of a man a card of who is valid is valid .	mehe kaart kes [of_Prep] kaart on kehtiv on kehtiv .
 a card of a man sees him .	mehe kaart näeb [he_Pron] .
 a card of a man the card of who is valid is valid .	mehe kaart kes [of_Prep] kaart on kehtiv on kehtiv .
@@ -90,7 +58,6 @@ a card of somebody is valid .	kaart [somebody_NP] [of_Prep] on kehtiv .
 a card of somebody is valid . a card of who is valid ?	kaart [somebody_NP] [of_Prep] on kehtiv . kaart mis [of_Prep] [whoSg_IP] on kehtiv ?
 a card of which man is valid ?	kaardi kes [of_Prep] mees on kehtiv ?
 a card of which man the card of who is valid is valid ?	kaardi kes [of_Prep] mees kes [of_Prep] kaart on kehtiv on kehtiv ?
-A card of which man whose card is valid is valid?	
 a card of who is valid ?	kaardi mis [of_Prep] [whoSg_IP] on kehtiv ?
 a card that a man enters is valid .	kaart [that_Subj] mees siseneb on kehtiv .
 a card that is tired sleeps .	kaart kes on väsinud magab .
@@ -101,9 +68,6 @@ a car runs more speedily .	auto jookseb nobedalt enam .
 a car runs more speedily than a bike .	auto jookseb nobedalt enam jalgratas [than_Prep] .
 a cat is feared by every mouse .	kass kardab .
 a cat is not hated by a dog .	kass ei vihka .
-A cat is not hated by John.	
-A child Id1 of a child Id2 of a man Adam waits.	
-A child of who is a patricide whose child is somebody who is not a patricide?	
 a clerk enters a card of every customer .	ametnik sisestab [every_Det] meeskliendi kaardi .
 a clerk enters a card of every customer . the card of every customer is valid .	ametnik sisestab [every_Det] meeskliendi kaardi . [every_Det] meeskliendi kaart on kehtiv .
 a clerk enters a card of him .	ametnik sisestab [he_Pron] [of_Prep] kaardi .
@@ -112,15 +76,12 @@ a clerk enters every card of him .	ametnik sisestab [he_Pron] [of_Prep] [every_D
 a clerk enters every card of himself .	ametnik sisestab [every_Det] kaardi mis [of_Prep] ennast .
 a clerk enters the card of himself .	ametnik sisestab kaardi mis [of_Prep] ennast .
 a clerk rejects a card or accepts it .	ametnik hülgab kaardi või aktsepteerib [it_Pron] .
-A code is 1234.	
 a code of a card of who is valid ?	kaardi koodi mis [of_Prep] [whoSg_IP] on kehtiv ?
 a contract of a customer and a clerk are green .	meeskliendi leping ja ametnik on roheline .
 a contract of a customer and a clerk is green .	meeskliendi ja ametniku leping on roheline .
 a customer can enter what ?	meesklient [can_1_VV] siseneda [can_1_VV] [whatSg_IP] ?
 a customer does not enter a card . the card is correct .	meesklient ei sisesta kaarti . kaart on korrektne .
 a customer does not insert a card .	meesklient ei sisesta kaarti .
-A customer enters a card and a code. If a code is valid then SimpleMat accepts a card. If a code is not valid then SimpleMat rejects a card.	
-A customer enters a card and a code. If it is valid then SimpleMat accepts the card. If it is not valid then SimpleMat rejects the card.	
 a customer enters a card of himself .	meesklient sisestab kaardi mis [of_Prep] ennast .
 a customer enters a card or drops it . he is angry .	meesklient sisestab kaardi või [drop_V2] [it_Pron] [drop_V2] . [he_Pron] olen ärritunud .
 a customer enters a card or he drops it . he is angry .	meesklient sisestab kaardi või [he_Pron] [drop_V2] [it_Pron] [drop_V2] [drop_V2] . [he_Pron] olen ärritunud .
@@ -142,15 +103,11 @@ a customer inserts some cards into a slot .	meesklient sisestab lõhe [into_Prep
 a customer inserts some cards manually .	meesklient sisestab manuaalselt [some_Quant] kaardid .
 a customer is .	meeskliendi on .
 a customer is manually .	meesklient on manuaalselt .
-A customer is richer than Mary and taller than no dog.	
 a customer manually inserts some cards .	meesklient manuaalselt sisestab [some_Quant] kaardid .
 a customer of a man who is rich waits .	mehe meesklient kes on rikas ootab .
-A customer of John who is rich waits.	
 a customer waits patiently .	meesklient ootab kannatlikult .
 a customer who is new inserts a card that he owns .	meesklient kes on uus sisestab kaardi kelle [he_Pron] oman .
 a customer who manually in a bank enters a card types a code .	meeskliendi [whoSg_IP] manuaalselt pank [in_Prep] sisestab kaardi tipib koodi .
-A database lists for every book its title.	
-A doctor waits. He is happy.She is tired.	
 a doctor waits . she is tired . he is happy .	arstima ootab . [she_Pron] olen väsinud . [he_Pron] olen õnnelik .
 a dog barks . it is not the case that everybody waits .	koer haukub . see ei ole asi keda [everybody_NP] ootan .
 a dog barks . not everybody waits .	koer haukub . ei [everybody_NP] ootan .
@@ -164,8 +121,6 @@ a dog is good and bad .	koer on hea ja halb .
 a dog is more active than a cat .	koer on aktiivim kui kass .
 a dog is more good than a cat .	koer on enam kass [than_Prep] hea .
 a dog is not a cat .	koer ei ole kass .
-A dog Muri of a man is happy. A dog of a woman is sad. Muri barks.	
-A dog Muri of a man is happy. A dog of a woman is sad. The dog Muri barks.	
 a dog of a boy barks . the boy waits .	poisi koer haukub . poiss ootab .
 a dog of a man and a woman barks .	mehe ja naise koer haukub .
 a dog of a man and of a woman waits .	koer mees [of_Prep] ja naine [of_Prep] ootab .
@@ -176,12 +131,9 @@ a dog of a man is happy . a dog of a woman is sad . the dog barks .	mehe koer on
 a dog of a man is happy . a dog of a woman is sad . the dog of a man barks .	mehe koer on õnnelik . naise koer on kurb . mehe koer haukub .
 a dog of a man is happy . a dog of a woman is sad . the dog of the man barks .	mehe koer on õnnelik . naise koer on kurb . mehe koer haukub .
 a dog of a man of a house barks .	elamu mehe koer haukub .
-A dog of a man whose dog barks barks.	
 a dog of a woman walks . a dog of a boy barks . the dog of the boy is happy .	naise koer jalutab . poisi koer haukub . poisi koer on õnnelik .
 a dog of every man waits .	[every_Det] mehe koer ootab .
 a dog of every man who waits barks .	[every_Det] mehe koer kes ootab haukub .
-A dog of its man barks.	
-A dog of its own man barks.	
 a dog of somebody barks .	koer [somebody_NP] [of_Prep] haukub .
 a dog of somebody barks . he waits .	koer [somebody_NP] [of_Prep] haukub . [he_Pron] ootan .
 a dog of somebody barks . it waits .	koer [somebody_NP] [of_Prep] haukub . [it_Pron] ootan .
@@ -204,17 +156,8 @@ a dog that every man who waits has barks .	koer [that_Subj] [every_Det] mees kes
 a dog which runs barks .	koer kes jookseb haukub .
 a dog who run barks .	koera [whoPl_IP] jookseb haugatused .
 a dog who runs barks .	koer kes jookseb haukub .
-A dummy Dummy dummy a dummy.	
 a flat mate runs .	konstantne [mateMasc_2_N] jookseb .
 a girl of a boy waits . the girl eats .	poisi tüdruk ootab . tüdruk sööb .
-A girl sees every man whose dog waits.	
-A girl whose cat a mouse of which smiles eats waits.	
-A girl whose cat a mouse of who smiles eats waits.	
-A girl whose cat whose mouse smiles eats sees a dog.	
-A girl whose mouse smiles sees a dog.	
-A laundry of John collapses.	
-A laundry of John is clean.	
-A laundry sees its own dog.	
 a laundry washes some laundry . it is clean . some water sees a water . it is cold .	pesu peseb [some_Quant] pesu . on laitmatu . [some_Quant] vesi näeb vett . on külm .
 all dogs bark .	[all_Predet] koerad haukuvad .
 all laundries are wet .	[all_Predet] pesud on märjad .
@@ -235,7 +178,6 @@ all men sleep . they are tired .	[all_Predet] mehed magavad . [they_Pron] olen v
 all money is green .	[all_Predet] raha on roheline .
 all sand needs some water .	[all_Predet] lihvima vajab [some_Quant] vett .
 all water runs .	[all_Predet] vesi jookseb .
-A machine reads a card that carries its own code.	
 a man 3 dogs of who bark waits .	mees kelled [of_Prep] 3 koera haukuvad ootab .
 a man a card of who is valid waits .	mees kes [of_Prep] kaart on kehtiv ootab .
 a man a dog of who eats a bone waits .	mees kes [of_Prep] koer sööb kondi ootab .
@@ -245,21 +187,15 @@ a man and a dog wait . they talk .	mees ja koer ootab . [they_Pron] kõnelen .
 a man and he see a cat and it .	mees ja [he_Pron] näen kassi ja [it_Pron] .
 a man and no dog wait .	mees ja [no_Quant] koer ootab .
 a man and the man and he see a cat and the cat and it .	mees ja mees ja [he_Pron] näen kassi ja kassi ja [it_Pron] .
-A man A waits.	
 a man believes that he sleeps and that he sleeps .	mees arvab et [he_Pron] magan ja [that_Subj] [he_Pron] magan .
-A man brings a card its pencil and his own computer.	
 a man brings a dog it .	mees lisab koerale [it_Pron] .
 a man , buy a car !	[ApposNP] auto !
-A man, buy a dog that is owned by Bill and that likes him!	
-A man, buy a dog that is owned by Bill and that likes you!	
 a man , buy a dog that likes him !	[ApposNP] koera kes meeldib [he_Pron] !
 a man , buy a dog that likes you !	[ApposNP] koer kes meeldib [youSgFem_Pron] !
 a man can be rich .	mees [can_2_VV] rikas olla [can_2_VV] .
 a man can give a woman an apple .	mees [can_2_VV] naisele õuna anda [can_2_VV] .
 a man can not be rich .	mees ei [can_2_VV] rikas olla [can_2_VV] .
 a man can not give a woman an apple .	mees ei [can_2_VV] naisele õuna anda [can_2_VV] .
-A man can not sleep. A man can sleep. John sees the man who can not sleep.	
-A man can not sleep. John sees the man who can not sleep.	
 a man can not wait .	mees ei [can_2_VV] ootada [can_2_VV] .
 a man can not wait .	mees ei [can_2_VV] ootada [can_2_VV] .
 a man can see a dog in a park .	mees [can_2_VV] park [in_Prep] koera näha [can_2_VV] .
@@ -275,8 +211,6 @@ a man does not have to wait .	mees ei ole ootada .
 a man does not is seen by a dog .	mees piisab ei näeb .
 a man does not know that a dog barks and a cat eats a cake .	mees ei teaa et koer haukub ja kass sööb keeksi .
 a man does not know that a dog barks and that a cat eats a cake .	mees ei teaa et koer haukub ja [FocusObjS] keeks .
-A man does not like a man John.	
-A man does not like John. He waits.	
 a man does not quickly wait .	mees piisab ei äkilise ootamine .
 a man does not see everything .	mees ei näe [everything_NP] .
 a man does not sleep or does not wait .	mees ei maga või ei oota .
@@ -284,7 +218,6 @@ a man does not wait . a girl sees the man who does not wait .	mees ei oota . tü
 a man does not wait in a bank .	mees ei oota pank [in_Prep] .
 a man does not wait patiently . a girl sees the man who does not wait .	mees ei oota kannatlikult . tüdruk näeb meest [whoSg_IP] ei oota .
 a man does not wait patiently . a man does not sleep . a girl sees the man who does not wait . a boy expects the man who does not sleep .	mees ei oota kannatlikult . mees ei maga . tüdruk näeb meest [whoSg_IP] ei oota . poiss eeldab meest [whoSg_IP] ei maga .
-A man does not wait patiently. A man does not sleep. John sees the man who does not wait. Mary expects the man who does not sleep.	
 a man does seen by a dog .	mees piisab [PastPartAgentAP] .
 a man eats and he drinks .	mees sööb ja [he_Pron] joon .
 a man eats , and he drinks .	mees sööb , ja [he_Pron] joon .
@@ -314,7 +247,6 @@ a man enters every card in the morning .	mees sisestab hommik [in_Prep] [every_D
 a man enters no card .	mees sisestab [no_Quant] kaardi .
 a man enters no card manually .	mees sisestab manuaalselt [no_Quant] kaardi .
 a man gives 2 3 .	mees annab ühtedele 3 ühtede 2 .
-a man gives 2 John.	
 a man gives a bone to a dog and gives a cake to a cat .	mees annab kondi koer [to_Prep] ja annab keeksi kass [to_Prep] .
 a man gives a bone to a dog manually and carefully .	mees annab koer [to_Prep] manuaalselt ja ettevaatlikult kondi .
 a man gives a bone to a dog manually carefully .	mees annab koer [to_Prep] manuaalselt ettevaatlikult kondi .
@@ -329,22 +261,17 @@ a man gives a dog a card in him .	mees annab [he_Pron] [in_Prep] kaardile koera 
 a man gives a dog a card in his house .	mees annab [he_Pron] elamu [in_Prep] kaardile koera .
 a man gives a dog him .	mees annab koerale [he_Pron] .
 a man gives a dog his card .	mees annab koerale [he_Pron] kaardi .
-A man gives at least 3 apples to John.	
 a man gives him a card .	mees annab kaardile [he_Pron] .
 a man gives him a card .	mees annab kaardile [he_Pron] .
 a man gives him to a dog .	mees annab koer [to_Prep] [he_Pron] .
 a man gives his card to a dog .	mees annab koer [to_Prep] [he_Pron] kaardi .
 a man gives his dog a card .	mees annab kaardile [he_Pron] koera .
 a man gives his dog his card in his house .	mees annab [he_Pron] elamu [in_Prep] [he_Pron] koerale [he_Pron] kaardi .
-a man gives John 3.	
-A man gives John at most 3 apples.	
 a man has 2 kg of apples .	mees oleb 2 õunte kgit .
 a man has 2 kg of dirty water .	mees oleb 2 alatu vee kgit .
 a man has 2 kg of green apples .	mees oleb 2 roheliste õunte kgit .
 a man has 2 kg of laundries .	mees oleb 2 pesude kgit .
 a man has 2 kg of laundry .	mees oleb 2 pesu kgit .
-A man has 2 mol of apples.	
-A man has 2 t of apples.	
 a man has 2 ton of apples .	mees oleb ühtede 2 õunte tonn .
 a man has 2 tons of apples .	mees oleb 2 õunte tonni .
 a man has to wait .	mees oleb ootada .
@@ -358,7 +285,6 @@ a man hits a dog which runs fast .	mees lööb koera kes jookseb kiire .
 a man hits a dog which runs fast in a park .	mees lööb park [in_Prep] koera kes jookseb kiire .
 a man hits a dog which runs fast in a park quickly .	mees lööb koera kes jookseb park [in_Prep] äkiliselt kiire .
 a man hits a dog which runs fast quickly .	mees lööb koera kes jookseb äkiliselt kiire .
-A man hits a dog whose bone is green.	
 a man hits a green dog that barks .	mees lööb rohelise koera kes haukub .
 a man hits his own dog . he is happy .	mees lööb [he_Pron] oma koera . [he_Pron] olen õnnelik .
 a man hits his own dog . the man is happy .	mees lööb [he_Pron] oma koera . mees on õnnelik .
@@ -386,36 +312,19 @@ a man is himself .	mehe on ennast .
 a man is in his own garden .	mees on [he_Pron] oma aed [in_Prep] .
 a man is not a customer . he is happy .	mees ei ole meesklient . [he_Pron] olen õnnelik .
 a man is not no dog .	mees ei ole [no_Quant] koer .
-A man is red and owns a dog. A man is red and owns a cat. John sees the man who is red and who owns a dog.	
-A man is red and owns a dog. A man is red and owns a cat. John sees the red man who owns a dog.	
 a man is red . the red man sleeps .	mees on punane . punane mees magab .
 a man is rich and famous .	mees on rikas ja kuulus .
 a man is seen by him .	mees näeb .
 a man is seen by himself .	mees [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] .
 a man is taller than a woman .	mees on kõrgem kui naine .
 a man is taller than no dog .	mees on kõrgem kui [no_Quant] koer .
-A man John gives an apple to a woman Mary. Mary accepts the apple and eats it. She is happy and he has no apples.	
-A man John gives his own wife Mary a big and red apple.	
-A man John gives his own wife Mary a unknownword.	
-A man John waits.	
-A man John waits. John is happy.	
-A man John walks.	
-A man Kaarel tests an ape.	
-A man Kaarel works extremely and fast.	
-a man Kaarel works extremely fast.	
-a man Kaarel works hard.	
 a man knows that a dog barks and a cat eats a cake .	mees teaab et koer haukub ja kass sööb keeksi .
 a man knows that a dog barks and that a cat eats a cake .	mees teaab et koer haukub ja [FocusObjS] keeks .
-A man likes a boy John.	
 a man likes a dog . it barks .	mees meeldib koera . [it_Pron] haukun .
-A man likes Mary. Sue likes the man that likes Mary.	
 a man lives in a town .	mees elab linn [in_Prep] .
 a man lives in a town . where does the man live ?	mees elab linn [in_Prep] . [where_IAdv] mees elab ?
 a man lives in a town . where does the man live ? who lives in the town ?	mees elab linn [in_Prep] . [where_IAdv] mees elab ? [whoSg_IP] elab linn [in_Prep] ?
 a man looks at a card .	mees [look_at_V2] kaart [look_at_V2] [look_at_V2] .
-A man Man1 waits.	
-A man Man1 waits. Man1 is happy.	
-A man Man1 waits. The man Man1 is happy.	
 a man manually enters a card .	mees manuaalselt sisestab kaardi .
 a man manually enters a card usually .	mees manuaalselt sisestab harilikult kaardi .
 a man manually in a bank enters a card usually in a morning .	mees manuaalselt pank [in_Prep] sisestab harilikult hommik [in_Prep] kaardi .
@@ -429,10 +338,6 @@ a man of some water waits .	[some_Quant] vee mees ootab .
 a man of the man waits .	mehe mees ootab .
 a man owns a dog . a girl sees the man who owns a dog . the dog barks .	mees omab koera . tüdruk näeb meest [whoSg_IP] omab koera . koer haukub .
 a man owns a dog . a man owns a cat . a girl sees the man who owns a dog .	mees omab koera . mees omab kassi . tüdruk näeb meest [whoSg_IP] omab koera .
-A man owns a dog. A man owns a cat. John sees the man who owns a dog.	
-A man owns a dog. John sees the man who owns a dog.	
-A man owns a dog. John sees the man who owns a dog. The dog barks.	
-A man owns a dog. John sees the man who owns the dog. The dog barks.	
 a man owns not at least 2 cars .	mees omab ei [at_least_AdN] 2 autot .
 a man owns not at most 2 cars .	mees omab ei [most_Det] [at_Prep] 2 autot .
 a man owns not more than 2 cars .	mees omab ei [more_than_AdN] 2 autot .
@@ -477,10 +382,6 @@ a man sees a dog and the dog .	mees näeb koera ja koera .
 a man sees a dog that barks .	mees näeb et [FocusObjS] .
 a man sees a mat on which a cat sits .	mees näeb matti kellele kass istub .
 a man sees a mat on which every cat sits .	mees näeb matti kellele [every_Det] kass istub .
-A man sees a woman. Mary knows the man that sees a woman.	
-A man sees a woman. Mary knows the man that sees the woman.	
-A man sees a woman. Mary knows the woman that a man sees.	
-A man sees a woman. Mary knows the woman that the man sees.	
 a man sees everybody .	mees näeb [everybody_NP] .
 a man sees everybody and a dog .	mees näeb [everybody_NP] ja koera .
 a man sees everybody and him .	mees näeb [everybody_NP] ja [he_Pron] .
@@ -489,7 +390,6 @@ a man sees everybody who eat .	mees näeb [everybody_NP] [whoPl_IP] sööb .
 a man sees everybody who eats .	mees näeb [everybody_NP] [whoSg_IP] sööb .
 a man sees every boy and a girl .	mees näeb [every_Det] poissi ja tüdrukut .
 a man sees every dog .	mees näeb [every_Det] koera .
-a man sees Every dog and If There is A dog then The dog Is An animal.	
 a man sees every mat on which a cat sits .	mees näeb [every_Det] matti kellele kass istub .
 a man sees him .	mees näeb [he_Pron] .
 a man sees himself .	mees [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] .
@@ -511,7 +411,6 @@ a man sleeps in a bed in a bed .	mees magab kiht [in_Prep] kiht [in_Prep] .
 a man sleeps in a bed in the bed .	mees magab kiht [in_Prep] kiht [in_Prep] .
 a man sleeps in the morning and in the morning .	mees magab hommik [in_Prep] ja hommik [in_Prep] .
 a man sleeps in the morning in the morning .	mees magab hommik [in_Prep] hommik [in_Prep] .
-A man slooowly walks.	
 a man spends his own vacation in a warm country . where does he spend the vacation ?	mees kulutab soe kantri [in_Prep] [he_Pron] oma koolivaheaegi . [where_IAdv] [he_Pron] kulutan koolivaheaegi ?
 a man talks about a day .	mees kõneleb aeg [about_Prep] .
 a man talks during a day .	mees kõneleb aeg [during_Prep] .
@@ -550,24 +449,19 @@ a man waits in a bank quickly .	mees ootab äkiliselt pank [in_Prep] .
 a man waits in a bank which likes him .	mees ootab pank kes meeldib [he_Pron] [in_Prep] .
 a man waits in a bank which likes himself .	mees ootab pank [in_Prep] [which_IQuant] justkuid ennast .
 a man waits in a bank which likes itself .	mees ootab pank kes meeldib ennast [in_Prep] .
-A man waits in a bank with John.	
 a man waits in a room in a bank .	mees ootab pank [in_Prep] [room_2_N] [in_Prep] .
 a man waits in every bank .	mees ootab [every_Det] pank [in_Prep] .
 a man waits in every bank in every morning .	mees ootab [every_Det] hommik [in_Prep] [every_Det] pank [in_Prep] .
 a man waits in him .	mees ootab [he_Pron] [in_Prep] .
 a man waits in his house .	mees ootab [he_Pron] elamu [in_Prep] .
 a man waits . it is happy .	mees ootab . on õnnelik .
-A man waits. John sees the man who sleeps or who waits.	
 a man waits not .	mees ootab ei .
 a man waits only .	mees ootab ainult .
-A man waits or sleeps. John sees the man who sleeps.	
-A man waits or sleeps. John sees the man who sleeps or who waits.	
 a man waits quickly in a bank .	mees ootab äkiliselt pank [in_Prep] .
 a man waits . the man talks .	mees ootab . mees kõneleb .
 a man waits . the man talks and walks .	mees ootab . mees kõneleb ja jalutab .
 a man waits . the man walks .	mees ootab . mees jalutab .
 a man walks or a woman sees the man .	mees jalutab või naine näeb meest .
-A man walks or a woman sees the man. There is John.	
 a man which is tired sleeps .	mees kes on väsinud magab .
 a man who a man who a man sees sees sees a man .	mees keda mees keda mees näeb näeb näeb meest .
 a man who a woman asks for him waits .	mees kes [ask_for_V3] naine [ask_for_V3] [he_Pron] [ask_for_V3] [ask_for_V3] ootab .
@@ -580,18 +474,8 @@ a man who is happy or who is sad , and the dog of who barks waits .	mees kes on 
 a man who is happy or who is sad and who is rich waits .	mees kes on õnnelik või kes on kurb ja kes on rikas ootab .
 a man who is happy or who is sad , and who is rich waits .	mehe kes on õnnelik või kes on kurb , ja [whoSg_IP] on rikkad ootamised .
 a man who is happy or who is sad waits .	mees kes on õnnelik või kes on kurb ootab .
-A man who is John sleeps.	
-A man who is John waits. The man who is Bill sleeps.	
-A man who is richer than John waits.	
 a man who is tired sleeps	mees kes on väsinud magab
 a man who is tired sleeps .	mees kes on väsinud magab .
-A man whose 3 dogs bark waits.	
-A man whose age is 31 likes a cat.	
-A man whose age is 31 likes Mary.	
-A man whose age is 31 waits.	
-A man whose dog barks waits. The dog of a man eats.	
-A man whose dog barks waits. The dog of the man eats.	
-A man whose dog barks waits. The man eats.	
 a man who sees a dog and who does not see the dog waits .	mees kes näeb koera ja kes ei näe koera ootab .
 a man who sees a dog and who waits .	mehe kes näeb koera ja kes ootab .
 a man who sees a dog and who walks .	mehe kes näeb koera ja kes jalutab .
@@ -611,24 +495,15 @@ a man works manually and quickly in a bank .	mees töötab pank [in_Prep] manuaa
 a man works manually in a bank .	mees orjab manuaalselt pank [in_Prep] .
 a man works manually in a bank quickly .	mees töötab pank [in_Prep] manuaalselt äkiliselt .
 a man works manually quickly in a bank .	mees töötab äkiliselt manuaalselt pank [in_Prep] .
-A man writes a book the hero of which waits.	
-A man writes a book the text of which is good.	
 a mat on which a cat waits is red .	matt kes [wait_on_V2] kass [wait_on_V2] [wait_on_V2] on punane .
-A message is from someone from who John awaits a delivery usually.	
-A message is from someone from who John awaits a delivery usually and manually.	
-A message is from someone from who John awaits a delivery usually manually.	
-An as important as Mary customer.	
 a new customer inserts 2 valid cards .	uus meesklient sisestab 2 kehtivat kaarti .
 a new customer inserts a valid card manually .	uus meesklient sisestab manuaalselt kehtiva kaardi .
-An item is given to who?	
 an old and happy customer enters a card and a code .	vana ja õnnelik meesklient sisestab kaardi ja koodi .
-A number Pi is a ratio of a circumference of a circle to its diameter.	
 a persona non grata enters a zip code .	[persona_non_grata_N] sisestab suunakoodi .
 a person sees herself .	isik näeb ennast .
 a person sees himself .	isik [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] .
 a quick and quick man eats .	äkiline ja äkiline mees sööb .
 a red and red man runs quickly and quickly .	punane ja punane mees jookseb äkiliselt ja äkiliselt .
-A red man owns a dog. A red man owns a cat. John sees the red man who owns a dog.	
 a red man who can sleep must wait . a red man who can sleep must work . the man who must wait is tired .	punane mees kes [can_2_VV] magada [can_2_VV] [must_VV] ootada [must_VV] . punane mees kes [can_1_VV] magada [can_1_VV] [must_VV] töötada [must_VV] . mees kes [must_VV] ootada [must_VV] on väsinud .
 are there 3 things and 4 things ?	kas on olemas 3 asja ja 4 asja ?
 are there Augusts ?	kas on olemas augustid ?
@@ -642,9 +517,7 @@ a set is in a set .	[set_2_N] on [set_1_N] [in_Prep] .
 a set is in itself .	[set_1_N] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] .
 a small card is green . a big card is red . the small card is valid .	väike kaart on roheline . oluliselt kaart on punane . väike kaart on kehtiv .
 a syntactic error is in the sentence .	süntaktiline eksitus on kohtuotsus [in_Prep] .
-A table John waits.	
 a temperature is 0 .	kuumus on ühed 0 .
-A text is read John.	
 at least 0 man waits .	[at_least_AdN] 0 [CompoundN] .
 at least 0 men wait .	[at_least_AdN] 0 meest ootavad .
 at least 1 man wait .	[at_least_AdN] 1 [CompoundN] .
@@ -652,17 +525,14 @@ at least 1 man waits .	[at_least_AdN] 1 mees ootab .
 at least 1 men wait .	[at_least_AdN] 1 [CompoundN] .
 at least 1 men waits .	üks [at_least_AdN] 1 mehed ootab .
 at least 2 men give at least 3 women at least 4 apples .	[at_least_AdN] 2 meest annavad [at_least_AdN] 3 naisele [at_least_AdN] 4 õuna .
-At least 2 scores of John are 30.	
 at least 3 men and at most 3 men wait . they are tired .	[at_least_AdN] 3 meest ja [most_Det] [at_Prep] 3 meest ootavad . [they_Pron] olen väsinud .
 at least 3 men wait .	[at_least_AdN] 3 meest ootavad .
 at least 3 men wait . they drink .	[at_least_AdN] 3 meest ootavad . [they_Pron] joon .
-At least 5 men, buy a dog that is owned by Bill and that likes you!	
 at least one man waits . at least 2 women sleep .	[at_least_AdN] üks mees ootab . [at_least_AdN] 2 naist magavad .
 at most 0 men wait .	[most_Det] [at_Prep] 0 meest ootavad .
 at most 1 kg of water flows .	[most_Det] [at_Prep] 1 vee kg menstrueerib .
 at most 1 man waits .	[most_Det] [at_Prep] 1 mees ootab .
 at most 1 men wait .	[most_Det] [at_Prep] [FocusObjS] .
-At most 2 cars are owned by John.	
 at most 2 men give at most 3 women at most 4 apples .	[most_Det] [at_Prep] 2 meest [AdvVPSlash] [AdvVPSlash] [most_Det] [at_Prep] 4 õuna [AdvVPSlash] [AdvVPSlash] [AdvVPSlash] [AdvVPSlash] [AdvVPSlash] .
 at most 2 men give at most 4 apples to at most 3 women .	[most_Det] [at_Prep] 2 meest [AdvVPSlash] [AdvVPSlash] [most_Det] [at_Prep] 3 naist [AdvVPSlash] [AdvVPSlash] [AdvVPSlash] [AdvVPSlash] [AdvVPSlash] .
 at most 2 men give themselves at most 4 apples .	[most_Det] [at_Prep] 2 meest [SelfAdvVP] [SelfAdvVP] [most_Det] [at_Prep] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] 4 õuna .
@@ -672,32 +542,19 @@ at most 3 men eat or drink .	[most_Det] [at_Prep] 3 meest söövad või joovad .
 at most 3 men eat or the men drink .	[most_Det] [at_Prep] 3 meest söövad või mehed joovad .
 at most 3 men own more than 5 cars . at most 5 cars are owned by more than 3 men .	[most_Det] [at_Prep] 3 meest omavad [more_than_AdN] 5 autot . [most_Det] [at_Prep] 5 autot omavad .
 at most one man waits . at most 2 women sleep .	[most_Det] [at_Prep] üks mees ootab . [most_Det] [at_Prep] 2 naist magavad .
-Augusts wait.	
 a user is seen a clerk .	[userMasc_N] näeb ametnik .
 a woman carries the woman from who to her ?	naine edendab naist mis [from_Prep] [whoSg_IP] [she_Pron] [to_Prep] ?
 a woman checks her card .	naine kontrollib [she_Pron] kaarti .
 a woman enters her own card .	naine sisestab [she_Pron] oma kaardi .
 a woman sees himself .	naine näeb ennast .
-A x1 x2 x3 x4.	
-Bill drinks or Mary knows that John eats.	
 bill gives what to who ?	arve annab [whatSg_IP] mis [to_Prep] [whoSg_IP] ?
 bill gives what to who where ?	arve annab [whatSg_IP] mis [to_Prep] [whoSg_IP] [where_Subj] ?
 bill gives which flowers to which women ?	arve annab [QuestQVP] ?
-Bill knows that John is his owner.	
-Bill knows that John is his own owner.	
 bill lives in which city in which country for which reason ?	arve elab [which_IQuant] kesklinn [which_IQuant] kantri [in_Prep] [which_IQuant] arutlema [for_Prep] ?
-Brend is a man.	
 buy a car !	ost auto !
 can a book be written by a man ?	kas arveraamat [can_1_VV] kirjutada [can_1_VV] ?
 can a code be entered by a customer ?	kas kood [can_1_VV] sisestada [can_1_VV] ?
 can a man wait ?	kas mees [can_1_VV] ootada [can_1_VV] ?
-can John like Mary?	
-Can John run?	
-Christmases are white.	
-Christmases are white. Some children like them.	
-Christmases, help yourselves!	
-Christmases like Mary.	
-Christmases wait.	
 does a book written by a man ?	piisab [PastPartAgentAP] arveraamatu ?
 does a code have to be entered by someone ?	kas kood oleb sisestada ?
 does a code is entered by a customer ?	piisab koodi sisestab ?
@@ -705,12 +562,6 @@ does a customer insert a card ?	kas meesklient sisestab kaardi ?
 does a man enter every card manually ?	kas mees sisestab manuaalselt [every_Det] kaardi ?
 does a man enter no card manually ?	kas mees sisestab manuaalselt [no_Quant] kaardi ?
 does a man wait ?	kas mees ootab ?
-Does John believe that Mary sleeps?	
-Does John have to wait?	
-does John not have to wait?	
-Does John see a man that waits?	
-Does John see that a dog barks?	
-does not John like Mary?	
 do some men wait ?	kas [some_Quant] mehed ootavad ?
 each man is happy .	[each_Det] mees on õnnelik .
 each of 2 cards are green .	[each_Det] mis [of_Prep] 2 kaarti on rohelised .
@@ -738,15 +589,12 @@ each of some men talks . they walk .	[CountNP] kõnelen . [they_Pron] jalutan .
 each of some men waits .	[CountNP] ootan .
 each of some men who eat waits .	[CountNP] ootan .
 each of some men who own a dog owns a dog .	[CountNP] oman koera .
-Each of some men who own the dog Muri owns Muri.	
 each of some men who own the dog owns the dog .	[CountNP] oman koera .
-Each of some men whose dog barks waits.	
 each of some men who see themselves sees himself .	[CountNP] näen ennast .
 each of some men who see themselves waits .	[CountNP] ootan .
 every age of a man is an integer .	[every_Det] mehe iga on täisarv .
 every airline buys 2 aircraft .	[every_Det] lennuliin ostab 2 lennukit .
 everybody a dog of who barks waits .	[everybody_NP] koer mis [of_Prep] [whoSg_IP] haukub ootamised .
-Everybody A sees A who waits.	
 everybody blames somebody and nobody works .	[everybody_NP] [blame_V2] [somebody_NP] [blame_V2] [blame_V2] ja [nobody_NP] orjan .
 everybody can see something .	[everybody_NP] [can_2_VV] [something_NP] näha [can_2_VV] .
 everybody does not know a dog that is liked by a cat .	[everybody_NP] ei tea koera kes meeldib .
@@ -757,8 +605,6 @@ everybody gives something to somebody .	[everybody_NP] annan [somebody_NP] [to_P
 everybody is not seen by who ?	[everybody_NP] ei näe mis [by_Prep] [whoSg_IP] ?
 everybody of his dog waits .	[everybody_NP] [he_Pron] koer [of_Prep] ootan .
 everybody of his own dog waits .	[everybody_NP] [he_Pron] oma koer [of_Prep] ootan .
-Everybody of its dog waits.	
-Everybody of John waits.	
 everybody sees 1 things .	[everybody_NP] näen 1 [things_N] .
 everybody sees 3 men who wait .	[everybody_NP] näen 3 meest [whoPl_IP] ootab .
 everybody sees 3 things that are some dogs .	[everybody_NP] näen 3 asja kes on [some_Quant] koerad .
@@ -769,17 +615,10 @@ everybody sees at most 1 thing .	[everybody_NP] näen [most_Det] [at_Prep] 1 asj
 everybody sees at most 1 things .	[everybody_NP] näen [most_Det] [at_Prep] 1 [things_N] .
 everybody sees Christmases .	[everybody_NP] näen [christmas_N] .
 everybody sees Christmases that wait .	[everybody_NP] näen [christmas_N] kelled ootavad .
-Everybody sees John and Mary.	
-Everybody sees John who waits.	
 everybody sees nobody .	[everybody_NP] näen [nobody_NP] .
 everybody who is a father of a man that owns a car is a parent .	[everybody_NP] [whoSg_IP] mehe isa kes omab auto on on lapsevanem .
 everybody who is a person and who is a female is a woman .	[everybody_NP] [whoSg_IP] isik on ja [whoSg_IP] emane on on naine .
-Everybody who is John is a man.	
 everybody who is not an animal is not a dog .	[everybody_NP] [whoSg_IP] ei ole loom ei ole koer .
-Everybody who likes Mary she loves.	
-Everybody whose age is 20 can drink some wine in Paris.	
-Everybody whose dog barks or whose cat eats waits.	
-Everybody whose dog barks waits.	
 everybody who somebody is taller than waits .	[everybody_NP] [whoSg_IP] [somebody_NP] olen kõrgem kui ootamised .
 everybody who somebody likes owns a dog .	[everybody_NP] [DirectComplVS] omab koera .
 everybody who waits does not know a dog that likes a cat .	[everybody_NP] [whoSg_IP] ootab ei tea koera kes meeldib kassi .
@@ -787,8 +626,6 @@ everybody who waits eats .	[everybody_NP] [whoSg_IP] ootab sööb .
 everybody who which women ask for her waits ?	[everybody_NP] [whoSg_IP] [which_IQuant] naised [ask_for_V3] [she_Pron] [ask_for_V3] ootamised [ask_for_V3] [ask_for_V3] ?
 every boy and a girl see a man .	[every_Det] poiss ja tüdruk näeb meest .
 every card the code of which is correct is valid .	[every_Det] kaart kes [of_Prep] kood on korrektne on kehtiv .
-Every customer believes that John does not wait.	
-Every customer believes that John waits.	
 every customer can access every public resource .	[every_Det] meesklient [can_2_VV] [every_Det] avaliku ressursi pöörduda [can_2_VV] .
 every customer can wait .	[every_Det] meesklient [can_2_VV] ootada [can_2_VV] .
 every customer enters every card .	[every_Det] meesklient sisestab [every_Det] kaardi .
@@ -813,8 +650,6 @@ every goal that a referee counts is a point .	[every_Det] eesmärk [that_Subj] k
 every goat eats at most 0 things that are not some grass .	[every_Det] kits sööb [most_Det] [at_Prep] 0 asja kes ei ole [some_Quant] [grass_N] .
 every goat likes some grass and likes some water and does not like something that is not some grass and that is not some water .	[every_Det] kits meeldib [some_Quant] [grass_N] ja meeldib [some_Quant] vee ja ei meeldi [something_NP] [that_Quant] ei ole [some_Quant] [grass_N] ja [that_Quant] ei ole [some_Quant] vesi .
 every group of some men waits .	[every_Det] [some_Quant] meeste grupeerima ootab .
-Every lady is a person whose pet is a cat.	
-Every lady is somebody whose pet is an animal and who likes nothing but cats .	
 every man a car of who a cat sees smiles .	[every_Det] mees kes [of_Prep] autot kass näeb naeratab .
 every manager manages to manage .	[every_Det] haldur [manage_VV] [manage_V] [manage_V] [manage_VV] .
 every manager manages to manage something .	[every_Det] haldur [manage_VV] [something_NP] [manage_V2] [manage_V2] [manage_V2] [manage_VV] .
@@ -870,7 +705,6 @@ every man likes himself .	[every_Det] mees meeldib ennast .
 every man likes himself and feeds a cat that sees the man .	[every_Det] mees meeldib ennast ja toidab kassi kes näeb meest .
 every man likes more than 2 dogs and likes less than 4 dogs .	[every_Det] mees meeldib [more_than_AdN] 2 koera ja meeldib [less_than_AdN] 4 koera .
 every man likes who ?	[every_Det] mees meeldib [whoSg_IP] ?
-Every man owns a dog blahblah.	
 every man owns each of at most 5 cars .	[every_Det] mees omab [each_Det] mis [of_Prep] [most_Det] [at_Prep] 5 autot .
 every man owns each of at most 5 cars that are expensive .	[every_Det] mees omab [each_Det] mis [of_Prep] [most_Det] [at_Prep] 5 autot [that_Quant] on kallid .
 every man sees 2 dogs that see 3 cats .	[every_Det] mees näeb 2 koera kes näeb 3 kassi .
@@ -881,8 +715,6 @@ every man sees a dog that barks or sees himself .	[every_Det] mees näeb et [Foc
 every man sees a dog that barks or sees itself .	[every_Det] mees näeb koera [that_Quant] haukub või [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] .
 every man sees a dog that barks or works .	[every_Det] mees näeb koera kes haukub või töid .
 every man sees every dog .	[every_Det] mees näeb [every_Det] koera .
-Every man sees John. He waits.	
-Every man sees John who hears the man.	
 every man should drink .	[every_Det] mees hakkas juua .
 every man should love every woman .	[every_Det] mees hakkas [every_Det] naist armastada .
 every man sleeps where and when and how ?	[every_Det] mees magab [ConjIAdv] ?
@@ -903,8 +735,6 @@ every man who loves a woman who loves the man smiles .	[every_Det] mees kes arma
 every man who must hate a dog can own a cat .	[every_Det] mees kes [must_VV] koera vihata [must_VV] [can_1_VV] kassi omada [can_1_VV] .
 every man who owns a car is a dog that is hated by a bike or that likes itself .	[every_Det] mees kes omab auto on koer kes vihkab või kes meeldib ennast .
 every man who owns a car that likes a cat is a dog that is hated by a bike or that likes itself .	[every_Det] mees kes omab auto kes meeldib kassi on koer kes vihkab või kes meeldib ennast .
-Every man whose age is an integer is a manager.	
-Every man whose car a cat sees smiles.	
 every man who sees himself waits .	[every_Det] mees kes näeb ise ootab .
 every man who waits eats .	[every_Det] mees kes ootab sööb .
 every man who waits is not bitten by a dog that hates a cat that likes the man .	[every_Det] mees kes ootab ei hammusta .
@@ -929,9 +759,7 @@ every program that calls a program that calls a program calls itself .	[every_De
 everything a dog of which barks waits .	[everything_NP] koer mis [of_Prep] [which_IQuant] haukub ootamised .
 everything barks at itself .	[everything_NP] [VPSlashPrep] [VPSlashPrep] ise [VPSlashPrep] [VPSlashPrep] [VPSlashPrep] [VPSlashPrep] [VPSlashPrep] .
 everything is a cat and everything is a dog .	[everything_NP] olen kass ja [everything_NP] olen koer .
-Everything of John waits.	
 everything runs .	[everything_NP] jooksen .
-Everything that affiliatedWith something that affiliatedWith something affiliatedWith it.	
 everything that is not a cat can be a dog .	[everything_NP] [that_Quant] ei ole kass [can_2_VV] koer olla .
 everything that is written by somebody is a book or is a paper .	[everything_NP] [that_Quant] kirjutab on arveraamat või on paber .
 everything that knows something that hears something sees itself .	[everything_NP] [that_Quant] teab [something_NP] [that_Quant] kuulab et [something_NP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] .
@@ -978,15 +806,12 @@ for everybody there is a dog .	[everybody_NP] [for_Prep] on olemas koer .
 for every body which waits there is a clerk .	[every_Det] asutus kes ootab [for_Prep] on olemas ametnik .
 for every body who waits there is a clerk .	[every_Det] asutus kes ootab [for_Prep] on olemas ametnik .
 for everybody who waits there is a clerk .	[everybody_NP] [for_Prep] [whoSg_IP] ootab on olemas ametnik .
-For every book a database lists its title.	
-For every book a database lists its title and lists its code.	
 for every book a database lists the title of the book and lists the code of the book .	[every_Det] arveraamat [for_Prep] andmebaas loendab arveraamatu omandiõiguse ja loendab arveraamatu koodi .
 for every book the book has a title and the book has a code .	[every_Det] arveraamat [for_Prep] arveraamat oleb omandiõiguse ja arveraamat oleb koodi .
 for every card does a customer own it ?	[every_Det] kaart [for_Prep] kas meesklient omab [it_Pron] ?
 for every card there is a customer who inserts it .	[every_Det] kaart [for_Prep] on olemas meesklient [whoSg_IP] sisestab [it_Pron] .
 for every code a clerk enters it .	[every_Det] kood [for_Prep] ametnik sisestab [it_Pron] .
 for every code there is a clerk such that he enters it .	[every_Det] kood [for_Prep] [that_Subj] [he_Pron] sisestan [it_Pron] on ametnik niisugune .
-For every customer John assigns a personal code to the customer.	
 for every customer the customer has a card and the customer has a code .	[every_Det] meesklient [for_Prep] meesklient oleb kaardi ja meesklient oleb koodi .
 for every dog a cat is not the dog .	[every_Det] koer [for_Prep] kass ei ole koer .
 for every dog every man sees it .	[every_Det] koer [for_Prep] [every_Det] mees näeb [it_Pron] .
@@ -996,7 +821,6 @@ for every dog of every man the dog barks .	[every_Det] [every_Det] mehe koer [fo
 for every dog the dog is not a cat .	[every_Det] koer [for_Prep] koer ei ole kass .
 for every farmer and for every donkey the farmer beats the donkey .	[every_Det] farmer [for_Prep] ja [every_Det] [donkey_N] [for_Prep] farmer lööb [donkey_N] .
 for every farmer for every donkey the farmer beats the donkey .	[every_Det] farmer [every_Det] [donkey_N] [for_Prep] [for_Prep] farmer lööb [donkey_N] .
-for every friend of who Mary asks a woman.	
 for every man a dog barks .	[every_Det] mees [for_Prep] koer haukub .
 for every man a dog barks for every cat .	[every_Det] mees [for_Prep] koer haukub [every_Det] kass [for_Prep] .
 for every man every dog barks for every cat .	[every_Det] mees [for_Prep] [every_Det] koer haukub [every_Det] kass [for_Prep] .
@@ -1018,18 +842,11 @@ for no man a dog sees the man .	[no_Quant] mees [for_Prep] koer näeb meest .
 for no man it is false that a dog barks .	[no_Quant] mees [for_Prep] see on petlik kus koer haukub .
 for no men a dog barks .	[no_Quant] mehed [for_Prep] koer haukub .
 for the man a dog barks .	mees [for_Prep] koer haukub .
-France is something that is not America and that is not England and that is not Germany.	
-From what does John come?	
-From where does John come?	
-f there is a man then it is necessary that a human is the man.	
-Has John to wait?	
-Has to John run?	
 he sees himself .	[he_Pron] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] .
 he sleeps .	[he_Pron] magan .
 he who eats drinks .	[he_Pron] [whoSg_IP] sööb joogid .
 him sees a man .	[he_Pron] näeb meest .
 his own card waits .	[he_Pron] oma kaart ootab .
-How and when and where does John see a man?	
 how can a car be fastest and more reliable ?	[how_IAdv] auto [can_2_VV] kõige kiirem ja usaldusväärsem olla [can_2_VV] ?
 how can a customer enter a card ?	[how_IAdv] meesklient [can_1_VV] kaardi sisestada [can_1_VV] ?
 how can a man can be rich ?	[how_IAdv] [CompoundN] [can_1_VV] rikas olla [can_1_VV] ?
@@ -1037,13 +854,8 @@ how does a man enter a card ?	[how_IAdv] mees sisestab kaardi ?
 how does a man sell a visa card ?	[how_IAdv] mees müüb [CompoundN] ?
 how does a man works ?	[how_IAdv] piisab mehe orjab ?
 how does every man wait ?	[how_IAdv] [every_Det] mees ootab ?
-How does John enter a card?	
-How does John that waits see a man?	
 how does the customer insert a card ?	[how_IAdv] meesklient sisestab kaardi ?
 how does who see what ?	[how_IAdv] piisab [QuestQVP] ?
-How is John?	
-How is John seen by a man?	
-How is John that waits seen by a man?	
 how is there ?	[how_IAdv] on seal ?
 how many beaches have how much sand ?	[QuestQVP] ?
 how many good men eat how much bad food ?	[QuestQVP] ?
@@ -1052,16 +864,12 @@ how many men does which woman who eats how much food like ?	[how8many_IDet] [Com
 how many men wait ?	[how8many_IDet] mees ootab ?
 how much food waits ?	[how8much_IDet] söök ootab ?
 how much man waits ?	[how8much_IDet] mees ootab ?
-How must John be polite?	
-If 2l of water boils and the water contains an egg then the water contains a boiled egg.	
 if a card is valid then a customer inserts it .	[if_Subj] kaart on siis kehtiv meesklient sisestab [it_Pron] .
 if a clerk enters a card then he does not own it .	[if_Subj] ametnik sisestab siis kaardi [he_Pron] ei oma [it_Pron] .
 if a customer does not transmit some money and it is not provable that he does not transmit the money then the bank assumes that he transmits the money .	[if_Subj] meesklient ei [transmit_V2] [some_Quant] raha [transmit_V2] [transmit_V2] ja [it_Pron] ei ole [that_Subj] [he_Pron] ei [transmit_V2] raha [transmit_V2] [transmit_V2] siis tõendatav pank eeldab et [he_Pron] [transmit_V2] raha [transmit_V2] [transmit_V2] .
 if a man does not walk then a dog barks .	[if_Subj] mees ei jaluta siis koer haukub .
 if a man eats then necessarily he does not sleep .	[if_Subj] mees sööb siis nõutavalt [he_Pron] ei maga .
-If a man John waits then he sleeps.	
 if a man likes a dog that likes a cat and the man likes a cow that likes a sheep then the man owns a car .	[if_Subj] mees meeldib koera kes meeldib kassi ja mees meeldib hirmutama kes meeldib siis lambadi mees omab auto .
-If a man likes Mary and Mary hates a dog then the man owns a car.	
 if a man likes somebody that is a person then the person owns a car .	[if_Subj] mees meeldib [somebody_NP] [that_Quant] on siis isik isik omab auto .
 if a man must own a dog then the man can own an animal .	[if_Subj] mees [must_VV] koera siis omada [must_VV] mees [can_2_VV] looma omada [can_2_VV] .
 if a man owns a book then he can read it .	[if_Subj] mees omab siis arveraamatu [he_Pron] [can_2_VV] [it_Pron] ennustada [can_2_VV] .
@@ -1075,8 +883,6 @@ if a man waits then his own dog barks .	[if_Subj] mees ootab siis [he_Pron] oma 
 if a man walks quickly then he talks .	[if_Subj] mees jalutab siis äkiliselt [he_Pron] kõnelen .
 if a man walks quickly then he talks quickly .	[if_Subj] mees jalutab siis äkiliselt [he_Pron] kõnelen äkiliselt .
 if a man walks then he talks quickly .	[if_Subj] mees jalutab siis [he_Pron] kõnelen äkiliselt .
-If a message is from someone from which John awaits a delivery then the message is important.	
-If a message is from someone from who John awaits a delivery then the message is important.	
 if an element is a member of a tail of a list then the element is a member of the list .	[if_Subj] element on siis [list_of_N2] jälitama liige element on [list_of_N2] liige .
 if a user charges the price of a resource then the user pays for the resource .	[if_Subj] [userMasc_N] laadib siis ressursi auhinna [userMasc_N] makseb ressurss [for_Prep] .
 if a user is authenticated and his subscription covers a resource then the user can download the resource .	[if_Subj] [userMasc_N] [authenticate_V2] [authenticate_V2] ja [he_Pron] abonement katab [CompoundN] [then_Prep] ressursi ressursi .
@@ -1093,36 +899,13 @@ if a user pays for something then he does not wait .	[if_Subj] [userMasc_N] maks
 if a young child has a fever then the doctor may treat the child .	[if_Subj] noor laps oleb siis ootuspalaviku arstima [may_1_VV] last kohelda [may_1_VV] .
 if every man runs then a dog barks .	[if_Subj] [every_Det] mees jookseb siis koer haukub .
 if if there is a man then he runs then a dog barks .	[if_Subj] [if_Subj] siis on mees [he_Pron] jooksen siis koer haukub .
-If Iokaste makes Oedipus, and Iokaste makes Polyneikes, and Oedipus makes Polyneikes, and Polyneikes makes Thersandros and Oedipus is a patricide, and Thersandros is not a patricide, and everybody that makes a patricide that makes somebody who is not a patricide is an answer then Iokaste is an answer.	
-If Iokaste makes Oedipus, and Iokaste makes Polyneikes, and Oedipus makes Polyneikes, and Polyneikes makes Thersandros and Oedipus is a patricide, and Thersandros is not a patricide then Iokaste makes a patricide that makes somebody who is not a patricide.	
-If John and Mary wait then a dog barks and they sleep.	
-If John and Mary wait then a dog barks or they sleep.	
-If John and Mary wait then there is a dog and they sleep.	
-If John and Mary wait then they sleep.	
-If John does not eat and it is false that somebody feeds him then John is hungry.	
-If John does not eat and it is not the case that somebody feeds him then John is hungry.	
-If John owns a donkey then he beats it.	
-If John waits then a dog barks.	
-If John waits then a man John sleeps.	
-If John waits then he sleeps.	
-If John waits then John sleeps.	
-If John waits then the man John sleeps.	
-If John works in a bank then he does not commute.	
-If John works then he does not feed his dog.	
-If John works then he does not see himself.	
-If John works then he does not work.	
-If John works then he does not work in a house.	
-If John works then he does not work in his own house.	
-If John works then John does not work in his own house.	
 if nobody waits then a dog barks .	[if_Subj] [nobody_NP] ootan siis koer haukub .
-If Socrates is a man and every man is mortal then Socrates is mortal.	
 if the id of a user is valid then the user is authenticated .	[if_Subj] [userMasc_N] idem on siis kehtiv [userMasc_N] [authenticate_V2] [authenticate_V2] .
 if there are 2 men then they wait .	[if_Subj] siis on 2 meest [they_Pron] ootan .
 if there are a dog and a cat then a man waits .	[if_Subj] siis on koer ja kass mees ootab .
 if there are a man and a manager then the man is often the manager .	[if_Subj] siis on mees ja haldur mees on [often_AdV] haldur .
 if there is a carnivore then everybody that it eats is an animal .	[if_Subj] siis on kiskja [everybody_NP] [that_Subj] [it_Pron] söön olen loom .
 if there is a carnivore then everything that it eats is a meat .	[if_Subj] siis on kiskja [everything_NP] [that_Subj] [it_Pron] söön olen iva .
-if there is a declaration whose name is a user and whose password is a string and the string is the password of the user then the user is authenticated.	
 if there is a dog then it is false that a cat is the dog .	[if_Subj] siis on koer see on petlik kus kass on koer .
 if there is a dog then the dog barks and it is false that there is a cat .	[if_Subj] siis on koer koer haukub ja see on petlik kus on olemas kass .
 if there is a man , and the man likes a dog that likes a cat or the man likes a cow that likes a sheep then the man owns a car .	[if_Subj] on olemas mees , [ConjDet] mees meeldib koera kes meeldib kassi või mees meeldib hirmutama kes meeldib siis lambadi mees omab auto .
@@ -1146,7 +929,6 @@ if there is a man then it is necessary that a human is the man .	[if_Subj] siis 
 if there is a man then it is not necessary that a human is the man .	[if_Subj] siis on mees [it_Pron] ei ole [that_Subj] inimene on mees nõutav .
 if there is a man then it is not possible that there is a human that is the man .	[if_Subj] siis on mees see ei ole potentsiaalne [that_Subj] on olemas inimene kes on mees .
 if there is a man then it is possible that a human is the man .	[if_Subj] siis on mees [it_Pron] olen [that_Subj] inimene on mees potentsiaalne .
-If there is a man then that John waits.	
 if there is a man then the man sees a cow and it is false that the man likes a cat and that the man hates a dog .	[if_Subj] siis on mees mees näeb hirmutamat ja see on petlik kus mees meeldib kassi ja [that_Quant] mees vihkab koera .
 if there is a man then the man sees a dog and the dog sees a cat and the cat sees the dog and the dog sees a rat and the rat sees a mouse .	[if_Subj] siis on mees mees näeb koera ja koer näeb kassi ja kass näeb koera ja koer näeb reeturit ja reetur näeb hiirt .
 if there is a man then the man sees a dog that sees a cat that sees a rat and the dog sees a horse .	[if_Subj] siis on mees mees näeb koera kes näeb kassi kes näeb reeturit ja koer näeb hobust .
@@ -1159,31 +941,17 @@ if there is a man then there is 1 woman .	[if_Subj] siis on mees on olemas 1 nai
 if there is a man then there is a dog and there is a cat .	[if_Subj] siis on mees on olemas koer ja on olemas kass .
 if there is a man then there is more than 1 woman .	[if_Subj] siis on mees on olemas [more_than_AdN] 1 naine .
 if there is a man then there is more than 1 women .	[if_Subj] siis on mees on olemas üks [more_than_AdN] 1 naised .
-If there is a man who does not sleep and John sees the man then a dog barks.	
 if there is a man who is happy or who is sad , and the dog of who barks then he waits .	[if_Subj] siis on mees kes on õnnelik või kes on kurb , kes [of_Prep] [ConjDet] koer haukub [he_Pron] ootan .
 if there is an animal such that everything that the animal eats is a meat then the animal is a carnivore .	[if_Subj] siis on loom nii et [everything_NP] [that_Subj] loom sööb olen iva loom on kiskja .
-If there is an animal that believes that John is its owner then John sees the animal.	
-If there is an animal that believes that John is its owner then John sees the animal that believes that John is its owner.	
-If there is an animal that believes that John is its own owner then John sees the animal.	
-If there is an animal that believes that John is its own owner then John sees the animal that believes that John is its own owner.	
-If there is an animal that eats every food then John sees the animal that eats every food.	
-If there is an animal that is a cat or that is a dog then John sees the animal that is a dog or that is a cat.	
-If there is an animal that is a dog or that is a cat then John sees the animal that is a dog or that is a cat.	
-If there is an animal that is not a dog or that is a cat then John sees the animal that is not a dog or that is a cat.	
 if there is a thing and everything that it eats is a meat then it is a carnivore .	[if_Subj] on olemas asi ja [everything_NP] [that_Subj] [it_Pron] söön olen siis iva [it_Pron] olen kiskja .
 if there is a thing that does not eat something that is not a meat then the thing is a carnivore .	[if_Subj] siis on asi kes ei söö [something_NP] kes ei ole iva asi on kiskja .
-If there is John then there is Mary.	
-If there is John then there is somebody.	
-If there is John then there is something.	
 if there is nobody that waits then a dog barks .	[if_Subj] [that_Subj] [FocusObjS] olen [nobody_NP] .
 if there is nobody then a dog barks .	[if_Subj] siis olen [nobody_NP] koer haukub .
 if there is no man that waits then a dog barks .	[if_Subj] siis on [no_Quant] mees kes ootab koer haukub .
 if there is no man then he waits .	[if_Subj] siis on [no_Quant] mees [he_Pron] ootan .
-If there is somebody A then A sees A.	
 if there is some money then a man waits .	[if_Subj] siis on [some_Quant] raha mees ootab .
 if there is something that barks then it is a dog .	[if_Subj] on olemas [something_NP] [that_Quant] haukub siis [it_Pron] olen koer .
 into what can a customer enter a card ?	[whatSg_IP] [into_Prep] meesklient [can_2_VV] kaardi sisestada [can_2_VV] ?
-Into what does not a customer enter a card?	
 in what can a dog live ?	[whatSg_IP] [in_Prep] koer [can_1_VV] elada [can_1_VV] ?
 in what does a dog have to live ?	[whatSg_IP] [in_Prep] koer oleb elada ?
 in what does a dog live ?	[whatSg_IP] [in_Prep] koer elab ?
@@ -1194,8 +962,6 @@ in what is a dog living in ?	[whatSg_IP] [in_Prep] koer on elamas ?
 in what is a dog living in the morning ?	[whatSg_IP] [in_Prep] koer on hommik [in_Prep] elamas ?
 in what is a dog living when ?	[whatSg_IP] [in_Prep] koer on elamas [when_Subj] ?
 in what is who living ?	[whatSg_IP] [in_Prep] on [whoSg_IP] [VPI_Chunk] ?
-in which house does John live?	
-In which town does John live?	
 is a book written by a man ?	kas arveraamat kirjutab ?
 is a car blue ?	kas auto on aadellik ?
 is a code entered by a customer ?	kas kood sisestab ?
@@ -1205,23 +971,15 @@ is a customer not provably a clerk ?	kas meesklient ei ole tõendatavalt ametnik
 is every man a human ?	kas [every_Det] mees on inimene ?
 is it false that every man is a human ?	kas see on petlik kus [every_Det] mees on inimene ?
 is it false that every man is a human .	kas see on petlik kus [every_Det] mees on inimene .
-Is it false that John likes Mary?	
-Is it false that John likes Mary and that no dog likes every cat?	
 is it true that a man does not eat or that the man does not drink ?	kas see on tõeline keda mees ei söö või keda mees ei joo ?
 is it true that every man is a human ?	kas [it_Pron] olen [that_Subj] [every_Det] mees on inimene õige ?
 is it true that every man is a human .	kas [it_Pron] olen [that_Subj] [every_Det] mees on inimene õige .
-Is it true that John likes Mary?	
-Is it true that John likes Mary and Mary likes Bill?	
-Is it true that John likes Mary and that Mary likes Bill?	
-Is John seen by a man that waits?	
 is there a dog ?	kas on olemas koer ?
 is there a man ?	kas on olemas mees ?
-Is there a man John?	
 is there a man or is there a woman ?	on mees seal või on naine seal ?
 is there a man that runs or that waits ?	kas on olemas mees kes jookseb või kes ootab ?
 is there a man that runs or waits ?	on mees kes jookseb seal või ootab ?
 is there a man that waits ?	kas on olemas mees kes ootab ?
-Is there John?	
 is there no laundry ?	kas on olemas [no_Quant] pesu ?
 is there some absinth ?	kas on olemas [some_Quant] absint ?
 is there the card ?	kas on olemas kaart ?
@@ -1250,19 +1008,10 @@ it is false that for every book the book has a title and the book has a code .	s
 it is false that if there is a book then the book has a title and the book has a code .	see on petlik kus [if_Subj] siis on arveraamat arveraamat oleb omandiõiguse ja arveraamat oleb koodi .
 it is false that if there is someone then he waits .	see on petlik kus [if_Subj] siis olen [someone_NP] [he_Pron] ootan .
 it is false that it is false that a man waits .	see on petlik kus see on petlik kus mees ootab .
-It is false that it is necessary that John waits and that Mary sleeps.	
-It is false that it is not provable that John flies.	
-It is false that John likes a dog ,and that a cat and a rat and a mouse see a cheese ,or that a man waits.	
-It is false that John runs. He walks.	
-It is false that John runs. John walks.	
-It is false that John sleeps.	
-It is false that John sleeps and that John does not sleep.	
-It is false that John walks. He runs.	
 it is false that no man does not wait .	see on petlik kus [no_Quant] mees ei oota .
 it is false that some men wait .	see on petlik kus [some_Quant] mehed ootavad .
 it is false that there are 2 kg of dirty laundry .	see on petlik kus alatu pesu [of_Prep] on 2 kgit .
 it is false that there are a man and a woman and that the man waits .	see on petlik kus on olemas mees ja naine ja [FocusObjS] .
-It is false that there are John and Mary.	
 it is false that there is 1 man .	see on petlik kus on olemas 1 mees .
 it is false that there is a dog and it is false that there is a cat .	see on petlik kus on olemas koer ja see on petlik kus on olemas kass .
 it is false that there is a dog and that it is false that there is a cat .	[it_Pron] olen [that_Subj] on olemas koer ja [that_Subj] see on petlik kus on olemas kass petlik .
@@ -1286,32 +1035,13 @@ it is false that there is a man and the man sleeps or the man waits .	see on pet
 it is false that there is a man , and there is a dog or there is a cat .	see on petlik kus on olemas mees , ja on olemas koer või on olemas kass .
 it is false that there is a man or that there is a dog .	see on petlik kus on olemas mees või [that_Quant] seal on koer .
 it is false that there is a man or there is a dog .	see on petlik kus on olemas mees või on olemas koer .
-It is false that there is John.	
 it is false that there is some water .	see on petlik kus on olemas [some_Quant] vesi .
 it is impossible that a man waits .	[it_Pron] olen [that_Subj] mees ootab võimatu .
-It is impossible that John flies.	
-It is impossible that John waits.	
 it is necessary that a man waits .	[it_Pron] olen [that_Subj] mees ootab nõutav .
 it is necessary that a man waits and a dog barks .	[it_Pron] olen [that_Subj] mees ootab nõutav ja koer haukub .
 it is necessary that a man waits and that a dog barks .	see on nõutav keda mees ootab ja kelle koer haukub .
-It is necessary that John flies.	
-It is necessary that John waits.	
-It is necessary that John waits and that Mary sleeps.	
-It is necessary that John waits or that Mary sleeps.	
-It is necessary that there is John.	
 it is not false that a dog barks .	see ei ole petlik kus koer haukub .
-It is not necessary that John flies.	
-It is not necessary that John waits.	
-It is not necessary that John waits and that Mary sleeps.	
 it is not possible that a man waits .	[it_Pron] ei ole [that_Subj] mees ootab potentsiaalne .
-It is not possible that John flies.	
-It is not possible that John waits.	
-It is not possible that John waits and Mary sleeps.	
-It is not provable that John flies.	
-It is not provable that John waits.	
-It is not provable that John waits and Mary sleeps.	
-It is not provable that John waits and that Mary sleeps.	
-It is not provable that John waits or that Mary sleeps.	
 it is not recommended that every man drinks .	[it_Pron] ei soovita [that_Subj] [every_Det] mees joob .
 it is not the case that a customer inserts a card .	see ei ole asi kelle meesklient sisestab kaart .
 it is not the case that a man runs . he walks .	see ei ole asi kelle mees jookseb . [he_Pron] jalutan .
@@ -1327,13 +1057,7 @@ it is not the case that everybody waits .	see ei ole asi keda [everybody_NP] oot
 it is not the case that for every book the book has a title and the book has a code .	[it_Pron] ei ole [that_Subj] [every_Det] arveraamat [for_Prep] arveraamat oleb omandiõiguse ja arveraamat oleb koodi asi .
 it is not the case that if there is a book then the book has a title and the book has a code .	[it_Pron] ei ole [that_Subj] [if_Subj] siis on arveraamat arveraamat oleb omandiõiguse asi ja arveraamat oleb koodi .
 it is not the case that if there is someone then he waits .	[it_Pron] ei ole [that_Subj] [if_Subj] siis olen [someone_NP] [he_Pron] ootan asi .
-It is not the case that it is necessary that John waits and that Mary sleeps.	
-It is not the case that it is not provable that John flies.	
 it is not the case that it is not the case that a man waits .	[it_Pron] ei ole [that_Subj] see ei ole asi keda mees ootab asi .
-It is not the case that John likes a dog ,and that a cat and a rat and a mouse see a cheese ,or that a man waits.	
-It is not the case that John runs. He walks.	
-It is not the case that John runs. John walks.	
-It is not the case that John walks. He runs.	
 it is not the case that no man does not wait .	see ei ole asi keda [no_Quant] mees ei oota .
 it is not the case that no one does not wait .	see ei ole asi keda [no_Quant] ei oota .
 it is not the case that no one waits .	see ei ole asi keda [no_Quant] ootab .
@@ -1362,8 +1086,6 @@ it is not the case that there is a man or that there is a dog .	[it_Pron] ei ole
 it is not the case that there is a man or there is a dog .	[it_Pron] ei ole [that_Subj] on olemas mees asi või on olemas koer .
 it is not the case that there is some water .	[it_Pron] ei ole [that_Subj] on olemas [some_Quant] vesi asi .
 it is not true that a man waits .	[it_Pron] ei ole [that_Subj] mees ootab õige .
-It is not true that John sleeps.	
-It is permitted that John waits.	
 it is possible that a card is valid .	[it_Pron] olen [that_Subj] kaart on kehtiv potentsiaalne .
 it is possible that a man can wait .	[it_Pron] olen [that_Subj] mees [can_1_VV] ootada [can_1_VV] potentsiaalne .
 it is possible that a man waits .	[it_Pron] olen [that_Subj] mees ootab potentsiaalne .
@@ -1371,477 +1093,10 @@ it is possible that a man waits and a dog barks .	[it_Pron] olen [that_Subj] mee
 it is possible that a man waits and that a dog barks .	see on potentsiaalne keda mees ootab ja kelle koer haukub .
 it is possible that every customer waits .	[it_Pron] olen [that_Subj] [every_Det] meesklient ootab potentsiaalne .
 it is possible that it is false that a dog sees a cat .	[it_Pron] olen [that_Subj] see on petlik kus koer näeb kassi potentsiaalne .
-It is possible that John flies.	
-It is possible that John should swim.	
-It is possible that John waits.	
-It is possible that John waits and Mary sleeps.	
-It is possible that John waits and that Mary sleeps.	
 it is recommended that a man drinks .	[it_Pron] soovitan [that_Subj] mees joob .
 it is recommended that it is possible that it is necessary that every person does not provably not wait .	[it_Pron] soovitan [that_Subj] on potentsiaalne [that_Subj] see on nõutav kelle [every_Det] isik piisab ei tõendatava ei ootamine .
-It is recommended that John can swim.	
 it is true that a dog barks .	[it_Pron] olen [that_Subj] koer haukub õige .
 it is true that every man is a human .	[it_Pron] olen [that_Subj] [every_Det] mees on inimene õige .
-It is true that John sleeps.	
-It is true that there is John.	
-It is unnecessary that John flies.	
-It is unnecessary that John waits.	
-John a dog of a friend of who hates a cat likes Mary.	
-John and Mary a dog of who barks wait.	
-John and Mary, buy a car!	
-John and Mary, buy a dog!	
-John and Mary, buy a dog that is owned by Bill and that likes you!	
-John and Mary, buy a dog that likes you!	
-John and Mary hit themselves.	
-John and Mary, hit yourself!	
-John and Mary hit yourselves.	
-John and Mary, hit yourselves!	
-John and Mary like what?	
-John and Mary, sell your own car!	
-John and Mary wait.	
-John and Mary wait. Bill gives them them.	
-John and some dogs of Mary bark.	
-John and you, wait!	
-John beats a donkey of a wife of him.	
-John beats a donkey of a wife of himself.	
-John beats a donkey of him.	
-John beats a donkey of himself.	
-John beats a donkey of the brother of his own wife.	
-John beats a mother of a brother of a wife of John.	
-John beats a mother of his own wife.	
-John beats his donkey.	
-John beats his own big dog and beats his own small dog. The big dog is sad.	
-John beats his own donkey.	
-John beats his own wife.	
-John beats the donkey of a brother of his own wife.	
-John beats the donkey of him.	
-John beats the donkey of himself.	
-John beats the donkey of his own wife.	
-John beats the donkey of his wife.	
-John beats the donkey of the brother of his own wife.	
-John believes that a dog barks and it is false that a cat sleeps.	
-John believes that he can fly.	
-John believes that he must fly.	
-John believes that Mary sleeps.	
-John believes that Mary sleeps and he waits.	
-John believes that Mary sleeps and waits.	
-John believes that there is a card.	
-John belives that Mary has a book.	
-John, be loved by Mary!	
-John blahblah.	
-John buy a car!	
-John, buy a car!	
-John, buy a car! Bill, buy a car!	
-John, buy a dog that is owned by Bill and that likes him!	
-John, buy a dog that is owned by Bill and that likes you!	
-John, buy a dog that likes him!	
-John, buy a dog that likes you!	
-John buys a car!	
-John, buys a car!	
-John can be seen by Mary.	
-John can fly.	
-John can not be seen by Mary.	
-John cannot be seen by Mary.	
-John can not fly.	
-John cannot fly.	
-John can not wait.	
-John cannot wait.	
-John, can swim!	
-John can wait.	
-John comes from Berlin.	
-John comes from Berlin and goes to Paris.	
-John does.	
-John does have to wait.	
-John does like Mary.	
-John does not believe that Mary sleeps.	
-John does not have to be seen by Mary.	
-John does not have to fly.	
-John does not have to wait.	
-John does not have to walk.	
-John does not in a park sleep.	
-John does not intentionally in a park sleep in the night.	
-John does not know that Mary sleeps.	
-John does not own which car?	
-John does not own which dog?	
-John does not provably mostly swim.	
-John does not quickly run.	
-John does not see anybody.	
-John does not see a water.	
-John does not see less than 3 cars that Bill owns.	
-John does not see some water.	
-John does wait.	
-John does wait. John waits.	
-John, do not provably sleep!	
-John, do not touch the machine!	
-John eats. He which waits has a dog.	
-John eats. He who waits has a dog.	
-John eats. It is false that John waits.	
-John eats. It is necessary that John waits.	
-John eats. It is not possible that John waits.	
-John eats nothing but raw and expensive meat.	
-John eats or John drinks.	
-John eats or John drinks. Mary eats or Mary drinks or Bill sleeps.	
-John eats when and where drinks?	
-John enters every card which carries his code.	
-John enters every card which carries his own code.	
-John enters every card which carries its code.	
-John enters every card which carries its own code.	
-John enters every card which is his card.	
-John enters every card which is his own card.	
-John enters every card which is its card.	
-John enters every card which is its own card.	
-John enter the house!	
-John, enter your own card!	
-John, enter your own card and see yourself!	
-John feeds his own dogs.	
-John gives an apple to Mary. Mary accepts the apple and eats it. She is happy and he has no apple.	
-John gives an apple to Mary. Mary accepts the apple and eats it. She is happy and he has no apples.	
-John gives Bill Mary.	
-John gives Mary to Bill.	
-John gives something to somebody.	
-John goes to Berlin.	
-John has 0 apples.	
-John has 0 kg of apples.	
-John has 1.83 apples.	
-John has 1.83 kg of apples.	
-John has a brother who he likes.	
-John has a card every code of every copy of which is valid.	
-John has a card every code of which is valid.	
-John has a card. He that waits uses it that is valid.	
-John has a card. He uses it who is valid.	
-John has a card. He who waits uses it which is valid.	
-John has a card no code of which is valid.	
-John has a dog and has a cat. Who has a dog? Who has a cat?	
-John has at least 2 cards.	
-John has at most 3 cars. Mary loves them.	
-John has each of 2.	
-John has each of exactly 3 cards.	
-John has each of less than 3 cards.	
-John has not at least 2 cards.	
-John has not exactly 3 cards.	
-John has nothing but apples.	
-John has not more than 3 cards.	
-John has to be seen by Mary.	
-John has to fly.	
-John has to wait.	
-John hates a man who can see him.	
-John hates a man who John can see.	
-John, hit himself!	
-John hits himself.	
-John hits yourself.	
-John, hit yourself!	
-John how and when and where believes that Mary sleeps?	
-John how believes that Mary sleeps?	
-John in a bar wants to drink a beer.	
-John in a kitchen patiently waits .	
-John in a kitchen patiently wants that he waits.	
-John in a kitchen patiently wants to wait.	
-John in a kitchen waits.	
-John in a morning early and often and usually is a manager.	
-John in a park sees that Mary sleeps.	
-John in every morning wants to swim.	
-John in every morning wants to swim intentionally for no reason.	
-John in every park for no reason sees that Mary sleeps.	
-John in every park in every morning is in every bank.	
-John in every park in every morning is in every bank at every time.	
-John in every park intentionally sees a girl manually with no telescope.	
-John in every park is in every morning.	
-John in every park sees a girl.	
-John in every park sees a girl with every telescope.	
-John in every park sees a girl with no telescope.	
-John in every park sees that Mary sleeps.	
-John in every park usually for no reason waits.	
-John in every park usually for no reason waits in every morning.	
-John in every park usually for no reason waits in every morning at every condition.	
-John in no park sees that Mary sleeps.	
-John in no park usually for every reason waits.	
-John inserts his own card. Bill inserts his own card.	
-John in the beginning in a morning early and often and usually is a manager.	
-John in the morning is rich.	
-John in the morning wants to swim in the evening.	
-John is 3.	
-John is a customer of someone who is important.	
-John is a father of who?	
-John is a friend of Mary.	
-John is allowed to walk.	
-John Is a man.	
-John is a manager usually in a morning .	
-John is a man. John is a man.	
-John is a man. Mary is a woman. Bill knows the woman. The woman waits.	
-John is a name of a man and a name of a man.	
-John is a rich customer. His wealth is enormous. He is in his office.	
-John is a rich customer. His wealth is enormous. He is in his own office.	
-John is a rich man.	
-John is as important as Mary.	
-John is cleverer than Bill.	
-John is considered a criminal.	
-John is every man.	
-John is everything of who?	
-John is happy in each of 3 parks.	
-John is happy in each of 3 parks in every morning.	
-John is happy in every morning in each of 3 parks.	
-John is his owner.	
-John is his own owner.	
-John is in a park hit by a ball.	
-John is in a park in a morning.	
-John is in a park in a morning usually.	
-John is in a park in the park.	
-John is in a park manually.	
-John is in each of 3 parks.	
-John is in every park.	
-John is in every park in every morning.	
-John is in no park.	
-John is in Paris when?	
-John is in Paris when and where?	
-John is in Paris when where?	
-John is in Paris when with Mary?	
-John is liked by him.	
-John is liked by himself.	
-John is manually in a park.	
-John is more clever than Bill.	
-John is more important.	
-John is most important.	
-John is no hero at every time.	
-John is not a customer. He is happy.	
-John is not been by Mary.	
-John is not happy.	
-John is permitted that a dog barks.	
-John is rich and richer and richest.	
-John is rich and richer than Mary.	
-John is richer than Mary and smarter than Bill.	
-John is rich in a morning usually.	
-John is rich in the morning.	
-John is rich usually in a morning .	
-John is rich where?	
-John is small.	
-John is taller than Mary.	
-John is the name of the man and the name of the man.	
-John is when in Paris?	
-John is where and when?	
-John is where where?	
-John is with no telescope fast and quickly in every park seen by a girl.	
-John is with no telescope in every park seen by a girl.	
-John knows Abcdef.	
-John knows in the park that Mary sleeps.	
-John knows Mary.	
-John knows quickly that Mary sleeps.	
-John knows quickly that Mary sleeps quickly.	
-John knows something.	
-John knows Sun.	
-John knows that Bill is Mary.	
-John knows that Mary does not wait.	
-John knows that Mary sees him.	
-John knows that Mary sleeps and he knows that Bill waits.	
-John knows that Mary sleeps quickly.	
-John knows that Mary sleeps quickly quickly.	
-John knows that Mary waits.	
-John knows that there is a cat or that there is a dog.	
-John knows the Abcdef.	
-John knows the Mary.	
-John knows the Sun.	
-John knows wisely that Mary waits.	
-John lifts 50.5 kg.	
-John likes 3 dogs. Not each of them barks.	
-John likes 3 dogs. Not for each of them a cat smiles.	
-John likes a dog ,and a cat.	
-John likes a dog and a cat.	
-John likes a dog ,and a cat and a rat and a mouse see a cheese.	
-John likes a dog and a cat ,and a rat and a mouse see a cheese.	
-John likes a town which he goes to.	
-John likes Foo a dog of which friend hates a cat.	
-John likes Foo a dog of which hates a cat.	
-John likes Mary a dog of a friend of who hates a cat.	
-John likes Mary a dog of her friend hates a cat.	
-John likes Mary a dog of her own friend hates a cat.	
-John likes Mary a dog of his friend hates a cat.	
-John likes Mary a dog of his own friend hates a cat.	
-John likes Mary a dog of its friend hates a cat.	
-John likes Mary a dog of its own friend hates a cat.	
-John likes Mary a dog of who hates a cat.	
-John likes Mary a dog of whose friend hates a cat.	
-John likes Mary a dog of whose friends hates a cat.	
-John likes Mary. Mary likes John.	
-John likes nobody but Mary.	
-John likes nothing but apple.	
-John likes nothing but cars of Mary.	
-John likes nothing but fast cars.	
-John likes nothing but Mary.	
-John likes nothing but meat.	
-John likes nothing but raw meat.	
-John lives in a city that exists always always.	
-John looks at at least 4 men at least 3 dogs of who bark.	
-John, Mary!	
-John may be rich.	
-John may not be important.	
-John may not sleep.	
-John may not work.	
-John may wait.	
-John mostly sleeps.	
-John must be seen by Mary.	
-John must fly.	
-John must manually hit a button.	
-John must manually hit every button in every case.	
-John must manually in every case for no reason hit every button.	
-John must not wait.	
-John must wait.	
-John, must wait!	
-John never sleeps.	
-John often and usually is a manager in a morning .	
-John often and usually is a manager in a morning early.	
-John owns 2 or 3 cars.	
-John owns 2 or more cars.	
-John owns a car that Mary likes and that Bill likes.	
-John owns a donkey. He beats it.	
-John owns a park. A dog barks in it.	
-John owns at most 2 cars.	
-John owns at most 2 cars that Mary likes.	
-John owns at most 3 cars that do not start.	
-John owns at most 3 cars that have at most 3 wheels.	
-John owns Mary. He beats her.	
-John owns not 2 or more cars.	
-John owns not 3 cards.	
-John owns some services each of which delivers some pizzas.	
-John owns some services that deliver some pizzas.	
-John patiently in a kitchen waits .	
-John patiently in a kitchen wants that he waits.	
-John patiently in a kitchen wants to wait.	
-John patiently waits.	
-John patiently waits in a kitchen.	
-John quickly knows that Mary quickly sleeps.	
-John quickly knows that Mary sleeps.	
-John quickly knows that Mary sleeps quickly.	
-John rarely sleeps.	
-John runs or he eats. He waits.	
-John says that there is a card.	
-John sees 3 men whose dog barks.	
-John sees 3 men whose dogs bark.	
-John sees a cat that likes the cat that smiles.	
-John sees A dog.	
-John sees a girl in every park.	
-John sees a girl in every park with no telescope.	
-John sees a man. A customer is him.	
-John sees a man. Mary knows the man that John sees.	
-John sees a man. The man waits.	
-John sees a man where and when and how?	
-John sees a man who does not sleep in a bed soundly.	
-John sees a man who does not sleep in a bed soundly and quickly.	
-John sees a man who does not sleep soundly and quickly in a bed.	
-John sees a man who does not sleep soundly in a bed.	
-John sees a man who does not sleep soundly in a bed in a morning.	
-John sees a man whose dogs bark.	
-John sees a man who sleeps in a bed in a morning.	
-John sees a man who sleeps in a bed soundly.	
-John sees a man who sleeps soundly in a bed.	
-John sees a man who sleeps soundly in a bed in a morning.	
-John sees a man who sleeps with his own eyes.	
-John sees a water.	
-John sees a water of himself.	
-John sees Every woman.	
-John sees every woman in every park.	
-John sees exactly 2 men.	
-John sees his own water.	
-John sees in the morning that Mary sleeps.	
-John sees Mary and less than 2 men.	
-John sees Mary. Mary is seen by John.	
-John sees not exactly 2 men.	
-John sees no water.	
-John sees some water.	
-John sees some water of himself.	
-John sees soundly in a bed in a morning that a man sleeps.	
-John sees that a dog barks. It is happy.	
-John sees the cat that likes the cat that smiles.	
-John sees the water.	
-John sees what?	
-John sees which man?	
-John, see yourself!	
-John, sell his own car!	
-John sells his own car.	
-John sells your own car.	
-John, sell your own car!	
-John serves a customer a meal.	
-John serves a meal to a customer.	
-John should give a present to Mary.	
-John should not swim.	
-John should not work.	
-John should swim.	
-John should wait.	
-John should wait and can swim and must drink.	
-John sleeps in the park from the morning until the evening.	
-John sleeps where and where?	
-John snores loudly and loudly loudly and most loudly.	
-John soundly and quickly sees a man who does not sleep in a bed.	
-John soundly sees a man in a bed in a morning. The man sleeps.	
-John soundly sees a man who does not sleep in a bed.	
-John soundly sees a man who sleeps in a bed in a morning.	
-John stops to smoke and starts to drink.	
-John strongly desires a beer.	
-John strongly desires to drink a beer.	
-John takes a queen Mary.	
-John takes his own card and gets some money for himself.	
-John tells Mary that he waits.	
-John tells Mary that he wants to fly.	
-John tells that a man waits to Mary.	
-John tries to hurry and runs.	
-John tries to walk.	
-John, trust a woman and yourself!	
-John usually is a manager in a morning .	
-John usually is a manager in every morning .	
-John usually is in a park in a morning .	
-John vaguely sees a big dog that barks in the garden of his own brother.	
-John vaguely sees a big dog that barks in the garden of its own brother.	
-John vaguely sees a big dog. The dog barks in the garden of the brother of John.	
-John wait.	
-John, wait!	
-John, wait Mary! Does John wait Mary?	
-John waits.	
-John waits. All men see him.	
-John waits. All men see himself.	
-John waits. A man brings him his pencil and brings him his own computer.	
-John waits. A man brings him his pencil and his own computer.	
-John waits. He that sleeps waits.	
-John waits in a bank. He is happy.	
-John waits in a kitchen.	
-John waits in a kitchen patiently .	
-John waits. John does not sleep.	
-John waits. John runs.	
-John waits. John waits. John waits. John waits. John waits. John waits. John waits. John waits. John waits. John waits.	
-John waits patiently.	
-John waits patiently in a kitchen .	
-John waits. Some men see himself.	
-John waits usually.	
-John, wait yourself!	
-John walks. It is false that John runs.	
-John walks. It is not the case that John runs.	
-John wants a man to wait.	
-John wants in a kitchen patiently to wait.	
-John wants patiently in a kitchen that he waits.	
-John wants patiently in a kitchen to wait.	
-John wants patiently that he waits.	
-John wants that he flies.	
-John wants to be loved by Mary.	
-John wants to can swim.	
-John wants to do not swim.	
-John wants to drink a beer in a bar.	
-John wants to have to swim.	
-John wants to must swim.	
-John wants to not swim.	
-John wants to run.	
-John wants to should swim.	
-John wants to swims.	
-John watches a man who sees himself.	
-John watches the man who sees himself.	
-John when eats and where drinks?	
-John where sees a man that waits?	
-John which runs eats.	
-John who has a card enters it.	
-John who is a clerk waits.	
-John who is a man sleeps.	
-John who is the clerk waits.	
-John who run eats.	
-John whose age is 31 waits.	
-John wisely knows that Mary waits.	
-John works at at least 3 banks.	
-John works in a bank and a morning.	
-John, you wait!	
 less than 0 men wait .	[less_than_AdN] 0 meest ootavad .
 less than 1 man waits .	[less_than_AdN] 1 mees ootab .
 less than 2 women wait .	[less_than_AdN] 2 naist ootavad .
@@ -1849,54 +1104,19 @@ less than 3 men and less than 4 women wait .	[less_than_AdN] 3 meest ja [less_th
 less than 3 men and more than 4 women wait .	[less_than_AdN] 3 meest ja [more_than_AdN] 4 naist ootavad .
 less than 5 men drink less .	[less_than_AdN] 5 meest joovad [less_Det] .
 less than one man waits . less than 2 women sleep .	[less_than_AdN] üks mees ootab . [less_than_AdN] 2 naist magavad .
-Mary asks John who asks who?	
-Mary asks John who asks who.	
-Mary does not know that John eats or Bill drinks.	
-Mary does not like some men who are not rich.	
-Mary inserts her own card that is valid carefully into a slot.	
-Mary invites Sue for a visit and she tells her that she must go and must work.	
-Mary is as young as who?	
-Mary is not a woman who likes an apple.	
-Mary is sent a book by John.	
-Mary is sent some books by John.	
-Mary knows that every man eats or that Bill drinks.	
-Mary knows that John eats or Bill drinks.	
-Mary knows that John eats or that Bill drinks.	
-Mary of John waits.	
-Mary sees herself. Who sees herself?	
-Mary sleeps and John sees herself.	
-Mary sleeps and John sees herself and himself.	
-Mary sleeps and John sees himself and herself.	
-Mary sleeps. John sees herself.	
-Mary sleeps. John sees himself and her.	
-Mary sleeps. John sees himself and herself.	
-Mary waits. A book is given to her by John.	
-Mary waits. John gives a book to her.	
-Mary waits. John gives a book to she.	
-Mary waits. John waits. A book is given to her by him.	
-Mary waits. John waits. What is given to her by him?	
-Mary who which women ask for her waits ?	
-May John not wait?	
 men wait .	mehed ootavad .
 more than 1 man waits .	[more_than_AdN] 1 mees ootab .
-More than 3 clerks wait. John knows the clerks. Less than 2 clerks meet. John knows the clerks.	
-More than 3 clerks wait. John knows the clerks. Less than 2 clerks sit. John knows the clerks.	
-More than 3 kg of white rice of John rot.	
 more than 3 men and less than 4 women wait .	[more_than_AdN] 3 meest ja [less_than_AdN] 4 naist ootavad .
 more than 3 men wait .	[more_than_AdN] 3 meest ootavad .
 more than one man waits . more than 2 women sleep .	[more_than_AdN] üks mees ootab . [more_than_AdN] 2 naist magavad .
 must a man wait ?	kas mees [must_VV] ootada [must_VV] ?
 must every code have a customer ?	kas [every_Det] kood [must_VV] meeskliendi oleda [must_VV] ?
-must John like Mary?	
-Must John run?	
-Necessarily John waits.	
 nobody barks .	[nobody_NP] haukun .
 nobody believes that he can be seen by everybody .	[nobody_NP] arvan et [he_Pron] [can_1_VV] näha [can_1_VV] .
 nobody believes that he does not have to be seen by everybody .	[nobody_NP] arvan et [he_Pron] ei ole näha .
 nobody believes that he has to be seen by everybody .	[nobody_NP] arvan et [he_Pron] olen näha .
 nobody believes that he must be seen by everybody .	[nobody_NP] arvan et [he_Pron] [must_VV] näha [must_VV] .
 nobody knows nothing .	[nobody_NP] tean [nothing_NP] .
-Nobody of John waits.	
 nobody sees everybody .	[nobody_NP] näen [everybody_NP] .
 nobody sees herself .	[nobody_NP] näen ennast .
 nobody sees himself .	[nobody_NP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] .
@@ -1913,14 +1133,11 @@ no laundry is clean .	[no_Quant] pesu on laitmatu .
 no man and a dog wait .	[no_Quant] mees ja koer ootab .
 no man a woman is .	[no_Quant] mehe naine on .
 no man a woman sees .	[FocusObjS] .
-No man but John waits.	
 no man , buy a car !	[ApposNP] auto !
 no man eats or drinks .	[no_Quant] mees sööb või joob .
 no man gives no woman no apple .	[no_Quant] mees annab [no_Quant] õunale [no_Quant] naise .
 no man is liked by a dog .	[no_Quant] mees meeldib .
 no man is sad .	[no_Quant] mees on kurb .
-No man is something that likes Mary and hates John.	
-No man is something that likes Mary and that hates John.	
 no man is taller than a dog .	[no_Quant] mees on kõrgem kui koer .
 no man is taller than every dog .	[no_Quant] mees on kõrgem kui [every_Det] koer .
 no man is taller than no dog .	[no_Quant] mees on kõrgem kui [no_Quant] koer .
@@ -1943,8 +1160,6 @@ not each of 2 girls lifts a table .	ei [CountNP] tõstan laua .
 not each of 4 men waits .	ei [CountNP] ootan .
 not everybody waits . a dog barks .	ei [everybody_NP] ootan . koer haukub .
 not every card is correct .	ei [every_Det] kaart on korrektne .
-Not every man sees John. He waits.	
-Not every man sees John. John waits.	
 not every man waits .	ei [every_Det] mees ootab .
 not everyone waits .	ei [everyone_NP] ootan .
 not everything sees itself .	ei [everything_NP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] .
@@ -1958,8 +1173,6 @@ not for every book the book has a title and the book has a code .	ei [every_Det]
 not for every man a dog barks .	ei [every_Det] mees [for_Prep] koer haukub .
 not for every man that a dog barks .	ei [every_Det] mees [that_Subj] koer haukub [for_Prep] .
 not for no man a dog barks .	ei [no_Quant] mees [for_Prep] koer haukub .
-Not for no man a dog likes John.	
-Nothing of John waits.	
 not less than 3 dogs bark .	ei [less_than_AdN] 3 koera haukuvad .
 not less than 5 men wait .	ei [less_than_AdN] 5 meest ootavad .
 not more than 5 men wait .	ei [more_than_AdN] 5 meest ootavad .
@@ -1968,14 +1181,7 @@ not nothing waits .	ei [nothing_NP] ootan .
 not somebody waits .	ei [somebody_NP] ootan .
 not there is a man .	ei on olemas mees .
 one man sleeps .	üks mees magab .
-Paris is a village or is a city.	
-Pi is 3.1415926536.	
 possibly a man waits .	potentsiaalselt mees ootab .
-Possibly John waits.	
-Should John wait?	
-SimpleMat goes further and sees some abaci.	
-Some abaci are green.	
-Somebody A gives A A.	
 somebody and something wait .	[somebody_NP] ja [something_NP] ootan .
 somebody gives him him .	[somebody_NP] annan [he_Pron] [he_Pron] .
 somebody gives him himself .	[somebody_NP] annan [he_Pron] ennast .
@@ -1986,7 +1192,6 @@ somebody is big and small .	[somebody_NP] olen oluliselt ja väike .
 somebody is big and small and waits .	[somebody_NP] olen oluliselt ja väike ja ootan .
 somebody is given something by somebody .	[somebody_NP] olen [PastPartAgentAP] .
 somebody is himself .	[somebody_NP] on ennast .
-Somebody of John waits.	
 somebody runs . somebody waits in him .	[somebody_NP] jooksen . [somebody_NP] ootan [he_Pron] [in_Prep] .
 somebody sees a dog of himself .	[somebody_NP] näen koera mis [of_Prep] ennast .
 somebody sees everybody .	[somebody_NP] näen [everybody_NP] .
@@ -2006,24 +1211,18 @@ somebody who eats drinks .	[somebody_NP] [whoSg_IP] sööb joogid .
 some books are not quickly written by a man .	[some_Quant] arveraamatud ei kirjuta äkiliselt .
 some books are not written by a man .	[some_Quant] arveraamatud ei kirjuta .
 some books are quickly written by a man .	[some_Quant] arveraamatud kirjutavad äkiliselt .
-Some books are sent to Mary by John.	
 some books are written by a man .	[some_Quant] arveraamatud kirjutavad .
 some cards a green .	[some_Quant] kaardid muru .
 some cards are green .	[some_Quant] kaardid on rohelised .
 some contracts of a customer and a clerk are green .	[some_Quant] meeskliendi lepingud ja ametnik on rohelised .
 some customers , buy a car !	[ApposNP] auto !
-Some dogs of Mary and John bark.	
 some groups of some men see themselves .	[some_Quant] [some_Quant] meeste grupeerimad [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] .
 some groups of some men talk .	[some_Quant] [some_Quant] meeste grupeerimad kõnelevad .
 some laundry are clean .	[some_Quant] pesu on laitmatu .
 some laundry can wait .	[some_Quant] pesu [can_2_VV] ootada [can_2_VV] .
-Some laundry of John is clean.	
-Some laundry sees its own dog.	
 some laundry which sees itself is clean .	[some_Quant] pesu kes näeb ise on laitmatu .
 some men are at least 2 men .	[some_Quant] mehed on [at_least_AdN] 2 meest .
 some men are happy .	[some_Quant] mehed on õnnelikud .
-Some men are sent a book by John.	
-Some men, buy a dog that is owned by Bill and that likes you!	
 some men can not wait .	[some_Quant] mehed ei [can_1_VV] ootada [can_1_VV] .
 some men can see themselves .	[some_Quant] mehed [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] .
 some men can wait .	[some_Quant] mehed [can_1_VV] ootada [can_1_VV] .
@@ -2049,57 +1248,34 @@ something sees itself .	[something_NP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [Self
 something waits . he sleeps .	[something_NP] ootan . [he_Pron] magan .
 something waits . it sleeps .	[something_NP] ootan . [it_Pron] magan .
 some water is not drinkable .	[some_Quant] vesi ei ole joodav .
-Some water of John runs. Some water of Mary flows. The water of John is clean.	
-Some water of John runs. The water of John is clean.	
-Sue sees Mary that she that sees her that she sees sees.	
-Sun is the Sun.	
-Switzerland borders 4 countries that border Germany.	
-Switzerland borders each of 4 countries that border Germany.	
-that John waits.	
-The book is given by Mary.	
-The book is given by Mary to John.	
-The book is given John by Mary.	
-The card of John is the card of Bill.	
 the card of which man is valid ?	kaardi kes [of_Prep] mees on kehtiv ?
 the card of which man the card of who is valid is valid ?	kaardi kes [of_Prep] mees kes [of_Prep] kaart on kehtiv on kehtiv ?
-The card of which man whose card is valid is valid?	
 the card of who is valid ?	kaardi mis [of_Prep] [whoSg_IP] on kehtiv ?
-The cat of a man whose dog barks sleeps.	
 the customer enters a card and a numeric personal code .	meesklient sisestab kaardi ja [numeric_A] [personal_A] koodi .
 the customer inserts a card and a code .	meesklient sisestab kaardi ja koodi .
 the customer inserts a card that carries a code .	meesklient sisestab kaardi kes edendab koodi .
 the customer inserts a card with a code .	meesklient sisestab kood [with_Prep] kaardi .
-the customer John enters a card.	
-The customer Mr Miller inserts a card A.	
 the customer who inserts a card manually enters a code .	meesklient kes sisestab manuaalselt kaardi sisestab koodi .
 the dog of a man barks .	mehe koer haukub .
-The dog of a man whose dog barks barks.	
 the dog of the man barks .	mehe koer haukub .
 the dog of who eats a bone ?	koera mis [of_Prep] [whoSg_IP] sööb kondi ?
 the dog that sees the man barks .	koer kes näeb meest haukub .
 the dog that sees the man barks . the dog eats . the man drinks .	koer kes näeb meest haukub . koer sööb . mees joob .
 the dog which sees the man barks .	koer kes näeb meest haukub .
 the dog who sees the man barks .	koera [whoSg_IP] näeb et mees haukub .
-The flat mate of John is a clerk.	
 the furniture is good .	mööbel on hea .
-The man John walks. The woman John talks.	
 the man owns the dog . the dog barks . the dog is red . the man who owns the dog that barks and that is red is happy .	mees omab koera . koer haukub . koer on punane . mees kes omab koera kes haukub ja kes on punane on õnnelik .
 the man sleeps . there is a man .	mees magab . on olemas mees .
-The man whose dog eats waits.	
 the password of an account is known by the owner of the account .	konto parool teab .
 there are 0 cars .	on olemas 0 autot .
 there are 0 kg of apples .	õunad [of_Prep] on 0 kgit .
-There are 1000000000000000000000000000000 men.	
-There are 10 h of work.	
 there are 10 hour of work .	on olemas ühed 10 töö aeg .
 there are 10 hours of work .	töö [of_Prep] on 10 aega .
-There are 1234.	
 there are 1 hour of work .	seal on 1 töö aeg .
 there are 1 hours of work .	seal on 1 töö tunnid .
 there are 1 kg of water and 2 kg of apples .	õunad [of_Prep] on 1 vee kg ja 2 kgit .
 there are 2 girls and there are 2 tables . each of the girls lifts each of the tables .	on olemas 2 tüdrukut ja on olemas 2 lauda . [CountNP] tõstan [CountNP] .
 there are 2 girls and there are 2 tables such that each of the girls lifts each of the tables .	on olemas 2 tüdrukut ja [that_Subj] [CountNP] tõstan [CountNP] on 2 lauda niisugune .
-There are 2 kg of apples of John.	
 there are 2 kg of apples . the apples are red .	õunad [of_Prep] on 2 kgit . õunad on punased .
 there are 2 kg of dirty laundry .	alatu pesu [of_Prep] on 2 kgit .
 there are 2 tables such that 2 girls lift them .	[that_Subj] 2 tüdrukut tõstavad [they_Pron] on 2 lauda niisugune .
@@ -2124,7 +1300,6 @@ there are 5 big men .	on olemas 5 oluliselti meest .
 there are 5 big men such that they are happy .	[that_Subj] [they_Pron] olen õnnelik on 5 oluliselti meest niisugune .
 there are 5 big men who are happy .	on olemas 5 oluliselti meest [whoPl_IP] on õnnelik .
 there are a dog and a cat .	on olemas koer ja kass .
-There are a dog and a cat. They sleep. John sees them. John likes them.	
 there are a man and a dog .	on olemas mees ja koer .
 there are a man and a dog of something . it is possible that they wait .	[something_NP] [of_Prep] on mees ja koer . [it_Pron] olen [that_Subj] [they_Pron] ootan potentsiaalne .
 there are a man and a woman .	on olemas mees ja naine .
@@ -2138,21 +1313,9 @@ there are at most 0 cars .	seal on [most_Det] [at_Prep] 0 autot .
 there are at most 2 kg of dirty laundry .	seal on [most_Det] [at_Prep] 2 alatu pesu kgit .
 there are at most 3 men . the men wait .	seal on [most_Det] [at_Prep] 3 meest . mehed ootavad .
 there are a woman and every man .	on olemas naine ja [every_Det] mees .
-There are how many liters of some fluid?	
-There are how many men of John?	
-There are John and 2 men.	
-There are John and 2 men ManGroup.	
-There are John and 2 men ManGroup. ManGroup are happy.	
-There are John and 2 men ManGroup. ManGroup is happy.	
-There are John and Mary.	
-There are John and Mary. He and her dogs bark.	
-There are John and Mary. His and her dog barks.	
-There are John and Mary. His and her dogs bark.	
-There are John and Mary. There are Bill and Mary.	
 there are less than 0 cars .	on olemas [less_than_AdN] 0 autot .
 there are less than 2 kg of dirty laundry .	alatu pesu [of_Prep] on [less_than_AdN] 2 kgit .
 there are less than 2 kg of milk . there are less than 2 men .	lüpsma [of_Prep] on [less_than_AdN] 2 kgit . on olemas [less_than_AdN] 2 meest .
-There are less than 4 men and less than 3 women and a man and John.	
 there are more than 0 cars .	on olemas [more_than_AdN] 0 autot .
 there are more than 1 dog .	1 koer [than_Prep] on [more_Quant] .
 there are more than 2 kg of dirty laundry .	alatu pesu [of_Prep] on [more_than_AdN] 2 kgit .
@@ -2166,38 +1329,26 @@ there are some big men . there are some small men . the big men are happy .	on o
 there are some big men . there are some small men . they wait .	on olemas [some_Quant] oluliseldid mehed . on olemas [some_Quant] väiksed mehed . [they_Pron] ootan .
 there are some cards a code of each of which has a date .	on olemas [some_Quant] kaardid kes [of_Prep] [each_Det] kood oleb [date_1_N] .
 there are some cards a code of each of which is valid .	on olemas [some_Quant] kaardid kes [of_Prep] [each_Det] kood on kehtiv .
-There are some cards a code of each of which John knows.	
-there are some cards a code of not each of which John knows.	
 there are some cards a code of which that have which is valid .	on olemas [some_Quant] kaardid koodi [which_IQuant] [of_Prep] [that_Subj] on [which_IQuant] on kehtiv .
 there are some cards each of which has a code .	[each_Adv] on [some_Quant] kaardid mis [of_Prep] [which_IQuant] oleb koodi .
 there are some cards each of which is valid .	[each_Adv] on [some_Quant] kaardid mis [of_Prep] [which_IQuant] on kehtiv .
-There are some cards each of which John knows.	
 there are some cards each of who has a code .	[each_Adv] on [some_Quant] kaardid mis [of_Prep] [whoSg_IP] oleb koodi .
 there are some cards each of who is valid .	[each_Adv] on [some_Quant] kaardid mis [of_Prep] [whoSg_IP] on kehtiv .
-There are some cards each of who John knows.	
 there are some cards not each of which has a code .	on olemas [some_Quant] kaardid ei [each_Det] mis [of_Prep] [which_IQuant] oleb koodi .
 there are some cards the code of each of which is valid .	on olemas [some_Quant] kaardid kes [of_Prep] [each_Det] kood on kehtiv .
 there are some cards the code of each of who is valid .	on olemas [some_Quant] kaardid kes [of_Prep] [each_Det] kood on kehtiv .
-There are some cities in each of which John lives.	
-There are some cities in which John lives.	
 there are some men .	on olemas [some_Quant] mehed .
 there are some men a car of each of who is fast .	on olemas [some_Quant] mehed kes [of_Prep] [each_Det] auto on kiire .
-There are some men a car of each of who John drives.	
 there are some men a dog of each of who barks .	on olemas [some_Quant] mehed kes [of_Prep] [each_Det] koer haukub .
 there are some men a dog of the men barks .	on olemas [some_Quant] mehed meeste koer haukub .
 there are some men a dog of who barks .	on olemas [some_Quant] mehed kes [of_Prep] koer haukub .
-There are some men a dog of whose barks.	
 there are some men each of a dog of who barks .	on olemas [some_Quant] mehed kes [of_Prep] [CountNP] haukun .
 there are some men . each of the men waits .	on olemas [some_Quant] mehed . [CountNP] ootan .
 there are some men . each of the men who is tired sleeps .	on olemas [some_Quant] mehed . [CountNP] [whoSg_IP] on väsinud magamad .
 there are some men each of which has a car .	[each_Adv] on [some_Quant] mehed mis [of_Prep] [which_IQuant] oleb auto .
 there are some men each of which is rich .	[each_Adv] on [some_Quant] mehed mis [of_Prep] [which_IQuant] on rikas .
-There are some men each of which John knows.	
 there are some men each of who has a car .	[each_Adv] on [some_Quant] mehed mis [of_Prep] [whoSg_IP] oleb auto .
 there are some men each of who is rich .	[each_Adv] on [some_Quant] mehed mis [of_Prep] [whoSg_IP] on rikas .
-There are some men each of who John knows.	
-There are some men each of whose dog barks.	
-There are some men each of whose dogs barks.	
 there are some men each of who waits .	[each_Adv] on [some_Quant] mehed mis [of_Prep] [whoSg_IP] ootab .
 there are some men each of who who is tired sleeps .	[each_Adv] on [some_Quant] mehed mis [of_Prep] [whoSg_IP] [whoSg_IP] on väsinud magamad .
 there are some men . for each of the men a dog barks .	on olemas [some_Quant] mehed . [CountNP] [for_Prep] koer haukub .
@@ -2209,18 +1360,15 @@ there are some men the car of each of which is fast .	on olemas [some_Quant] meh
 there are some men the car of each of who is fast .	on olemas [some_Quant] mehed kes [of_Prep] [each_Det] auto on kiire .
 there are some men . their dog barks .	on olemas [some_Quant] mehed . [they_Pron] koer haukub .
 there are some men . the men talk .	on olemas [some_Quant] mehed . mehed kõnelevad .
-There are some men whose dog barks.	
 there are some men who see a woman a cat of who smiles .	on olemas [some_Quant] mehed [whoPl_IP] näeb naist kes [of_Prep] kass naeratab .
 there are some men who wait .	on olemas [some_Quant] mehed [whoPl_IP] ootab .
 there are the man and a dog .	on olemas mees ja koer .
 there are the man and the dog .	on olemas mees ja koer .
 there are which customers who see who ?	seal on [which_IQuant] meeskliendid [whoPl_IP] näeb [whoSg_IP] ?
 there are which dogs of a man ?	seal on [which_IQuant] mehe koerad ?
-There are which men of John?	
 there are who ?	seal on [whoSg_IP] ?
 there is 10 hour of work .	seal on ühed 10 töö aeg .
 there is 10 hours of work .	seal on [timeunitAdv] töö [of_Prep] .
-There is 1 h of work.	
 there is 1 hour of work .	töö [of_Prep] on 1 aeg .
 there is 1 hours of work .	töö [of_Prep] on 1 tunnid .
 there is 1 kg of dirty laundry .	alatu pesu [of_Prep] on 1 kg .
@@ -2228,14 +1376,9 @@ there is 1 kg of laundry .	pesu [of_Prep] on 1 kg .
 there is 5 .	seal on ühed 5 .
 there is 5 . it waits .	seal on ühed 5 . [it_Pron] ootan .
 there is a bank . a code is not in the bank .	on olemas pank . kood ei ole pank [in_Prep] .
-There is a black man. There is a man who sees himself. John knows the man. John encounters the black man. John watches the man who sees himself.	
-There is a black woman. There is a woman who sees herself. John knows the woman. John encounters the black woman.	
-There is a black woman. There is a woman who sees herself. John knows the woman. John encounters the black woman. John watches the woman who sees herself.	
 there is a bone . a man enters it and a card .	on olemas kont . mees sisestab [it_Pron] ja kaardi .
 there is a bone . a man enters the bone and a card .	on olemas kont . mees sisestab kondi ja kaardi .
 there is a book . a database lists the title of the book and lists the code of the book .	on olemas arveraamat . andmebaas loendab arveraamatu omandiõiguse ja loendab arveraamatu koodi .
-There is a book. Mary is sent it by John.	
-There is a book. Mary is sent to it by John.	
 there is a box .	on olemas karp .
 there is a boy . a man of his group waits .	on olemas poiss . [he_Pron] grupeerima mees ootab .
 there is a boy . a man of his own group waits .	on olemas poiss . [he_Pron] oma grupeerima mees ootab .
@@ -2247,25 +1390,13 @@ there is a boy . there are a man and he .	on olemas poiss . seal on mees ja [he_
 there is a boy . there is a man who he sees .	on olemas poiss . on olemas mees keda [he_Pron] näen .
 there is a boy . there is a man who sees him .	on olemas poiss . on olemas mees [whoSg_IP] näeb [he_Pron] .
 there is a card . a clerk gives it to a cashier .	on olemas kaart . ametnik [give_it_to_V2] kassiir [give_it_to_V2] [give_it_to_V2] .
-There is a card. A man brings it its friend and offers it his own computer.	
-There is a card. A man brings it its man and offers it his own computer.	
-There is a card. A man brings it its pencil and brings it his own computer.	
-There is a card. A man brings it its pencil and his own computer.	
-There is a card. A man brings it its pencil and its computer.	
-There is a card. A man brings it its pencil and offers it his own computer.	
-There is a card. A man brings it its pencil. The man brings it his own computer.	
 there is a card . if there is a man then there is the card of the man .	on olemas kaart . [if_Subj] siis on mees mees [of_Prep] on kaart .
 there is a card of a man which is valid .	mees kes on kehtiv [of_Prep] on kaart .
 there is a card of every man .	[every_Det] mees [of_Prep] on kaart .
-There is a card of John that is correct.	
 there is a card such that a clerk enters a card of every customer .	[every_Det] meesklient [of_Prep] on kaart nii et ametnik sisestab kaardi .
 there is a card such that a clerk enters the card of every customer .	[every_Det] meesklient [of_Prep] on kaart nii et ametnik sisestab kaardi .
 there is a card that every customer inserts .	on olemas kaart kelle [every_Det] meesklient sisestab .
-There is a car that John buys for herself.	
-There is a car that John buys for him.	
-There is a car that John buys for himself.	
 there is a case . it is not the case .	on olemas asi . [it_Pron] ei ole asi .
-There is a case. It is not the case that John sees.	
 there is a case of some beer . it is not the case .	[some_Quant] õlu [of_Prep] on asi . [it_Pron] ei ole asi .
 there is a cat . a dog sees it .	on olemas kass . koer näeb [it_Pron] .
 there is a cat and everything is a dog .	on olemas kass ja [everything_NP] olen koer .
@@ -2274,19 +1405,13 @@ there is a cat such that everything is a dog .	[that_Subj] [everything_NP] olen 
 there is a cat that likes the cat that smiles .	on olemas kass kes meeldib kassi kes naeratab .
 there is a cat that likes the cat that smiles and that smiles .	on olemas kass kes meeldib kassi kes naeratab ja kes naeratab .
 there is a cat that smiles and that likes the cat that smiles .	on olemas kass kes naeratab ja kes meeldib kassi kes naeratab .
-There is a cat that smiles. John sees a cat that likes the cat that smiles.	
 there is a cat that smiles or that is not the cat that smiles .	on olemas kass kes naeratab või kes ei ole kass kes naeratab .
 there is a cat that smiles or that likes the cat that smiles .	on olemas kass kes naeratab või kes meeldib kassi kes naeratab .
 there is a child of a man . the child waits .	mees [of_Prep] on laps . laps ootab .
-There is a city in which John lives.	
 there is a code of a card . every card a code of which is correct is valid .	kaart [of_Prep] on kood . [every_Det] kaart kes [of_Prep] kood on korrektne on kehtiv .
 there is a code of a card . every card the code of which is correct is valid .	kaart [of_Prep] on kood . [every_Det] kaart kes [of_Prep] kood on korrektne on kehtiv .
-There is a code of a card. Every card whose code is correct is valid.	
 there is a code of a card . if the code of a card is correct then the card is valid .	kaart [of_Prep] on kood . [if_Subj] kaardi kood on siis korrektne kaart on kehtiv .
 there is a code of a card . the code of a card is correct . the card is valid .	kaart [of_Prep] on kood . kaardi kood on korrektne . kaart on kehtiv .
-There is a company from which John awaits a delivery.	
-There is a company from who John awaits a delivery.	
-There is a company that John awaits a delivery from.	
 there is a customer such that the customer has a card and the customer has a code .	[that_Subj] meesklient oleb kaardi on meesklient niisugune ja meesklient oleb koodi .
 there is a customer . the customer enters a card or drops it . he is angry .	on olemas meesklient . meesklient sisestab kaardi või [drop_V2] [it_Pron] [drop_V2] . [he_Pron] olen ärritunud .
 there is a customer . the customer enters a card or he drops it . he is angry .	on olemas meesklient . meesklient sisestab kaardi või [he_Pron] [drop_V2] [it_Pron] [drop_V2] [drop_V2] . [he_Pron] olen ärritunud .
@@ -2307,7 +1432,6 @@ there is a dog . every man likes the dog . there is a dog . every woman hates th
 there is a dog . for all dogs a man sees the dog .	on olemas koer . [all_Predet] koerad [for_Prep] mees näeb koera .
 there is a dog . for every dog a man sees the dog .	on olemas koer . [every_Det] koer [for_Prep] mees näeb koera .
 there is a dog . it of a man waits .	on olemas koer . [CountNP] ootan .
-There is a dog Muri. Each of some men who own Muri owns Muri.	
 there is a dog . not each of a customer and a clerk waits .	on olemas koer . ei [CountNP] ootan .
 there is a dog . not for each of a customer and a clerk a code is valid .	on olemas koer . ei [CountNP] ja ametnik [for_Prep] kood on kehtiv .
 there is a dog of 5 men .	5 meest [of_Prep] on koer .
@@ -2315,7 +1439,6 @@ there is a dog of a cat and a rat .	kass ja reetur [of_Prep] on koer .
 there is a dog of a cat of a rat .	reeturi kass [of_Prep] on koer .
 there is a dog of every man .	[every_Det] mees [of_Prep] on koer .
 there is a dog of every man . there is a cat of every woman .	[every_Det] mees [of_Prep] on koer . [every_Det] naine [of_Prep] on kass .
-There is a dog of John. There is a dog of Mary. The dog of John barks.	
 there is a dog that barks .	on olemas koer kes haukub .
 there is a dog that nobody likes .	on olemas koer kelle [nobody_NP] meeldin .
 there is a dog that sees the man or there is a cat that sees it .	on olemas koer kes näeb meest või on olemas kass kes näeb [it_Pron] .
@@ -2333,9 +1456,6 @@ there is a machine . it controls itself .	on olemas masin . [it_Pron] kontrollin
 there is a man .	on olemas mees .
 there is a man 3 dogs of which bark .	on olemas mees kelled [of_Prep] 3 koera haukuvad .
 there is a man 3 dogs of who bark .	on olemas mees kelled [of_Prep] 3 koera haukuvad .
-There is a man A. A are happy.	
-There is a man A. A is happy.	
-There is a man A. A sees himself.	
 there is a man . a clerk checks his card .	on olemas mees . ametnik kontrollib [he_Pron] kaarti .
 there is a man . a clerk enters every card of him .	on olemas mees . ametnik sisestab [he_Pron] [of_Prep] [every_Det] kaardi .
 there is a man . a clerk gives a card to him .	on olemas mees . ametnik annab [he_Pron] [to_Prep] kaardi .
@@ -2351,14 +1471,11 @@ there is a man a dog of who barks and who eats .	on olemas mees kes [of_Prep] ko
 there is a man a dog of who barks . the dog eats .	on olemas mees kes [of_Prep] koer haukub . koer sööb .
 there is a man a dog of who barks . the man eats .	on olemas mees kes [of_Prep] koer haukub . mees sööb .
 there is a man a dog of who barks . there is a man a dog of who eats . the man a dog of who barks waits .	on olemas mees kes [of_Prep] koer haukub . on olemas mees kes [of_Prep] koer sööb . mees kes [of_Prep] koer haukub ootab .
-There is a man a dog of whose cat sleeps.	
 there is a man a dog that eats of who barks .	on olemas mees [FocusObjS] mis [of_Prep] [whoSg_IP] haukub .
 there is a man a dog who eats of who barks .	on olemas mees koera [whoSg_IP] sööb mis [of_Prep] [whoSg_IP] haukub .
 there is a man . a group is a dog of the man and the man .	on olemas mees . grupeerima on mehe koer ja mees .
 there is a man . a group is the man and a dog of the man .	on olemas mees . grupeerima on mees ja mehe koer .
 there is a man a laundry of who collapses .	on olemas mees kes [of_Prep] pesu [collapse_V] [collapse_V] .
-There is a man at least 3 cars of who are liked by Mary.	
-There is a man A who sees A. There is a man who sees John. John watches the man who sees him. John watches the man who sees A.	
 there is a man . everybody of his dog waits .	on olemas mees . [everybody_NP] [he_Pron] koer [of_Prep] ootan .
 there is a man . every dog sees him and hears him .	on olemas mees . [every_Det] koer näeb [he_Pron] ja kuulab [he_Pron] .
 there is a man . every man sees the man .	on olemas mees . [every_Det] mees näeb meest .
@@ -2367,7 +1484,6 @@ there is a man . he sees a card .	on olemas mees . [he_Pron] näen kaarti .
 there is a man . he sees himself .	on olemas mees . [he_Pron] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] .
 there is a man . he waits .	on olemas mees . [he_Pron] ootan .
 there is a man . he waits . his card is correct .	on olemas mees . [he_Pron] ootan . [he_Pron] kaart on korrektne .
-There is a man. He whose dog barks waits.	
 there is a man . he who waits eats .	on olemas mees . [he_Pron] [whoSg_IP] ootab sööb .
 there is a man . his brother sees himself .	on olemas mees . [he_Pron] [brother_N] näeb ennast .
 there is a man . his card is correct .	on olemas mees . [he_Pron] kaart on korrektne .
@@ -2383,24 +1499,6 @@ there is a man . his wife waits .	on olemas mees . [he_Pron] naine ootab .
 there is a man . if the man enters a card then the card is correct .	on olemas mees . [if_Subj] mees sisestab siis kaardi kaart on korrektne .
 there is a man . if the man enters a card then the card is correct . he sleeps .	on olemas mees . [if_Subj] mees sisestab siis kaardi kaart on korrektne . [he_Pron] magan .
 there is a man . if there is the man then a dog barks .	on olemas mees . [if_Subj] siis on mees koer haukub .
-There is a man John.	
-There is a man John. A man Bob brings him his pencil and his own computer.	
-There is a man. John checks his card.	
-There is a man. John does not like the man.	
-There is a man. John enters every card which is his card.	
-There is a man. John is the man and a dog of the man.	
-There is a man. John is the man and a man.	
-There is a man. John is the man and the man.	
-There is a man John. John sleeps.	
-There is a man.John sees a card in his hand.	
-There is a man. John sees him.	
-There is a man. John sees him. John checks his card. John sees a card in his hand.	
-There is a man. John sees Mary and a dog and the man.	
-There is a man. John sees Mary and a dog and the man. The man waits.	
-There is a man. John sees the man. The man does not sleep.	
-There is a man or the man does not sleep and John sees the man.	
-There is a man or the man does not sleep, and John sees the man.	
-There is a man or the man does not sleep or John sees the man.	
 there is a man or the man sleeps .	on olemas mees või mees magab .
 there is a man or there is a dog or there is a cat that sees it and him .	on olemas mees või on olemas koer või on olemas kass kes näeb [it_Pron] ja [he_Pron] .
 there is a man or there is a dog that sees him or there is a cat that sees him .	on olemas mees või on olemas koer kes näeb [he_Pron] või on olemas kass kes näeb [he_Pron] .
@@ -2427,7 +1525,6 @@ there is a man that eats , and that drinks or that sleeps .	on olemas mees kes s
 there is a man that eats , and that drinks or that sleeps and that waits .	on olemas mees kes sööb , ja [that_Quant] joob või [that_Quant] magab ja [that_Quant] ootab .
 there is a man that eats , and that drinks or that sleeps , and that waits .	on olemas mees kes sööb , ja [that_Quant] joob või [that_Quant] magab , ja [that_Quant] ootab .
 there is a man that eats or drinks .	on olemas mees [that_Subj] sööb või joob .
-There is a man that John is not.	
 there is a man that likes a cat and that sees the cat .	on olemas mees kes meeldib kassi ja kes näeb kassi .
 there is a man that likes a cat and that sees the cat that smiles .	on olemas mees kes meeldib kassi ja kes näeb kassi kes naeratab .
 there is a man that must feed every dog . there is a man that must feed every cat . the man that must feed every dog feeds himself .	on olemas mees kes [must_VV] [every_Det] koera toita [must_VV] . on olemas mees kes [must_VV] [every_Det] kassi toita [must_VV] . mees kes [must_VV] [every_Det] koera toita [must_VV] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] .
@@ -2459,7 +1556,6 @@ there is a man . there is a boy . the man sees the boy .	on olemas mees . on ole
 there is a man . there is a card of him .	on olemas mees . [he_Pron] [of_Prep] on kaart .
 there is a man . there is a card or the man inserts it .	on olemas mees . on olemas kaart või mees sisestab [it_Pron] .
 there is a man . there is a dog . if there is he then there is it .	on olemas mees . on olemas koer . [if_Subj] seal kas [he_Pron] olen siis on olemas [it_Pron] .
-There is a man. There is a dog. John beats his dog.	
 there is a man . there is a man such that the man sees him .	on olemas mees . [that_Subj] mees näeb [he_Pron] on mees niisugune .
 there is a man . there is a woman . his and her dog barks .	on olemas mees . on olemas naine . [he_Pron] ja [she_Pron] koer haukub .
 there is a man . there is a woman . there are the man and the woman .	on olemas mees . on olemas naine . on olemas mees ja naine .
@@ -2471,24 +1567,14 @@ there is a man . there is the man .	on olemas mees . on olemas mees .
 there is a man . there is the woman .	on olemas mees . on olemas naine .
 there is a man who can eat . the man who can eat drinks .	on olemas mees [whoSg_IP] [can_1_VV] süüa [can_1_VV] . mees [whoSg_IP] [can_2_VV] joogid süüa [can_2_VV] .
 there is a man who can not wait patiently . a girl sees the man who can not wait .	kannatlikult on mees kes ei [can_2_VV] ootada [can_2_VV] . tüdruk näeb meest [whoSg_IP] ei [can_1_VV] ootada [can_1_VV] .
-There is a man who cannot wait patiently. John sees the man who cannot wait.	
 there is a man who can wait . the man who can wait sleeps .	on olemas mees [whoSg_IP] [can_1_VV] ootada [can_1_VV] . mees kes [can_1_VV] ootada [can_1_VV] magab .
 there is a man who does not have to eat . the man who does not have to eat drinks .	on olemas mees [whoSg_IP] ei ole süüa . mees [whoSg_IP] ei ole jooke süüa .
-There is a man who does not provably eat. The man who does not provably eat drinks.	
 there is a man who does not see every dog that he sees . a man who sees a dog and who does not see the dog waits .	[that_Subj] [he_Pron] näen on mees kes ei näe [every_Det] koera . mees kes näeb koera ja kes ei näe koera ootab .
 there is a man who does not see every dog that he sees . the man who sees a dog and who does not see the dog waits .	[that_Subj] [he_Pron] näen on mees kes ei näe [every_Det] koera . mees kes näeb koera ja kes ei näe koera ootab .
-There is a man who does not sleep and John sees the man.	
-There is a man who does not sleep. John sees the man.	
-There is a man who does not sleep. John sees the man who does not sleep.	
-There is a man who does not sleep or John sees the man.	
 there is a man who does not sleep soundly in a bed in a morning .	hommik [in_Prep] on mees kes ei maga hääldamalt kiht [in_Prep] .
-There is a man who does not sleep soundly in a bed in a morning. John sees the man who does not sleep soundly in a bed in a morning.	
-There is a man who does not sleep. There is a man who sleeps. John sees the man who does not sleep.	
-There is a man who does not sleep. There is a woman who does not wait. John sees the man who does not sleep.	
 there is a man who does not wait . a girl sees the man who does not wait .	on olemas mees [whoSg_IP] ei oota . tüdruk näeb meest [whoSg_IP] ei oota .
 there is a man who does not wait patiently . a girl sees the man who does not wait .	kannatlikult on mees kes ei oota . tüdruk näeb meest [whoSg_IP] ei oota .
 there is a man who does not wait patiently . there is a man who does not sleep . a girl sees the man who does not wait . a boy expects the man who does not sleep .	kannatlikult on mees kes ei oota . on olemas mees [whoSg_IP] ei maga . tüdruk näeb meest [whoSg_IP] ei oota . poiss eeldab meest [whoSg_IP] ei maga .
-There is a man who does not wait patiently. There is a man who does not sleep. John sees the man who does not wait. Mary expects the man who does not sleep.	
 there is a man who every dog sees . the man who every dog sees eats .	on olemas mees keda [every_Det] koer näeb . mees keda [every_Det] koer näeb sööb .
 there is a man who feeds every dog . there is a man who feeds every cat . the man who feeds every dog waits .	on olemas mees [whoSg_IP] toidab [every_Det] koera . on olemas mees [whoSg_IP] toidab [every_Det] kassi . mees kes toidab [every_Det] koera ootab .
 there is a man who he sees .	on olemas mees keda [he_Pron] näen .
@@ -2498,20 +1584,7 @@ there is a man who is rich and famous . the man who is famous and rich eats .	on
 there is a man who is rich and famous . the man who is rich eats .	on olemas mees [whoSg_IP] on rikas ja kuulus . mees kes on rikas sööb .
 there is a man who knows that a dog barks . the man who knows that a dog barks waits .	on olemas mees [whoSg_IP] teaab et koer haukub . mees kes teaab et koer haukub ootab .
 there is a man who knows who ?	on olemas mees [whoSg_IP] teaab [whoSg_IP] ?
-There is a man who Mary is seen by.	
-There is a man who must wait patiently. John sees the man who must wait.	
-There is a man who must wait patiently. There is a man who can sleep. John sees the man who must wait. Mary expects the man who can sleep.	
-There is a man who owns a dog. There is a man who owns a cat. John sees the man. John sees the man who owns the dog.	
-There is a man who owns a dog. There is a man who owns a cat. John sees the man who owns a dog.	
-There is a man who owns a dog. There is a man who owns a cat. John sees the man who owns the dog.	
 there is a man who owns each of 3 dogs . the man who owns each of 3 dogs waits .	on olemas mees [whoSg_IP] omab [CountNP] . mees kes omab [CountNP] ootab .
-There is a man whose dog barks. A dog of a man sleeps.	
-There is a man whose dog barks and whose cat eats.	
-There is a man whose dog barks. The dog of a man sleeps.	
-There is a man whose dog barks. The dog of the man sleeps.	
-There is a man whose dog barks. There is a woman whose dog barks.	
-There is a man whose dog is happy.	
-There is a man whose dog waits.	
 there is a man who sees a big dog . there is a man who sees a small dog . the man who sees a big dog waits .	on olemas mees [whoSg_IP] näeb oluliselti koera . on olemas mees [whoSg_IP] näeb väikest koera . mehe [whoSg_IP] näeb et oluliselt koer ootab .
 there is a man who sees a dog and who the dog does not see .	on olemas mees kes näeb koera ja keda koer ei näe .
 there is a man who sees a dog or who sees a cat . the man who sees a dog or who sees a cat waits .	on olemas mees kes näeb koera või kes näeb kassi . mees kes näeb koera või kes näeb kassi ootab .
@@ -2521,18 +1594,10 @@ there is a man who sees every dog that sees a cat .	on olemas mees [whoSg_IP] n�
 there is a man who sees every dog that sees a cat . the man who sees every dog that sees a cat waits .	on olemas mees [whoSg_IP] näeb [every_Det] koera kes näeb kassi . mees [whoSg_IP] näeb et [every_Det] koer kes näeb kassi ootab .
 there is a man who sees every dog . the man who sees every dog waits .	on olemas mees [whoSg_IP] näeb [every_Det] koera . mees [whoSg_IP] näeb et [every_Det] koer ootab .
 there is a man who sees himself .	on olemas mees kes näeb ise .
-There is a man who sees himself. John watches the man who sees himself.	
-There is a man who sees himself. There is a man who sees John. John watches the man who sees him. John watches the man who sees himself.	
-There is a man who sees John and Mary. The man who sees John and Mary waits.	
-There is a man who sees John and Mary. The man who sees Mary and Bill waits.	
-There is a man who sees John and Mary. The man who sees Mary and John waits.	
 there is a man who sees no dog . the man who sees no dog waits .	on olemas mees [whoSg_IP] näeb [no_Quant] koera . mees [whoSg_IP] näeb et [no_Quant] koer ootab .
 there is a man who sees some women .	on olemas mees [whoSg_IP] näeb [some_Quant] naisi .
 there is a man who sees the man .	on olemas mees [whoSg_IP] näeb meest .
-There is a man whose good friend is Bill.	
 there is a man who sleeps in a bed in the morning . there is a man who sleeps in a bank . the man who sleeps in the morning is tired .	hommik [in_Prep] on mees kes magab kiht [in_Prep] . pank [in_Prep] on mees kes magab . mees kes magab hommik [in_Prep] on väsinud .
-There is a man who sleeps in the morning in a bed. John sees the man who sleeps in a bed in the morning.	
-There is a man who sleeps on a bank. There is a man who sleeps on a bed. John sees the man who sleeps on a bank.	
 there is a man who sleeps safely and soundly . there is a man who sleeps fitfully . the man who sleeps safely is happy .	kaitstult ja hääldamalt on mees kes magab . hootiselt on mees kes magab . mees kes magab kaitstult on õnnelik .
 there is a man who some women see .	on olemas mees keda [some_Quant] naised näevad .
 there is a man who the man sees .	on olemas mees keda mees näeb .
@@ -2548,7 +1613,6 @@ there is a man who walks or who talks . the man who talks or who walks eats .	on
 there is a man who walks or who talks . the man who walks or who talks eats .	on olemas mees kes jalutab või kes kõneleb . mees kes jalutab või kes kõneleb sööb .
 there is a more important person .	on olemas olulisem isik .
 there is a most important person .	on olemas kõige olulisem isik .
-There is an as important as Mary customer.	
 there is a park . a dog barks in it .	on olemas park . koer haukub [it_Pron] [in_Prep] .
 there is a park in which a dog barks .	on olemas park kes [in_Prep] koer haukub .
 there is a price of a resource . the price of a resource is high . the resource is valid .	ressurss [of_Prep] on auhind . ressursi auhind on joobes . ressurss on kehtiv .
@@ -2563,24 +1627,11 @@ there is a red man and there is a blue man and the man feeds a dog and the dog t
 there is a red man . the man sleeps .	on olemas punane mees . mees magab .
 there is at least 1 man . the man is happy .	on olemas [at_least_AdN] 1 mees . mees on õnnelik .
 there is at least 1 man . the men are happy .	on olemas [at_least_AdN] 1 mees . mehed on õnnelikud .
-There is a vehicle which is a red Ford.	
 there is a water . there is some water . the water is wet .	on olemas vesi . on olemas [some_Quant] vesi . vesi on märg .
 there is a water . the water is wet .	on olemas vesi . vesi on märg .
-There is Bill.	
 there is each of 3 men .	on olemas [CountNP] .
 there is everybody such that he eats .	[that_Subj] [he_Pron] söön olen [everybody_NP] niisugune .
 there is every man .	on olemas [every_Det] mees .
-There is how much food of John?	
-There is John.	
-There is John. A man brings him his pencil and brings him his own computer.	
-There is John and there is a card that John enters. Does John enter the card?	
-There is John and there is Mary. He and she wait.	
-There is John. Bill sees him. He walks.	
-There is John. John walks.	
-There is John. Mary sees him. He walks.	
-There is John or there is Mary.	
-There is John. Peter sees him. He walks.	
-There is John who Mary is seen by.	
 there is more than 1 dog .	on olemas [more_than_AdN] 1 koer .
 there is more than 1 kg of laundry .	pesu [of_Prep] on [more_than_AdN] 1 kg .
 there is nobody .	on olemas [nobody_NP] .
@@ -2611,11 +1662,9 @@ there is somebody such that he eats .	[that_Subj] [he_Pron] söön olen [somebod
 there is somebody . there is something . he waits .	on olemas [somebody_NP] . on olemas [something_NP] . [he_Pron] ootan .
 there is somebody . they wait .	on olemas [somebody_NP] . [they_Pron] ootan .
 there is somebody who sees nothing .	on olemas [somebody_NP] [whoSg_IP] näeb [nothing_NP] .
-There is some fluid. How many liters of the fluid are there?	
 there is some laundry .	on olemas [some_Quant] pesu .
 there is some laundry . it is clean .	on olemas [some_Quant] pesu . on laitmatu .
 there is some laundry . it sees itself .	on olemas [some_Quant] pesu . [it_Pron] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] .
-There is some laundry. It sees its own dog.	
 there is some laundry . the laundry is clean .	on olemas [some_Quant] pesu . pesu on laitmatu .
 there is some laundry . there is a dog . it is clean .	on olemas [some_Quant] pesu . on olemas koer . on laitmatu .
 there is some men .	on olemas [some_Quant] mehed .
@@ -2626,42 +1675,29 @@ there is some toxicity . the toxicity is high .	on olemas [some_Quant] mürgisus
 there is some water a man of which waits .	on olemas [some_Quant] vesi kes [of_Prep] mees ootab .
 there is some water . there is a water . the water is wet .	on olemas [some_Quant] vesi . on olemas vesi . vesi on märg .
 there is some water . the water is wet .	on olemas [some_Quant] vesi . vesi on märg .
-There is some water whose man waits.	
-There is the dog of John.	
 there is the man .	on olemas mees .
-There is the man A.	
 there is the name of the dog of a man and a woman .	mehe koer ja naine [of_Prep] on kuulsus .
 there is which man ?	seal on [which_IQuant] mees ?
 there is who ?	seal on [whoSg_IP] ?
-the screen blinks and John waits.	
 the small card is green . a big card is red . the small card is valid .	väike kaart on roheline . oluliselt kaart on punane . väike kaart on kehtiv .
 the small card is green . the big card is red . the small card is valid .	väike kaart on roheline . oluliselt kaart on punane . väike kaart on kehtiv .
 the surface of the card has a green color .	kaardi lihvima oleb rohelise jumestama .
 the train arrives in the station in the morning .	rong saabub hommik [in_Prep] jaam [in_Prep] .
 the water flows .	vesi menstrueerib .
 the waters are deep .	veed on paksud .
-This is not an ACE text!!!	
-VisaCards wait.	
 what are some men ?	[whatSg_IP] [some_Quant] mehed on ?
-What are the cars of John?	
 what can a customer enter ?	[whatSg_IP] meesklient [can_1_VV] sisestada [can_1_VV] ?
 what can a man not have ?	[whatSg_IP] mees ei [can_1_VV] oleda [can_1_VV] ?
 what does a man enter ?	[whatSg_IP] mees sisestab ?
 what does a man look at ?	[whatSg_IP] mees otsib mis [at_Prep] ?
-What does John live in?	
-What does John not like?	
-What does John not see?	
-What does not a customer enter?	
 what does the customer insert ?	[whatSg_IP] meesklient sisestab ?
 what does who see ?	[whatSg_IP] piisab [whoPl_IP] näeb ?
 what is a dog living in ?	[whatSg_IP] [PresPartAP] koer on ?
-What is given to Mary by John?	
 what is nothing ?	[whatSg_IP] [nothing_NP] olen ?
 what is something that is not something ?	[whatSg_IP] [something_NP] olen [that_Quant] ei ole [something_NP] ?
 what is when ?	[whatSg_IP] on [when_Subj] ?
 what is written by a man ?	[whatSg_IP] kirjutab ?
 what is written by who ?	[whatSg_IP] kirjutab mis [by_Prep] [whoSg_IP] ?
-What John does not like?	
 what must a customer enter ?	[whatSg_IP] meesklient [must_VV] sisestada [must_VV] ?
 what must a man own ?	[whatSg_IP] mees [must_VV] omada [must_VV] ?
 what sees itself ?	[whatSg_IP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] ?
@@ -2681,10 +1717,7 @@ where can a card be bought by a customer ?	[where_IAdv] kaart [can_1_VV] osta [c
 where can an escaped prisoner be ?	[where_Subj] kanister [PastPartAP] vang olema ?
 where can an escaped prisoner be rich ?	[where_IAdv] [PastPartAP] vang [can_1_VV] rikas olla [can_1_VV] ?
 where can which cards be bought by a customer ?	[where_Subj] kanister [which_IQuant] kaardid olema [PastPartAgentAP] ?
-Where can which cards be bought by which customers of John?	
-Where does a ball in a park hit John?	
 where does a customer enter a card ?	[where_IAdv] meesklient sisestab kaardi ?
-Where does a man A wait?	
 where does a man enter a card ?	[where_IAdv] mees sisestab kaardi ?
 where does a man enter every card ?	[where_IAdv] mees sisestab [every_Det] kaardi ?
 where does a man enter no card ?	[where_IAdv] mees sisestab [no_Quant] kaardi ?
@@ -2693,18 +1726,11 @@ where does a man quickly run ?	[where_IAdv] mees äkiliselt jookseb ?
 where does a man run ?	[where_IAdv] mees jookseb ?
 where does a man run quickly ?	[where_IAdv] mees jookseb äkiliselt ?
 where does a man wait ?	[where_IAdv] mees ootab ?
-Where does Bill give what to who?	
-Where does John come from?	
-Where does John live?	
-Where does John live in?	
-Where does not a customer enter a card?	
 where does the man live ?	[where_IAdv] mees elab ?
 where does the man live ? who lives in the town ?	[where_IAdv] mees elab ? [whoSg_IP] elab linn [in_Prep] ?
 where is a card entered by a customer ?	[where_IAdv] kaart sisestab ?
-Where is Bill?	
 where must a customer enter a card ?	[where_IAdv] meesklient [must_VV] kaardi sisestada [must_VV] ?
 which bank which a man enters is good ?	[which_IQuant] pank kelle mees sisestab on hea ?
-Which card is seen by John?	
 which card of a man is valid ?	[which_IQuant] mehe kaart on kehtiv ?
 which card of which man is valid ?	[which_IQuant] kaart kes [of_Prep] mees on kehtiv ?
 which card of who is valid ?	[which_IQuant] kaart mis [of_Prep] [whoSg_IP] on kehtiv ?
@@ -2717,19 +1743,12 @@ which code does who enter ?	[which_IQuant] kodeerivad [doe_N] [whoPl_IP] siseneb
 which code has a customer to enter ?	[which_IQuant] kood oleb meeskliendi sisestada ?
 which code is there ?	[which_IQuant] kood on olemas ?
 which codes must a customer enter ?	[which_IQuant] koodid meesklient [must_VV] sisestada [must_VV] ?
-Which customer does John not provably know?	
-Which customer does John not provably not know?	
 which customer does not provably wait ?	[which_IQuant] meesklient piisab ei tõendatava ootamine ?
 which customer inserts a card ?	[which_IQuant] meesklient sisestab kaardi ?
-Which dog of John barks?	
-Which dog of John waits?	
 which dog of which cat barks ?	[which_IQuant] koer kes [of_Prep] kass haukub ?
 which dog of which man sleeps ?	[which_IQuant] koer kes [of_Prep] mees magab ?
 which dog of who likes who ?	[which_IQuant] koer mis [of_Prep] [whoSg_IP] justkuid [whoSg_IP] ?
 which dogs of a man are there ?	[which_IQuant] mehe koerad on olemas ?
-Which dogs of John bark?	
-Which film contains a role that a person A performs, and contains a role that depicts A and that a person that is not A performs?	
-Which film contains a role that which person A performs, and contains a role that depicts A and that a person that is not A performs?	
 which man does not wait ?	[which_IQuant] mees ei oota ?
 which man eats and drinks ?	[which_IQuant] mees sööb [ConjDet] joogi ?
 which man gives which cat which which dog chases which apple which what eats ?	[QuestQVP] [which_IQuant] [QuestQVP] [which_IQuant] [whatSg_IP] sööb ?
@@ -2741,17 +1760,13 @@ which man the dog of who sees a bone is there ?	[which_IQuant] mees kes [of_Prep
 which man the dog of who sees a bone waits ?	[which_IQuant] mees kes [of_Prep] koer näeb konti ootab ?
 which man waits ?	[which_IQuant] mees ootab ?
 which man who eats waits ?	[which_IQuant] mees kes sööb ootab ?
-Which man whose dog barks waits?	
-Which man whose dog sees a bone waits?	
 which men are there ?	[which_IQuant] mehed on olemas ?
 which men give which flowers to which women ?	[QuestQVP] ?
 which men wait ?	[which_IQuant] mehed ootavad ?
 which thing which is good does a man enter ?	[which_IQuant] asja kes on hea mees sisestab ?
 which thing which succeeds exists ?	[which_IQuant] asi kes [succeed_V] [succeed_V] eksisteerib ?
-Who are the children of John?	
 who does a dog see who is a man ?	[whoSg_IP] kas koer näeb [whoSg_IP] on mees ?
 who does a man hit ?	[whoSg_IP] piisab [CompoundN] ?
-Who does John not see?	
 who does not see himself ?	[whoSg_IP] ei näe ennast ?
 who does not see who who does not see himself ?	[whoSg_IP] ei näe [whoSg_IP] [whoSg_IP] ei näe ennast ?
 who does not wait ?	[whoSg_IP] ei oota ?
@@ -2768,16 +1783,9 @@ who is in the park in the town ?	[whoSg_IP] on linn [in_Prep] park [in_Prep] ?
 who is known by somebody that knows who ?	[DirectComplVQ] [whoSg_IP] ?
 who is somebody that somebody that knows who knows ?	[whoSg_IP] [somebody_NP] [that_Subj] [FocusObjS] olen [whoSg_IP] teaab ?
 who is there ?	[whoSg_IP] on olemas ?
-Who likes nothing but Mary?	
 who likes nothing but raw meat ?	[whoSg_IP] meeldib [nothing_NP] ent [raw_A] iva ?
 who of a man waits ?	[whoSg_IP] mees [of_Prep] ootab ?
 who runs and hits himself ?	[whoSg_IP] jookseb ja [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] ?
-Whose card is valid?	
-Whose child is Mary and is nothing but Mary?	
-whose dog barks?	
-Whose dog barks.	
-Whose dogs wait?	
-Whose dog waits?	
 who sees herself ?	[whoSg_IP] näeb ennast ?
 who sees himself ?	[whoSg_IP] näeb ennast ?
 who sees itself ?	[whoSg_IP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] ?
@@ -2785,7 +1793,6 @@ who sees themselves ?	[whoSg_IP] näeb ennast ?
 who sees who ?	[whoSg_IP] näeb [whoSg_IP] ?
 who sees who who does not see himself ?	[whoSg_IP] näeb [whoSg_IP] [whoSg_IP] ei näe ennast ?
 who see themselves ?	[whoPl_IP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] [SelfAdvVP] ?
-Who sleeps? John waits.	
 who that waits sleeps ?	[whoSg_IP] [that_Quant] ootab magamaid ?
 who wait ?	[whoPl_IP] ootab ?
 who waits ?	[whoSg_IP] ootab ?
